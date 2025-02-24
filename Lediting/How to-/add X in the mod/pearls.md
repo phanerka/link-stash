@@ -1,8 +1,5 @@
----
-dg-publish: true
----
-#crs required
+#crs required  
 PORL
 
-Adding pearl dialogue: 
+Adding pearl dialogue:   
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#pearls
