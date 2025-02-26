@@ -10,7 +10,7 @@ need to check this one once again. with palette creator
 and maybe add it as link to respective pages
 
 
-
+https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/BepInEx_Files#Mod_Lifecycle_Functions
 
 
 yet another blender file n explanation  

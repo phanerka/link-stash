@@ -13,7 +13,7 @@ If you're planning to [[add new shader|make shaders]] or make Debug version of R
 > [!info] Disclaimer  
 > It's your choice whether you want to do it or not.  
  >   
-> Personally I advise to set up it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.  
+> Personally I advise to set it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.  
 > But Debug World is proven to be problematic with *any* enabled mod that has custom region and sometimes is hard to attach to.
 
 - Debug world versions of Rain World  
@@ -21,7 +21,7 @@ If you're planning to [[add new shader|make shaders]] or make Debug version of R
 	- another one made by stupid me who likes to do things the hard way. Oh well. At least I put some additional info in there.   
 	Just unzip the files and replace them in RW game folder.  
 	If the game breaks on start: delete `Rain World\BepInEx\config\BepInEx.cfg` and restart the game.  
-	If the game breaks on loading: some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Making a region TO-DOs#Region baking|this]] for proper baking instructions.  
+	If the game breaks on loading: some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region making TO-DOs#Region baking|this]] for proper baking instructions.  
 - [DnSpy](https://github.com/dnSpyEx/dnSpy)  
 ### Things to learn  
 [Technical Glossary](https://rainworld.miraheze.org/wiki/Technical_Glossary)

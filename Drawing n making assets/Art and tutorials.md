@@ -1,4 +1,7 @@
-**All of them are unofficial.**
+**All of them are unofficial.**  
+For art, tutorials and Q&A made by official artists (and posts on examining their art), head to
+- [[make a mod thumbnail]] (self explanatory)
+- [[make a scene]] (for everything else)
 
 i need to also make my own guide someday.... somehow... ( , \_,)
 
@@ -14,17 +17,7 @@ https://drive.google.com/drive/mobile/folders/1mQum-7hxMhYoyG97QF-g36k4CSX-PKrN
 https://drive.google.com/drive/folders/1idv_inBpwTXj5oa5ajnvNF14TUS31Mpd?usp=share_link  
 2024 when....
 
-brushes  
-https://www.tumblr.com/deldraws/34800237034/anybody-know-any-good-painting-brushes-for
 
-Breaking down official RW art  
-https://tibialtybalt.tumblr.com/post/740236289918582785/actually-lets-make-a-separate-post-for-this-one
-
-attempt to copy RW style ig  
-https://www.youtube.com/watch?v=gKoPMnomo2w&t=128s
-
-Notes on coloring  
-https://www.tumblr.com/a-stardusted-sky/736666180473028608/do-you-have-any-tips-on-how-to-mimic-rain-worlds  
 ### Slugcats  
 "That one reference"
 
@@ -70,7 +63,3 @@ https://www.reddit.com/r/rainworld/comments/11af1kp/a_while_ago_someone_said_the
 
 ### Miros birds  
 https://www.reddit.com/r/rainworld/comments/11epjt9/miros_birds_suggested_by_utriensi/  
-# Downpour  
-"How to draw in mod thumbnail style":  
-https://www.tumlook.com/kelocitta/post/766252700934471680  
-https://www.tumblr.com/kelocitta/718680465870077952/hey-your-art-styles-really-cool-especially-the

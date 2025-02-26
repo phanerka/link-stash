@@ -17,6 +17,11 @@ never thought id be interested in that
 https://discord.com/channels/291184728944410624/824027398948782180/1243298921313210378 TODO check it again btw  
 https://drive.google.com/file/d/1CidI5gOyqZCjK7txbibBp7xnZUJzLVPM/view
 
+##### TAS mods
+https://steamcommunity.com/sharedfiles/filedetails/?id=3237312844
+
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3163948083
 https://github.com/alphappy/TAMacro  
 preview?... or is it outdated  
 https://discord.com/channels/291184728944410624/406092161281687572/1211098401509474324
@@ -27,3 +32,4 @@ https://discord.com/channels/1083481230839922688/1083484108056957089/12368536485
   
 mod that shows input: here ig  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3157558337
+

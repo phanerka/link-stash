@@ -1,7 +1,7 @@
 > [!warning] That's not entire list. Some mods are more niche and mentioned in "How-to"s
 
 Must-haves:  
-- Dev Tools ([wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools), [video guide](https://www.youtube.com/watch?v=ggpKX6IJVFg)): a classic. You cannot finish a room without devtools. Literally.  
+- Dev Tools ([wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools), [video guide](https://www.youtube.com/watch?v=ggpKX6IJVFg), [more exhaustive but incomplete video guide](https://www.youtube.com/watch?v=49ImiszhCe0)): a classic. You cannot finish a room without devtools. Literally.  
 For Dev Tools plugins, check [[Coding/Useful mods list|coding section]].   
 - [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) *bruh*): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors during room creation process.   
 - [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): teleports to any room in game. Unless you modify connections to existing rooms, you will have no way to access the one you just added in the game.
@@ -11,9 +11,9 @@ Recommended:
 - [Stuck in a Cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552): helps to edit the room in Dev Tools without worries that rain will eventually come. More info [[preview your room in the game#Rain disable|here]].  
 - [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory. For room recording, refer to [[Recording rooms|this]].  
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[create custom palette]]" file for working one.  
-- [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Making a region TO-DOs#Region naming|acronym]].  
+- [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Region making TO-DOs#Region naming|acronym]].  
 - [Region Title Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2998885818): TODO to be added  
-- [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310): to reset creature spawns in the region. More info [[Making a region TO-DOs#world-xx.txt|here]] in warning block.
+- [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310): to reset creature spawns in the region. More info [[Region making TO-DOs#world-xx.txt|here]] in second warning block.
 
 ##### Dependencies  
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more devtools objects.   

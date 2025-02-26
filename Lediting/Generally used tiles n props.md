@@ -1,4 +1,6 @@
 (WIP) thats more of a personal file, but i dont mind it sharing. if u understand it, ofc.  
+
+Press Q in leditor to colorpick a tile/prop.
 ### SS / Superstructure / Five Pebbles  
 Pipe entrance mostly is in crawl area
 

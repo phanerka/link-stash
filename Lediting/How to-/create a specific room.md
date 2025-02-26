@@ -20,6 +20,11 @@ GATE_XX_YY : DISCONNECTED, YY_A01 : GATE
 4. youll also need to use a modify file for `world/gates/locks.txt`, to add your gates locks in the format:  
 `[ADD]GATE_XX_YY : KARMALEFT : KARMARIGHT` (where karmaleft and karmaright are numbers 1-5. also regionkit has some custom gate lock stuff, check it out on the github)
 
+
+egates.txt and locks.txt (probs describe here cause there's too little info on wiki) 
+
+Electric gates:
+https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#egates.txt
 ### More gate customization #regionKit
 
 If you want to:  
@@ -31,7 +36,8 @@ https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/ExtendedGates.md 
 https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/GateCustomization.md (for everything else)
 
 # Shelter  
-TODO add notes on shelter tiles usage, probs with preview  
+TODO add notes on shelter tiles usage, probs with preview
+also, regionkit seems to add some dev objects
 ### YT tutorials  
 Part 1 (shelter creation basics):  
 https://www.youtube.com/watch?v=nwpcTGyYTwY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=6  

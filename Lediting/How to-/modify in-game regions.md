@@ -14,13 +14,15 @@ This way, its possible to modify:
 - batfly spawner location  
 - amount and location of pipe connections  
 - water level  
+> [!info] Wormgrass can also be modified via regionkit iirc, without having to touch files.  
 https://ln5.sync.com/dl/55a36f020/ab9tsrvb-pawzct9a-cevwrdgn-2pkthfz2/view/default/10520072550004  
 Modifying manually: [[Rooms#text files]] (WIP!)  
+
 ### Modifying rendered image  
 This way, you can modify everything else.  
 Region project files are located in the Warehouse. Render them manually and put in the folder n stuff 
 
-> [!note] Some level editors like Rained supply with region projects by default.
+> [!info] Some level editors like Rained supply with region projects by default.
 
 https://seroen.github.io/Seroens-Repo/regions.html  
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects  

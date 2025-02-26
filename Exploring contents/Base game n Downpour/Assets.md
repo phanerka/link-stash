@@ -48,14 +48,14 @@ Most encrypted assets (e.g. for slugcats) are white and colored via game code.
 ![[hex-colors.png]]  
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1081023267378303036))
 
-List of other colors:  
+##### List of other colors
+Nightcat's body: `1E112E`
+
 > [!example]- Secondary and tetriary colors for base slugcats  
 > Monk: `C7AB3B`, `4FBA42`  
 > Survivor: `A68E97`, `40A6D1`  
 > Hunter: `6F4D66`, `992999`  
 > Nightcat: `19082D`, `F5BFF2`
-
-Nightcat's body: `1E112E`
 
 > [!example]- Downpour slugcats  
 > Arti's blue pup: `99B2E6`  
@@ -63,13 +63,15 @@ Nightcat's body: `1E112E`
 >   
 > Spearmarter's body (more correct? dunno): `4C2C65`  
 > Spearmaster's needles: `FFFFFF`  
-> Spearmaster's needle veins: `B75544`  
+> Spearmaster's needle veins: `B75544`*  
 >   
 > Rivulet's gills: `DF2DEA`  
 >   
 > Saint's tongue: `FF80A6`  
 >   
 > Inv's body: `17244F`
+
+\**The following color codes were not pulled from the game, they were colorpicked instead.*
 
 (sources: [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1100566406828924978), [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1266033578882502777))
 
@@ -80,7 +82,7 @@ this? fr??? TODO
 https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
 
 # Sounds  
-**Looking up online: [[Making music/For inspiration#In game sounds|here]]**.
+**Looking up online: [[Music making/For inspiration#In game sounds|here]]**.
 
 ### Music  
 TODO: check if it works  

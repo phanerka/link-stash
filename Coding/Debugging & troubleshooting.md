@@ -10,7 +10,7 @@ hopefully u downloaded [[Coding/Getting started#Setting up RW for debugging|ever
 spy????? 🥖 🇫🇷 🇫🇷 🇫🇷   
 ### Setting up  
 To debug your own mod in DNSpy, drag-and-drop the built plugin that the game *is reading*, i.e. from  
-``
+`Rain World\RainWorld_Data\StreamingAssets\mods\YOUR_MOD_NAME\plugins`
 
 > [!warning] Don't forget to replace it every time after build!
 
@@ -32,11 +32,11 @@ how to use dnspy vid?
 
 ### Editing DLLs  
 > [!warning] Disclaimer: the video is outdated.  
-> Modifying Assembly-CSharp is highly discouraged, as you mod becomes ~~~~not portable and generally applicable~~~~ highly incompatible with other mods and impossible to upload to Steam Workshop, and distributing it enters legally grey area (since your file will consist of 99% base game code).  
+> Modifying Assembly-CSharp is highly discouraged, as your mod becomes ~~no more portable and generally applicable~~ highly incompatible with other mods and impossible to upload to Steam Workshop, and distributing it enters legally grey area (since your file will consist of 99% base game code).  
 >   
 > You might want to follow same steps to tweak different mod, but you'll have to keep in mind that:  
-> - u gotta know IL code son cause writing in C# might break things  
-> - u gotta replace file in DNSpy every time you change smth or it will break  
+> - u gotta know IL code son cause writing in C# doesn't always work (and might break things)  
+> - you gotta replace your freshly saved plugin in DNSpy every time you change smth or it will break  
 >   
 > Instead, it's usually advised to just make a separate mod what will hook the code you want to change.
 

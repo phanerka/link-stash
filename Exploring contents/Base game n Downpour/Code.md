@@ -2,7 +2,7 @@ Most of stuff is in assembly-sharp-public. You know how to [[Debugging & trouble
 #wiki  
 https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
 
-Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.  
+Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.   ^5c37a9
 > [!warning] **Do NOT copy DLC code or disable DLC checks!**  
 > Your mod will be deleted from Workshop, once discovered.
 
@@ -13,14 +13,30 @@ Some logic is covered in User Wiki made by Alphappy.
 
 ### Referencing variables  
 This might help.  
-and i should extend and redraw that AAAAAAAAAAAAA  
-![[variable-references-structure.png]]  
+TODO add cameras and maybe more stuff
+![[code-graph.canvas|code-graph]]
+[[variable-references-structure.png]]  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1086547453010001960))
 
-### Weird naming  
-if you cannot find a certain item/creature in game code, maybe it's actually named differently. You can look its name up in official RW wiki. example: popcorn plant -> [SeedCob](https://rainworld.miraheze.org/wiki/Popcorn_Plant) (check "Code name" in object card), iterator -> [Oracle](https://rainworld.miraheze.org/wiki/Iterator#Trivia).
+# Code clarifications
+aye  
+to lessen pain i suppose
+### Misleading logic / naming
+Creatures' IDs affect their visual appearance but it doesn't mean every creature got unique ID in game.  
+Vertical spears note, cause some variable isn't used iirc
 
-Known typos: Signal -> Singal. 
+Bout shaders: go [[add new shader|here]]
+
+All general input goes here. ESC key handling goes here.
+### Hardcoded info
+Some dialogues like FPs iirc?
+
+### Different naming
+if you cannot find a certain item/creature in game code, maybe it's actually named differently. You can look its name up in official RW wiki.  
+Example: popcorn plant -> [SeedCob](https://rainworld.miraheze.org/wiki/Popcorn_Plant) (check "Code name" in object card), iterator -> [Oracle](https://rainworld.miraheze.org/wiki/Iterator#Trivia).
+
+### Typos
+Signal -> Singal. 
 
 ### Magic numbers  
 Yeah.

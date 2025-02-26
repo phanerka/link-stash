@@ -2,7 +2,7 @@ Document-wide navigation notes: [[Notes on doc navigation|here]]
 
 Are you new to lediting or need a step-by-step tutorial to make a basic room? [[Lediting/Getting started|getting started]].  
 Are you looking for:  
-- something that's important for region making? [[Making a region TO-DOs]]  
+- something that's important for region making? [[Region making TO-DOs]]  
 - list of mods and their documentation? [[Lediting/Useful mods list|Useful mods list]]  
 - some specific object / property to add in room? Look below ⬇ 👁 👁  
 - pre-devtooling specific tutorial? "How to-" folder  
@@ -20,7 +20,7 @@ Talking bout the rest stuff, there are 4 possible ways how that could be done:
 	- If you don't:  
 		- check DevTools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
 		- check [[Lediting/Useful mods list#Dependencies|libraries' docs]]  
-- via [[Making a region TO-DOs#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
+- via [[Region making TO-DOs#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
 - with [[create custom palette|custom palettes]] (recoloring pipes / sky, room-wide color manipulation)  
 - in very rare cases, its configured via code (like progress bar for gates)
 

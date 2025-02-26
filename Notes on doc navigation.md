@@ -6,7 +6,7 @@ For convenient looking for information
 helpful RW-related plugins, apps and websites: `#utils`  
 non-wiki documentations: `#docs`  
 wiki documentations: `#wiki`  
-spreadsheets for cross-mod support: \#sheets  
+spreadsheets for cross-mod support: `#sheets`  
 mod and room templates: `#templates`  
 library dependent tags:   
 - `#crs` (Custom Regions Support)  

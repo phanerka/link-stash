@@ -27,6 +27,10 @@ https://rainworldmodding.miraheze.org/wiki/World_File_Format
 **Always** has to have the following format:  
 https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format
 
+> [!Warning] Note on room connections
+> tbh i'm surprised it's not mentioned in wiki.  
+> Connections count starts from **top left corner** and is read by lines TODO
+
 > [!warning] Note on creature spawns  
 > Region creature spawns settings are read only **once**, when you enter the region for the first time. Afterwards, they're read from your save.   
 > To apply new creature spawns settings, you can:  
@@ -58,7 +62,7 @@ Region lease:
 acronym  
 https://rainworld-region-lease-improved.glitch.me/  
 #sheets  
-https://docs.google.com/spreadsheets/d/14wt42_ZalI5di8zpUFx3WvPWldC_L7SwIbgb_TxOpUk/edit#gid=0 (to get access, you'll have to enter [this](https://forms.gle/gdaGmLJuBJb4LvMS7) form)  
+https://docs.google.com/spreadsheets/d/14wt42_ZalI5di8zpUFx3WvPWldC_L7SwIbgb_TxOpUk/edit (to get access, you'll have to enter [this](https://forms.gle/gdaGmLJuBJb4LvMS7) form)  
 Once you're confident with them, you'll need to request access the document and add own values. 
 
 Includes:  
@@ -71,11 +75,15 @@ Includes:
 Mass renaming acronym in mod folder #utils  
 if you ever decide to change region name during development, [this](https://github.com/glebi574/rw-fix-region-acronyms) might help you to do it quickly.
 
+##### (optional) Defining campaign-specific changes
+this and below
+https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#map_xx.txt/map_xx.png
 ##### (optional) Connecting to other modded regions  
 #crs only.  
 After agreeing with other mod authors to connect your region to theirs, check this  
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#pearls
 
+and consider adding info to [mod-mod connections tab](https://docs.google.com/spreadsheets/d/14wt42_ZalI5di8zpUFx3WvPWldC_L7SwIbgb_TxOpUk/edit?gid=758721855#gid=758721855) in region leasing sheet
 ##### Region baking  
 just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region#Baking) your rooms.  
 You can also bake via Remix menu in RegionKit  

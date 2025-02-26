@@ -11,7 +11,6 @@ Screenshots of scavs with ID 1-10999 (yes, *11 000 pictures*.)
 https://drive.google.com/file/d/1uMbi7PP_2Dl_VeahhEmMDAA6N4uve9Gw/view?usp=sharing  
 (source: [RW Main](https://discord.com/channels/291184728944410624/385548182102212608/747554089402892298))  
 Also, available in [[References#Github images repository|Github images repo]].
-
 ### Creature IDs
 
 ##### Finding ID  

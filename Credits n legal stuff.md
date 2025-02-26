@@ -1,11 +1,15 @@
 ``istg if anything will be requested to delete from this repo ill call it "censored edition"``
 
-I'm fine with my info being modified / used somewhere else. Notifying me is nice but isn't required.  
-If I stop maintaining this repo, I allow anyone to fork it and post it somewhere. I don't even care if I'll be credited or not. Genuinely.   
+# Legal disclaimer in legal thingies
+Everything provided here is indended _only_ for academic purposes. It's okay to make free mods based on given knowledge but it's not okay to monetize given content in any way.  
+
+# Modification & distribution of this repo
+I'm fine with some info being modified / used somewhere else. Crediting AND notifying me is nice but isn't required.  
+Same rules apply to entire repo / website. If i stop updating it, feel free to fork it and post it somewhere else.  
 Just keep following others' rules, please. Don't be a dick.
 
-  
-\[CREDITING]  
+
+# Credits  
 I credited people here:  
  - whose guides/words were copied due to info in Discord servers being not very easy to access  
  - who weren't directly credited neither had source link to their message
