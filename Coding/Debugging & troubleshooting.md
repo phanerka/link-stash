@@ -15,8 +15,8 @@ To debug your own mod in DNSpy, drag-and-drop the built plugin that the game *is
 > [!warning] Don't forget to replace it every time after build!
 
 to debug others mods:   
-`Steam\steamapps\workshop\content\312520`
-
+`Steam\steamapps\workshop\content\312520`  
+TODO bruh i duped info, theres same one in [[Other mods]]
 ### Attaching  
 If attaching doesn't work, try  
 - disabling all mods (clean `enabledMods.txt` file and `mergedMods` folder)  

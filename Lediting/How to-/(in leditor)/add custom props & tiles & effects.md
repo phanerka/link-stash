@@ -1,6 +1,6 @@
 # Getting already existing ones  
 - [Tile packs](https://seroen.github.io/Seroens-Repo/tiles.html) and [prop packs](https://seroen.github.io/Seroens-Repo/props.html) from the Warehouse (if you want to get them all: [Github repo](https://github.com/Seroen/Seroens-Repo-Files))  
-- RWMS: [\#tiles-and-props](https://discord.com/channels/1237826015829557400/1240708497469866134) | [D](discord://discord.com/channels/1237826015829557400/1240708497469866134) (most recent ones might not be included in the repo above.... *yet*)  
+- RWMS: [`#tiles-and-props`](https://discord.com/channels/1237826015829557400/1240708497469866134) | [D](discord://discord.com/channels/1237826015829557400/1240708497469866134) (most recent ones might not be included in the repo above.... *yet*)  
 - [Mo' Tiles](https://github.com/rwslugcat/mo-tiles-rw/releases/tag/release)  
 - [TotallyDutch's RW Tiles](https://github.com/totallydutch/Totallydutch-s-RW-tiles)  
 It seems that some tiles were not included in the Warehouse, so it was included separately.
@@ -12,7 +12,7 @@ https://github.com/thalber/rw_tileman/releases/latest
 
 ##### Tile Visualizer #utils  
 *Requires Java to be installed.*  
-Shows how the tile will look in game. Allows to rotate around the tile.  
+Shows how the tile will look in game. Allows to rotate the tile.  
 Guide: [YT video](https://youtu.be/MoX6hXQZVMw)  
 https://github.com/LudoCrypt/TileVisualizer/releases
 

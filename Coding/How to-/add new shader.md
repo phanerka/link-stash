@@ -1,6 +1,7 @@
+**Exploring existing shaders:** [[Assets#Shaders]]
+
 ### Prerequisites  
 You need unity with same version of rain world (check [[Unity version|here]] for more info)
-
   
 guide:   
 https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/edit  
@@ -9,9 +10,6 @@ https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/
 https://twitter.com/joar_lj/status/1525445116789497856 (a [mirror](https://nitter.poast.org/joar_lj/status/1525445116789497856) for non-twitter users)
 
 https://github.com/PJB3005/RainWorldMods/tree/master/ShaderReload for hot reload
-
-  
-**Exploring existing shaders:** [[Assets#Shaders]]
 
 ;-; i dont wanna copy stuff
 
@@ -48,7 +46,10 @@ Explanation:
 source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1128354653051044023)
 
   
-### Basic shaders tutorials
+### General shader tutorials
+i.e. non RW related only
 
-  
-wawa
+https://www.youtube.com/watch?v=kfM-yu0iQBk
+
+idk if entire playlist is viable i didnt watch it yet
+https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z

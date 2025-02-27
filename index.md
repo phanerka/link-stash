@@ -6,8 +6,8 @@ Heyo and welcome to WIP link stash! Please enjoy your stay ʕ●.●ʔ
 
 Before you start with anything, please check navigation links. It might help with searching for what you need!
 
-Entire documentation is made with Obsidian and powered by [Digital Garden](https://dg-docs.ole.dev/) plugin (possibly I will modify web page structure later to make website more UX friendly).  
-If you want to have it offline, then sure, get the vault here! TODO  
+Entire documentation is made with Obsidian and made into website via [Quartz](https://quartz.jzhao.xyz/) (possibly I will modify web page structure later to make website more UX friendly).  
+If you want to have it offline, then sure, get the vault [here](https://github.com/phanerka/link-stash/archive/refs/heads/main.zip)!
 ### Disclaimers  
 This website WON'T:  
  - replace official modding wiki. Instead, it directs to appropriate wiki pages and adds remarks (from personal notes or messages i read in the servers), if such haven't been found there  
@@ -27,7 +27,7 @@ And when it comes to permissions... honestly, I'm anxious and need help with ask
 if i made too many bad decisions, sure i can take website down and stick with online version i dunno, i'll be fine  
 Contact infos are mentioned in [[Credits n legal stuff|credits]]. 
 
-  
+
 Contributions are welcome, of course. 
 
 

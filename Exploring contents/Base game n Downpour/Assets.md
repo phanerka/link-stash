@@ -120,7 +120,7 @@ https://fontstruct.com/gallery/tag/48144/Rain%20World
 
 - RW title-like font (based on [Rodondo](https://www.dafont.com/rodondo.font))  
 https://drive.google.com/file/d/15q8BBFUtt8G3XGyYi1JsD3IAuC-aUbpy/view?usp=drive_link  
-Rodondo RU: \#general pins  
+Rodondo RU: `#general` pins  
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1166479012193906718))
 
 - UI-like font  

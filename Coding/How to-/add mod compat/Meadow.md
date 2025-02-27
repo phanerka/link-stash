@@ -36,7 +36,7 @@ Most of issues are described in "CONTRIBUTING.md" file in Meadow repo but there'
 
 There is override for setup.txt that forces `start screen:0` value to automatically create lobby. But it wasn't updated in a while, and is broken now. Please don't use this value, at least for now.
 
-If you use Debug World version from \#modding-resources: do **NOT** copy ``RainWorld_Data\Managed\Assembly-CSharp.dll`` to Rain World folder! It will break Meadow.  
+If you use Debug World version from `#modding-resources`: do **NOT** copy ``RainWorld_Data\Managed\Assembly-CSharp.dll`` to Rain World folder! It will break Meadow.  
 If you did manage to do that by accident, verify game files to get original library back and reenable Meadow.  
 ##### Configuration builds  
 - ArenaP2P - local debug build with Arena mode available only (e.g. even if you try to host Story, Arena will be run instead)   
@@ -78,7 +78,7 @@ Don't forget to share modified Meadow build with your playtesters!
 - BetterHostControls ([Github repo](https://github.com/TheLazyCowboy1/BetterHostControls))
 
 ### Tech support  
-Feel free to ask questions in [\#playtesting -> Mod Porting](https://discord.com/channels/1094716194180841602/1326036277488914523) thread in Rain Meadow server!   
+Feel free to ask questions in [`#playtesting` -> Mod Porting](https://discord.com/channels/1094716194180841602/1326036277488914523) thread in Rain Meadow server!   
 Rain Meadow invite link is attached in [Github repo](https://github.com/henpemaz/Rain-Meadow).
 
 # Meadow mode music support for custom regions  

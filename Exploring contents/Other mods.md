@@ -1,3 +1,5 @@
+*This page is dedicated ONLY to exploring mods. For a guide how to modify them, refer to [[Debugging & troubleshooting#Editing DLLs|this]].*
+
 To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
 
 Workshop mods location:   
@@ -10,8 +12,11 @@ Downloading mods w/o workshop:
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
 Region mods' project files:
+> [!warning] Disclaimer 
+> **Make sure you read [this](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
+**You can use Deserted Wastelands ONLY for reference.**
 
-  
+https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects
 ### Decrypting lines from CRS regions  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 

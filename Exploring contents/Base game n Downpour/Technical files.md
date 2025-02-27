@@ -22,10 +22,10 @@ DP: `MoreSlugcatsEnums.cs -> CreatureTemplateType`
 Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataFromCreature(AbstractCreature creature)`
 
 > [!example]- List of creatures' ID  
-> 0-0-0 : "StandardGroundCreature"   
-> 1-0-\# : "Slugcat" slugcat;   
-> - number corresponds to player number starting with 0, so player1 = 1-0-0  
->   
+> `0-0-0` : "StandardGroundCreature"   
+> 1-0-\#: "Slugcat" slugcat  
+> - number corresponds to player number starting with 0, so player1 = 1-0-0
+> 
 > 2-0-0 : "LizardTemplate" ?   
 > 3-0-0 : "PinkLizard" purple lizard   
 > 4-0-0 : "GreenLizard" green lizard   
@@ -56,9 +56,9 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > 29-0-0 : "PoleMimic" mimic   
 > 30-0-0 : "MirosBird" miros bird   
 > 31-0-0 : "TempleGuard" depths guardian   
-> 32-0-\# : "Centipede"  
-> - 32-0-1 as smallest, 32-0-3 as largest; no 0es?  
->   
+> 32-0-\#: "Centipede"  
+> - 32-0-1 as smallest, 32-0-3 as largest; no 0es
+> 
 > 33-0-0 : "RedCentipede" red centipede   
 > 34-0-0 : "Centiwing" flying centipede   
 > 35-0-0 : "SmallCentipede" infant centipede   
@@ -73,7 +73,9 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > 44-0-0 : "DropBug" dropwig   
 > 45-0-0 : "KingVuture" king vulture   
 > 46-0-0 : "Hazer" hazer   
-> ---------------  
+> 
+>  **\[⬇ MSC ONLY]**  
+>  
 > 48-0-0 : "MirosVulture"  
 > 49-0-0 : "SpitLizard"  
 > 50-0-0 : "EelLizard"  
@@ -93,7 +95,6 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > 64-0-0 : "ScavengerKing"  
 > 65-0-0 : "TrainLizard"
 
-  
 Items:  
 (can be looked up in `AbstractPhysicalObject.cs -> AbstractObjectType` class)  
 DP: `MoreSlugcatsEnums.cs -> AbstractObjectType`  
@@ -141,7 +142,9 @@ Data for items: `ItemSymbol.cs -> IconSymbol.IconSymbolData? SymbolDataFromItem
 > 0-30-0 : "OverseerCarcass" overseer eye  
 > 0-31-0 : "CollisionField"  
 > 0-32-0 : "BlinkingFlower"  
-> ---------------  
+> 
+>  **\[⬇ MSC ONLY]**  
+>  
 > 0-33-0 : "JokeRifle"  
 > 0-34-0: "Bullet"  
 > 0-35-0: "SingularityBomb"  

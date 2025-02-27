@@ -2,7 +2,7 @@ Most of stuff is in assembly-sharp-public. You know how to [[Debugging & trouble
 #wiki  
 https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
 
-Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.   ^5c37a9
+Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.   
 > [!warning] **Do NOT copy DLC code or disable DLC checks!**  
 > Your mod will be deleted from Workshop, once discovered.
 

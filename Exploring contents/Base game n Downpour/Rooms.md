@@ -6,16 +6,19 @@ For example, `SU_B05`:
 - `SU` is Outskirts acronym  
 - `B` stands for 2 screens (A = 1, B = 2, C = 3, etc.)  
 - `05` is number of room.  
-So that's a room from Outskirts that has 2 screens.
 
+So, that's a room from Outskirts that has 2 screens.  
+(source: RW Main but im lazy ill add later)
 # Looking for room files
+
+
 
 ### Images  
 - rendered room assets (looking red)  
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym)   
 - rendered AND colored rooms (like how they look in game)  
 TODO map exporter for online maps!!!!!  
-check out [[Lediting/For inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  \### (all region rooms) for manual rendering.  
+check out [[Lediting/For inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
 - project files for lediting  
 refer to [[modify in-game regions#modify rendered image]]
 

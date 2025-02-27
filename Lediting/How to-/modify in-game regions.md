@@ -26,7 +26,6 @@ Region project files are located in the Warehouse. Render them manually and put 
 
 https://seroen.github.io/Seroens-Repo/regions.html  
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects  
-If you're going to download modded regions project files, **make sure to read [permissions to use](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt)!**  
 ### Modifying palette, objects or smth  
 use dev tools in game duh  
 Maybe [[Navigation]] will help you
