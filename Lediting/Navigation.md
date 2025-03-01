@@ -1,10 +1,10 @@
-Document-wide navigation notes: [[Notes on doc navigation|here]]
+Document-wide navigation notes: [[General doc navigation|here]]
 
 Are you new to lediting or need a step-by-step tutorial to make a basic room? [[Lediting/Getting started|getting started]].  
 Are you looking for:  
-- something that's important for region making? [[Region making TO-DOs]]  
+- something that's important for region making? [[Region making]]  
 - list of mods and their documentation? [[Lediting/Useful mods list|Useful mods list]]  
-- some specific object / property to add in room? Look below ⬇ 👁 👁  
+- some specific object / property to add in room? Check the section below ⬇ 👁 👁  
 - pre-devtooling specific tutorial? "How to-" folder  
 `(custom palette isnt pre devtooling DAMMIT)`
 
@@ -14,13 +14,13 @@ but...
 
 All lore-important objects are described in "How to add X in the mod".  
 Talking bout the rest stuff, there are 4 possible ways how that could be done:  
-- via DevTools  
+- via Dev Tools  
 	- If you have access to the room with what you want in game:  
-		enable DevTools, enter the room and check Objects and Properties tabs  
+		enter the room, open Dev Tools interface and check Objects and Properties tabs  
 	- If you don't:  
-		- check DevTools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
+		- check Dev Tools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
 		- check [[Lediting/Useful mods list#Dependencies|libraries' docs]]  
-- via [[Region making TO-DOs#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
+- via [[Region making#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
 - with [[create custom palette|custom palettes]] (recoloring pipes / sky, room-wide color manipulation)  
 - in very rare cases, its configured via code (like progress bar for gates)
 

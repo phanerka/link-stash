@@ -1,13 +1,23 @@
-``istg if anything will be requested to delete from this repo ill call it "censored edition"``
+AKA better explanation of `LICENSE.txt` with a bit of additions.
 
+Note that website code *itself* retains MkDocs license aka BSD 2-Clause.
 # Legal disclaimer in legal thingies
-Everything provided here is indended _only_ for academic purposes. It's okay to make free mods based on given knowledge but it's not okay to monetize given content in any way.  
-
-# Modification & distribution of this repo
-I'm fine with some info being modified / used somewhere else. Crediting AND notifying me is nice but isn't required.  
+Everything provided here is intended _only_ for academic purposes. It's okay to make *free* RW mods based on given knowledge BUT everything else requires permission from respective owners of said resources.  
+# Repo modification & distribution
+I'm fine with some info being modified / being shared. Crediting AND notifying me is nice but isn't required.  
 Same rules apply to entire repo / website. If i stop updating it, feel free to fork it and post it somewhere else.  
-Just keep following others' rules, please. Don't be a dick.
+And again, just keep following others' rules, please. *Don't be a dick.*
 
+That being said, I don't want this website to be fully merged with Wiki due to multiple reasons:
+- it got own, well thought-of way of navigation and formatting, much more fitting for "how to" style of guide
+- it accepts unfinished files and guides
+- some resources (like archives) are uploaded directly to the server
+- it's much easier and comfier for me to locally edit changes in Obsidian than on website
+- i can make jokes here without worries ehe  
+
+Wiki is good as it is overall, as place of exhaustively described features in mods/game.
+
+Note that, I'll repeat myself, that doesn't apply to moving part of info to wiki. Please reach me out if you do so, so that info won't be duped here and there.
 
 # Credits  
 I credited people here:  
@@ -34,6 +44,7 @@ jonahfagnus: lediting guides, room/region idea generator creation
 
   
 i honestly dont know if i should mention like, *EVERYONE*
+actually i will, for others convenience
 
 aight  
-ludocrypt: created numerous youtube tutorials on lediting, they're pretty sick 
+ludocrypt: created numerous youtube tutorials on lediting (they're pretty sick) 

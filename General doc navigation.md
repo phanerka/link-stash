@@ -1,5 +1,5 @@
-Navigation on Lediting folder: [[Navigation|here]]  
-Navigation on Coding folder: TBA??? maybe?????
+Navigation on Lediting folder: [[Lediting/Navigation|here]]  
+Navigation on Coding folder: [[Coding/Navigation|here]]
 
 ### Tags  
 For convenient looking for information  

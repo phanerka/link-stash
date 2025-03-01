@@ -63,7 +63,7 @@ Nightcat's body: `1E112E`
 >   
 > Spearmarter's body (more correct? dunno): `4C2C65`  
 > Spearmaster's needles: `FFFFFF`  
-> Spearmaster's needle veins: `B75544`*  
+> Spearmaster's needle veins: `B75544`\*
 >   
 > Rivulet's gills: `DF2DEA`  
 >   
@@ -82,7 +82,7 @@ this? fr??? TODO
 https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
 
 # Sounds  
-**Looking up online: [[Music making/For inspiration#In game sounds|here]]**.
+**Looking up online: [[Music making/For referencing n inspiration#In game sounds|here]]**.
 
 ### Music  
 TODO: check if it works  
@@ -109,7 +109,7 @@ https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
 
 # Dialogues (PORLS included)  
 Encrypting and decrypting: [RW Main](https://discord.com/channels/291184728944410624/1315395285647622214/1315408396249464922)
-
+For pearls from regions mods, go [[Other mods#Decrypting lines from CRS regions|here]]
   
 # Fonts  
 Some fonts are encrypted in a form of sprite atlases. Others technically don't even exist (characters are just a bunch of sprites).

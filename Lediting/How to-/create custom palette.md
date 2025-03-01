@@ -1,7 +1,7 @@
 There are 3 ways:  
 - via Palette Creator mod  
 The workshop version is broken. I sorta.... "fixed" it. partially. Couldn't bother to fix better. Here.   
-- by combining existing palette and fade palette in DevTools ( #regionKit required)  
+- by combining existing palette and fade palette in main Dev Tool interface ( #regionKit required)  
 - manually  
 
 i should also make some templatte palette probs (typo intended)

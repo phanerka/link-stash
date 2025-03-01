@@ -37,7 +37,8 @@ Page dedicated to drawing slugs (wish it had more stuff tho....)
 https://how-to-scug.tumblr.com/
 
 ### The ancients  
-> [!warning] Since the game gives no certain answer to how the ancients look, every visualization is fanon.  
+> [!warning] Disclaimer: don't take given info for granted.
+> Since the game gives no certain answer to how the ancients look, every visualization is fanon.  
 > This part is supposed to just give you examples of how people draw them.
 
 https://www.tumblr.com/kociamieta/729003347491897344/hii-i-love-your-art-so-so-much-i-was-wondering

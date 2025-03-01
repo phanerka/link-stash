@@ -2,10 +2,10 @@
 
 Mods that could be useful:  
 ### Debugging  
-- dev tools (duh) ([wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools), [video guide](https://www.youtube.com/watch?v=ggpKX6IJVFg))  
-If you don't like it, here are some plugins that might fix some stuff:
- - [legible devtools](https://steamcommunity.com/sharedfiles/filedetails/?id=2933848147)
- - [rebind dev tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957)
+- Dev Tools (duh) ([wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools), [video guide](https://www.youtube.com/watch?v=ggpKX6IJVFg))  
+	If you don't like it, here are some plugins that might fix some stuff:
+	- [Legible Devtools](https://steamcommunity.com/sharedfiles/filedetails/?id=2933848147)
+	- [rebind dev tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957)
    
 - [dev console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki))
 
@@ -47,6 +47,8 @@ Controls (non-numpad):
 - [physics speed config](https://steamcommunity.com/sharedfiles/filedetails/?id=2940029256)?  
 - [Game Speed Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=3413376142) ???????  
 ### Libraries  
+> [!warning] Friendly reminder to add following mods to [[Mod structure|modinfo.json]], if you're going to use them
+
 - [Fisobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2920541687) ([docs](https://docs.google.com/document/d/1RS8m_7cR5BIJwmRF9zZ1JnZXt-7j5pF8sm4jkRKiY1g/edit?tab=t.0#heading=h.jwenpzxh29co), [example](https://github.com/Dual-Iron/fisobs/blob/master/examples/README.md)): simplifies item and creature creation.  
 - [Placed Objects Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439169)([docs](https://github.com/Rain-World-Modding/Pom))   
 should i add regionkit here lmao

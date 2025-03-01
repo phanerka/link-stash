@@ -28,4 +28,4 @@ https://seroen.github.io/Seroens-Repo/regions.html
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects  
 ### Modifying palette, objects or smth  
 use dev tools in game duh  
-Maybe [[Navigation]] will help you
+Maybe [[Lediting/Navigation]] will help you

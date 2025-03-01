@@ -13,5 +13,8 @@ Effectively, in RW it works the same, except that there are four "arrows" corres
 
 Slugcat is rendered on layer 5 (?)
 
+https://www.desmos.com/calculator/fgjjlzyyam
+green box is front 
+
 [ludos vid](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/camera-preview/cangle-isMoekmlhm5dUB0SeVwblBAUi9coiM.mp4)  
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1238172527323516983/1290810379986927740))

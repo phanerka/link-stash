@@ -10,15 +10,15 @@ https://threatmixer.netlify.app/
 
 https://www.youtube.com/playlist?list=PLCrfrCNCRBL-VWC7hjFTOTL48qV3srs5o
 
-##### Sound effects  
+##### Sound effects preview
 https://youtu.be/tVPBOHHe9Jk
 
-##### Ambient sounds  
+##### Ambient sounds preview
 **RW Sounds (SFX) of Vanilla and Downpour**  
 Playlist of 10 videos with recordings of devtool's 'Sound' tab sounds.  
 https://www.youtube.com/watch?v=MqsB8Pq-FKE&list=PLXLJAahykEUGq-xuwEdGnH_W8xy5YPcUH&index=1
 
-> [!example]- List of timestamps  
+> [!example]- List of timestamps
 > Video 01: 00:00 City Tone | 01:19 Crickets Wind | 02:33 Forest | 04:01 Light Wind | 05:40 Lush Night | 07:27 Nat Wind | 09:36 Outside  
 > Video 02: 00:00 Pasture | 01:22 SubTerr | 03:09 Wall Hum | 04:40 Wind Grass | 06:54 Winter Hum | 09:07 Winter Trees  
 > Video 03: 00:00 Woods | 01:40 12th Floor | 03:41 50hz | 04:19 Arc | 04:54 Deep Hum | 06:03 Electric Hum 1 | 06:59 Electric Hum 2 | 07:13 Electric Hum 3 | 07:28 Fabrik 1 | 09:19 Fabrik 2 | 11:08 Factory 1  

@@ -1,13 +1,18 @@
 ![[link-stash.png]]
 
+*Temporary announcement:  
+If you're here because of crediting issue, go to [[Credits n legal stuff#Credits|Credits]] page and check if there's your nickname in the list. If you're not happy with your resources being posted, feel free to reach me out!*
 
+--------------------
 
-Heyo and welcome to WIP link stash! Please enjoy your stay ʕ●.●ʔ
+Heyo and welcome to WIP link stash! Hope you will enjoy your stay ʕ●.●ʔ
 
 Before you start with anything, please check navigation links. It might help with searching for what you need!
 
 Entire documentation is made with Obsidian and made into website via [Quartz](https://quartz.jzhao.xyz/) (possibly I will modify web page structure later to make website more UX friendly).  
 If you want to have it offline, then sure, get the vault [here](https://github.com/phanerka/link-stash/archive/refs/heads/main.zip)!
+> [!warning] Warning: not all files are stored directly in the vault.
+> Some are located directly on website; the doc just has a download link to them.
 ### Disclaimers  
 This website WON'T:  
  - replace official modding wiki. Instead, it directs to appropriate wiki pages and adds remarks (from personal notes or messages i read in the servers), if such haven't been found there  

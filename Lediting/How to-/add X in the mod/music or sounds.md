@@ -6,7 +6,7 @@ for threat music, refer to music making
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#Threat_Music_metadata_files
 
 refer to [[How to add in game]].  
-For ambient music preview, refer to [[Music making/For inspiration#Ambient sounds preview|this]].   
+For ambient music preview, refer to [[Music making/For referencing n inspiration#Ambient sounds preview|this]].   
 [Sounds](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Sounds-0) and [Triggers](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Triggers-0) tabs from devtools wiki page (for local environmental sounds and conditional music, respectively)
 
 - end of cycle music ( #regionKit required):  

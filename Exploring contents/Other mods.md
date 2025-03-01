@@ -11,10 +11,10 @@ To find technical files e.g. saves created by other mods (except [[Technical fil
 Downloading mods w/o workshop:   
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
-Region mods' project files:
+Region mods' project files: TODO
 > [!warning] Disclaimer 
 > **Make sure you read [this](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
-**You can use Deserted Wastelands ONLY for reference.**
+**You may use Deserted Wastelands ONLY for reference.**
 
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects
 ### Decrypting lines from CRS regions  

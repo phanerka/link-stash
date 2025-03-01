@@ -21,7 +21,7 @@ If you're planning to [[add new shader|make shaders]] or make Debug version of R
 	- another one made by stupid me who likes to do things the hard way. Oh well. At least I put some additional info in there.   
 	Just unzip the files and replace them in RW game folder.  
 	If the game breaks on start: delete `Rain World\BepInEx\config\BepInEx.cfg` and restart the game.  
-	If the game breaks on loading: some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region making TO-DOs#Region baking|this]] for proper baking instructions.  
+	If the game breaks on loading: some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region making#Region baking|this]] for proper baking instructions.  
 - [DnSpy](https://github.com/dnSpyEx/dnSpy)  
 ### Things to learn  
 [Technical Glossary](https://rainworld.miraheze.org/wiki/Technical_Glossary)

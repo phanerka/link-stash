@@ -18,7 +18,7 @@ So, that's a room from Outskirts that has 2 screens.
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym)   
 - rendered AND colored rooms (like how they look in game)  
 TODO map exporter for online maps!!!!!  
-check out [[Lediting/For inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
+check out [[Lediting/For referencing n inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
 - project files for lediting  
 refer to [[modify in-game regions#modify rendered image]]
 
@@ -30,8 +30,10 @@ https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEk
 
 
 
+
+### Text files
 ....... sometimes, i've got nothing better to do. for some reason.  
-### Text files  
+
 Are located in same spot as room assets.
 
 ```  

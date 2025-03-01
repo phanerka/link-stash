@@ -2,7 +2,7 @@
 If you're reading this doc, it's implied you're acknowledged with following concepts:  
 1) Basics of networking structure in Meadow (mix of host-client AND p2p)  
 	https://www.youtube.com/watch?v=-_WsvZAkFZI  
-2) Difference & usage of abstractized and realized objects in Rain World.  
+2) Difference & usage of abstractized and realized objects in Rain World  
 	YT video (longer but imo it's better): https://www.youtube.com/watch?v=XEEahVX4kLw  
 	Wiki page: https://rainworld.miraheze.org/wiki/Technical_Glossary/Abstractization  
 3) *(optional)* List of technical terms used regarding Rain World (?) (you don't need mÄth, don't worry)  
