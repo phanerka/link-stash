@@ -15,8 +15,8 @@ https://youtu.be/tVPBOHHe9Jk
 
 ##### Ambient sounds preview
 **RW Sounds (SFX) of Vanilla and Downpour**  
-Playlist of 10 videos with recordings of devtool's 'Sound' tab sounds.  
-https://www.youtube.com/watch?v=MqsB8Pq-FKE&list=PLXLJAahykEUGq-xuwEdGnH_W8xy5YPcUH&index=1
+Playlist of 10 videos with recordings of Dev Tool's 'Sound' tab sounds.  
+https://www.youtube.com/playlist?list=PLXLJAahykEUGq-xuwEdGnH_W8xy5YPcUH
 
 > [!example]- List of timestamps
 > Video 01: 00:00 City Tone | 01:19 Crickets Wind | 02:33 Forest | 04:01 Light Wind | 05:40 Lush Night | 07:27 Nat Wind | 09:36 Outside  

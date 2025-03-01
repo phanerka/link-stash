@@ -1,20 +1,16 @@
-leave this only for adding sounds and ambient added via devtools
+*This page is dedicated to adding music **in room via Dev Tools**.*  
 
-for adding sounds in game, refer to coding
+*To add music **somewhere else**, refer to [[How to add in game|music making section]].*  
+*To add **new sounds**, refer to [[add new sounds|coding section]].*
 
-for threat music, refer to music making
-https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#Threat_Music_metadata_files
+## Environmental music
 
-refer to [[How to add in game]].  
-For ambient music preview, refer to [[Music making/For referencing n inspiration#Ambient sounds preview|this]].   
-[Sounds](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Sounds-0) and [Triggers](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Triggers-0) tabs from devtools wiki page (for local environmental sounds and conditional music, respectively)
+online preview [[Music making/For referencing n inspiration#Ambient sounds preview|here]].
 
-- end of cycle music ( #regionKit required):  
-https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/RainSong.md  
-- threat music ( #crs required):  
-https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#procedural-music  
-- environmental music / general music:  
-i forgor  
-add via devtools? gotta check  
-- sounds  
-https://gist.github.com/EtiTheSpirit/b66450898bfb559c8578a4de04dc1029
+[Sounds](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Sounds-0) tab from devtools wiki page (for local environmental sounds and conditional music, respectively)
+
+## Conditional music
+To add your own music, put it in 
+`your-mod\music\songs`
+[Triggers](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Triggers-0) 
+In DevTools trigger object, you have to de-capitalize your music name! (source: [UserWiki](https://rainworldmodding.miraheze.org/wiki/UserWiki:Tat0110#VeryCoolSong.ogg) tat0110 ure awesome)
