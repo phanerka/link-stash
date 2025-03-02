@@ -48,3 +48,11 @@ actually i will, for others convenience
 
 aight  
 ludocrypt: created numerous youtube tutorials on lediting (they're pretty sick) 
+
+### Special apologies
+saltyzean, unlasting, armada and other friends for avoiding to chat / play with for the past 3 months
+(i was hyperfixated on this document)
+
+### Special thanks
+notchoc, the foo, uo, henpemaz and the rest of meadow community
+for inspiring me to start ~~doing anything in this life~~ rw modding
