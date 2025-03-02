@@ -90,7 +90,9 @@ All music (threat, arena, on region enter) and few other sounds are in `resource
 
   
 ### Sound effects  
-`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects`  
+`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects\`  
+Actual files are bundled in following file:
+`Rain World\RainWorld_Data\StreamingAssets\AssetBundles\loadedsoundeffects`
 Decrypting:  
 https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sound_effects_in_game/
 
@@ -106,6 +108,11 @@ put preview here
 responsible for room coloring  
 https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18  
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))
+
+##### How shadows work
+https://twitter.com/joar_lj/status/1525445116789497856  
+A [mirror](https://nitter.poast.org/joar_lj/status/1525445116789497856) for non-twitter users
+
 
 # Dialogues (PORLS included)  
 Encrypting and decrypting: [RW Main](https://discord.com/channels/291184728944410624/1315395285647622214/1315408396249464922)

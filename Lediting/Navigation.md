@@ -21,7 +21,8 @@ Talking bout the rest stuff, there are 4 possible ways how that could be done:
 		- check Dev Tools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
 		- check [[Lediting/Useful mods list#Dependencies|libraries' docs]]  
 - via [[Region making#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
-- with [[create custom palette|custom palettes]] (recoloring pipes / sky, room-wide color manipulation)  
+- with [[create custom palette|custom palettes]] (recoloring pipes / sky / water / acid, room-wide color manipulation)  
+	If you have access to the room, open Dev Tools interface in it, try changing palettes (main palette, fade palette, accent colors) and see if color of what you need changes
 - in very rare cases, its configured via code (like progress bar for gates)
 
 If you're looking for hacky stuff, check "Fancy lediting tricks" folder.

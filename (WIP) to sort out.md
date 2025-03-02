@@ -102,5 +102,22 @@ https://discord.com/channels/1083481230839922688/1083485771949949019/13269400123
 distant city asset creator!!!!  
 and rain shader!!!!
 
+imma put unfinished cool shader here and pretend its supposed to be here  
+[https://github.com/LudoCrypt/TurnRain](https://github.com/LudoCrypt/TurnRain "https://github.com/LudoCrypt/TurnRain") ([preview video]([https://www.youtube.com/watch?v=8-oeALLoL4A](https://www.youtube.com/watch?v=8-oeALLoL4A "https://www.youtube.com/watch?v=8-oeALLoL4A")))  
+Explanation:   
+> First we must understand how rain world knows how to draw rain. In vanilla, at room init, it makes a 'mask' texture the size of the level, basically going through every column and painting red, until it finds a solid block, then paints the rest black. Then in the shader it doesnt draw rain anywhere where it's black. So here was the plan: Redraw said mask texture but with an angle to it. Lets begin:  
+>   
+> 1. Make a texture twice the size of the level  
+> 2. Go through every piece of geometry and paint four black pixels on the texture (because its upscaled)  
+> 3. Add a pixel in the corner of two solid pieces of geometry (this is so it looks less blocky)  
+> 4. Start in the bottom left corner of the image and move down x pixels (x is based on the angle) and right 1 pixel. If it is not black, dont do anything, but if it is black, paint the rest of the pixels on that path black.  
+> 5. Move up x pixels and repeat.  
+> 6. Once you reach upper oob, stop, and continue the process but moving right each time, instead of up.  
+>   
+> After this, I just clear the mask texture and replace it with the new one. Then for the actual rain angle I just change rainDirectionGetTo to whatever the new angle is
+
+(source: [RWMA](https://discord.com/channels/1083481230839922688/1083485771949949019/1232426391522381875))
+
+
 https://discord.com/channels/1083481230839922688/1083484108056957089/1305779046142971904 rmwa  
 dev tools effect quick reload
