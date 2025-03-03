@@ -23,7 +23,7 @@ https://rainworldmodding.miraheze.org/wiki/World_File_Format  #wiki
 **Always** has to use the following [format](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format).
 
 Responsible for:  
-- defining room types (shelters, gates, etc.)  
+- defining room types via tag (shelters, gates, etc.)  
 - connecting rooms  
 	Can be modified for specific slugcat campaigns\*, via conditional links ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#world_xx.txt), [video guide](https://www.youtube.com/watch?v=mQfZwHSxNTA))  
 > [!Warning] Warning on room connections
@@ -33,6 +33,7 @@ Responsible for:
 - setting up creature spawns  
 	May contain additional creature flags ([Creature Flags](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Creature_Flags) section on Wiki page)  
 	Can be modified for specific slugcat campaigns\* (the bottom of [Creature Spawns](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Creature_Spawns) section on Wiki page)
+	Note that batflies' spawning is defined by room tags, not this section.
 > [!warning] Warning on creature spawns  
 > Region creature spawns settings are read only **once**, when you enter the region for the first time. Afterwards, they're read from your save.   
 > To apply new creature spawns settings, you can:  

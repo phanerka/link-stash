@@ -7,9 +7,10 @@
 To tweak arena music list, you might need:
 - `your-mod\music\songs\` folder 
 	Create *only* if you're adding own music (`.mp3` format required)
--  `your-mod\music\mpmusic.txt` file
-	Use [modification syntax](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files) to customize base song list.
-	If you just want to add own music, here's a template:
+-  `your-mod\modify\music\mpmusic.txt` file  
+	Note that you'll need to make a **modify** folder here. Just a friendly reminder.  
+	Use [modification syntax](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files) to customize base song list.  
+	If you just want to add own music, here's a template:  
 
 ```
 [MERGE]

@@ -1,4 +1,6 @@
-Unless you want to straight up replace some file from the game (wiki page is [here](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files)), you'll likely need to use modification syntax. It will help with cross-mod compatibility.
+Unless you want to straight up replace some file from the game (wiki page is [here](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files)), you'll likely need to use modification syntax. It will help with cross-mod compatibility.  
+
+**Every single file with modification syntax goes into `your-mod\modify\` folder and copies same folder structure, as it would not have w/o syntax.
 
 Wiki page: #wiki  
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
