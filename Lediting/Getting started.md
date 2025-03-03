@@ -16,7 +16,8 @@ It explains differences between editors pretty well. Personally I use **Rained**
 ### How to git gud
 General suggestion is to explore original game rooms and get acknowledged with what materials are used, what materials go well, etc.  
 - https://rainworldmodding.miraheze.org/wiki/The_Architecture_of_Rain_World
-- https://rain-world-modding.fandom.com/wiki/Effects_Editor (yeah cringe fandom ik)
+- Top of [old RW modding wiki page](https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pages/region-development/level-editor/Effect-Editor.md)
+	remember, [No Fandom](https://en.wikipedia.org/wiki/No_Russian)
 - uh you can check [[Generally used tiles n props|my doc]] i guess
 You can also take a look at general room creation and probably learn a couple of tricks
 - lediting playlists (no more updated 😔)  

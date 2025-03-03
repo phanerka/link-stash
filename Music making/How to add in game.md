@@ -14,7 +14,8 @@ To tweak arena music list, you might need:
 
 ```
 [MERGE]
-Your very cool music name here
+A cool music name here
+A cooler music name here
 [ENDMERGE]
 ```
 Note that file extension isn't required to add.

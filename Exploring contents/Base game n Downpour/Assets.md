@@ -97,7 +97,7 @@ Decrypting:
 https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sound_effects_in_game/
 
   
-### Shaders  
+# Shaders  
 `Rain World\RainWorld_Data\StreamingAssets\shaders`  
 Shaders code ~~is decompiled~~ NUH UH and is readable via any text editor.   
 put preview here 

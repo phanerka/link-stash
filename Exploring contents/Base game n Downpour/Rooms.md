@@ -9,9 +9,13 @@ For example, `SU_B05`:
 
 So, that's a room from Outskirts that has 2 screens.  
 (source: RW Main but im lazy ill add later)
-# Looking for room files
 
+# Palettes list
+#docs
+List of all palettes used by the game, sorted by palette number and region name (on separate sheets).
+https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEkgsE/edit?gid=0#gid=0
 
+# Room files
 
 ### Images  
 - rendered room assets (looking red)  
@@ -24,12 +28,6 @@ refer to [[modify in-game regions#modify rendered image]]
 
 Static map images:  
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA
-
-All palettes used by the game were conveniently put in a single list  
-https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEkgsE/edit?gid=0#gid=0
-
-
-
 
 ### Text files
 ....... sometimes, i've got nothing better to do. for some reason.  

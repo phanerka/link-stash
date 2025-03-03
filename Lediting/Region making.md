@@ -2,7 +2,7 @@ Whoa, that will take a lot of time and effort... but, good luck!
 
 Regarding mod folder structure, refer to [[Mod structure]] (duh).
 ## World editors  
-World editor by Bro : #utils   
+World editor by Bro: #utils   
 https://github.com/Bro748/World-Editor/releases/tag/MSC-1.01 ([guide](https://www.youtube.com/watch?v=MgeEBM9EKS4))
 
 FloodForge: #utils  

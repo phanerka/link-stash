@@ -6,9 +6,10 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
-....... i need to check fandom wiki once again.  
-and maybe add it as link to respective pages
 
+https://discord.com/channels/291184728944410624/296133304632213504/1113545138204057650
+worm grass values mod
+is there any other mod that does the same thing?
 
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/BepInEx_Files#Mod_Lifecycle_Functions
 

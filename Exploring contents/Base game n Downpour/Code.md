@@ -1,3 +1,5 @@
+*weeeell shaders is technically cooode buut it still goes [[Assets#Shaders|here]] cuz i think its cool*
+
 Most of stuff is in assembly-sharp-public. You know how to [[Debugging & troubleshooting|decompile]] it, right?  
 #wiki  
 https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure

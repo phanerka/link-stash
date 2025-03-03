@@ -1,4 +1,4 @@
-**Exploring existing shaders:** [[Assets#Shaders]]
+**Exploring existing shaders:** [[Assets#Shaders|here]]
 
 ### Prerequisites  
 You need unity with same version of rain world (check [[Unity version|here]] for more info)

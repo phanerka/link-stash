@@ -80,6 +80,11 @@ Friendly reminder that Warp Menu does not recognize this tag and puts ancient sh
 Requires
 - `: SCAVOUTPOST` tag in `world-xx.txt`
 - `ScavengerOutpost` object in room, more info in [this table](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Object_Library)
+- scavengers themselves lol
+	- set their spawns in `world-xx.txt`  
+		All scavs go to ~~hell~~ offscreen. The following example will spawn 2 scavengers:  
+		`OFFSCREEN : 0-Scavenger-2`  
+	- add scavenger holes to the rooms
 # Scavenger merchant room
 Requires
 - `: SCAVENGERTRADER` tag in `world-xx.txt`
