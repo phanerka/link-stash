@@ -1,5 +1,6 @@
 **Exploring existing shaders:** [[Assets#Shaders|here]]
 
+*WARNING: this page is on hiatus, some guides may be outdated. I want to make own shader later to confirm everything myself.*
 ### Prerequisites  
 You need unity with same version of rain world (check [[Unity version|here]] for more info)
 

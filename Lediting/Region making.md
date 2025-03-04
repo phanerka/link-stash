@@ -28,7 +28,7 @@ Responsible for:
 	Can be modified for specific slugcat campaigns\*, via conditional links ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#world_xx.txt), [video guide](https://www.youtube.com/watch?v=mQfZwHSxNTA))  
 > [!Warning] Warning on room connections
 > tbh i'm surprised it's not mentioned in wiki.  
-> Connections count starts from **top left corner** and is read by lines TODO
+> Connections count starts from **top left corner** of the room and is read by lines (not columns!)
 > Lever editor Rained can show pipe numbers... somewhere. wawa
 - setting up creature spawns  
 	May contain additional creature flags ([Creature Flags](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Creature_Flags) section on Wiki page)  

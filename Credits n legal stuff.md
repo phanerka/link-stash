@@ -13,7 +13,7 @@ That being said, I don't want this website to be fully merged with Wiki due to m
 - it accepts unfinished files and guides
 - some resources (like archives) are uploaded directly to the server
 - it's much easier and comfier for me to locally edit changes in Obsidian than on website
-- i can make jokes here without worries ehe  
+- owning website gives me more freedom in writing style than wiki would allow to (using "you"/"me" words, making jokes, writing info more casually)
 
 Wiki is good as it is overall, as place of exhaustively described features in mods/game.
 

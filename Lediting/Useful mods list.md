@@ -10,7 +10,7 @@ For Dev Tools plugins, check [[Coding/Useful mods list|coding section]].
 > "Open Dev Tool interface": enable Dev Tools, then press O in game, and then press H.
 
 - [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) *bruh*): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors during room creation process.   
-- [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): teleports to any room in game. Unless you modify connections to existing rooms, you will have no way to access the one you just added in the game.
+- [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): allows to teleport to any room in game. Unless you modify connections to existing rooms, you will have no way to access the one you just added in the game.
 
 ##### Recommended
 - [Better Decals](https://steamcommunity.com/sharedfiles/filedetails/?id=3241776574): allows decals to be more customized.   

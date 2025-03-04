@@ -6,7 +6,7 @@ You can:
 	- (not recommended) modify original game connections to make it accessible in game, and get there on your own
 
 # Setting up convenient environment
-
+If you're new to lediting, I'd advise to skip this entire section. It's rather for those who want to save time on repetitive tasks.
 ### Open the room on game launch  
 > [!warning] Warning: value overriding
 > Rain Meadow mod overrides `start screen 0`.  
