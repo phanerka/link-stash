@@ -1,10 +1,10 @@
-*This page is dedicated ONLY to exploring mods. For a guide how to modify them, refer to [[Debugging & troubleshooting#Editing DLLs|this]].*
+*This page is dedicated ONLY to exploring mods. For a guide how to modify them, refer to [[Debugging n troubleshooting#Editing DLLs|this]].*
 
 To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
 
 Workshop mods location:   
 `Steam\steamapps\workshop\content\312520`  
-You can debug them just like [[Debugging & troubleshooting|your own mod]]. 
+You can debug them just like [[Debugging n troubleshooting|your own mod]]. 
 
 To find technical files e.g. saves created by other mods (except [[Technical files#CustomRegionsSupport log crs|CRS]] since it's a must-have for general lediting), check "Coding" -> "How to-" -> "add mod compat" [[Meadow|folder]].
 
