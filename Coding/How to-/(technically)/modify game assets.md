@@ -1,3 +1,4 @@
+TODO possibly merge with [[import X resource in the game]]
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files  
 https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Replacing_Existing_Assets  
 ### referencing to them in code  

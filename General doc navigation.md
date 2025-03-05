@@ -1,6 +1,10 @@
 Navigation on Lediting folder: [[Lediting/Navigation|here]]  
 Navigation on Coding folder: [[Coding/Navigation|here]]
 
+If you're new and want to learn how to make/add X, in general I'd advise to:
+- (if you're completely new to modding) head to "Getting started" page and only then, check other guides
+- check the *top guide / video tutorial*, *read / watch it from start to end* to get acknowledged with basics, and only *then* read the rest of page to see how you can change things yourself. I don't know your way of thinking, but otherwise you might feel confused and overwhelmed with all definitions and parameters!
+
 ### Tags  
 For convenient looking for information  
 helpful RW-related plugins, apps and websites: `#utils`  
