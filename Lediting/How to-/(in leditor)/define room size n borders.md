@@ -16,35 +16,42 @@ https://rainworldmodding.miraheze.org/wiki/Level_Editor#Level_Size
   
 For more precise formula, here's this spoiler v
 > [!info]- Putting on nerd glasses
-> I tried figuring out where these numbers came from.
-> It seems that 40 / 52 is inside all borders + outside all borders
-> and 20 / 3 is all inbetween.
-> But it's incorrect way to calculate.
+> I tried figuring out where these numbers came from.  
+> It seems that 40 / 52 is inside all borders + outside all borders  
+> and 20 / 3 is all inbetween.  
+> But it's incorrect way to calculate.  
 > 
-> The correct way would be to calculate considering the main effective area (inside borders) will ALWAYS be inside 4 : 3 resolution camera. If said rule isn't followed, someone that uses 4 : 3 resolution in game would experience following issues:
-> - creatures will be able to walk into area they simply can't see
+> The issue with this formula is that with bigger amount of screens, actual borders will _differ_ from set ones (12 tiles on sides, 3 on top and 5 on bottom), leading to some part of main area getting outside of 4 : 3 camera.  
+> Said case should be avoided, since someone that uses 4 : 3 resolution in game would experience following issues:  
+> - creatures will be able to walk into area they simply can't see  
 > - this area itself might be important for them but they, yet again, will not walk into it due to impossibility to see what's there  
 > 
-> A prime example of breaking said rule is arenas: a decent part of them is simply not visible in 4 : 3 resolution.
+> A prime example of breaking said rule is arenas: a decent part of them is simply not visible in 4 : 3 resolution.  
 > 
-> \[imagine a pic here]
-> *thank you painworld*
+> \[imagine a pic here]  
+> *thank you painworld* very cool  
+> *i cant even see pipe exits*  
 > 
-> Now let's talk bout theory.
-> The game takes the 1024 x 768 (4 : 3) resolution as base (as well as for camera size). *Any other resolution is just this one being scaled to said resolution's height with width being extended.*  
-> A proof: no matter what resolution is, the game uses *same spot* to switch cameras.  
-> \[imagine a pic here]
-> Considering 1 tile is 20 pixels, said resolution is 51.2 x 38.4 tiles wide.  
+> Now let's talk about proper size calculation.  
+> Common multi-screen structure consists of:  
+> - a row of 4 : 3 screens touching each other (in general, they do not intersect nor have space in-between)  
+> - borders on sides  
+> 
+> The game takes the `1024 x 768` (4 : 3) resolution as base (as well as for camera size). *Any other resolution is just this one being scaled to said resolution's height with width being extended.*  
+> \[imagine a pic here]  
+> *A proof: no matter what resolution is, the game uses same spot to switch cameras.*  
+> 
+> Considering 1 tile is 20 pixels, said resolution is `51.2 x 38.4` tiles wide.  
 > Considering these cameras touch each other in multi-screen rooms (thus there's no space in-between them), we get the following formula:  
-> `[size of 4 : 3 screen] x N + [total borders size]`
-> To calculate total borders size (left + right for x and above + below for y), we can take single screen room dimensions which are `72 x 43.`
-> `72 - 51.2 = 20.8`, `43 - 38.4 = 4.6`.
+> `[size of 4 : 3 screen] x N + [total borders size]`  
+> To calculate total borders size (left + right for x and above + below for y), we can take single screen room dimensions which are `72 x 43.`  
+> `72 - 51.2 = 20.8`, `43 - 38.4 = 4.6`.  
 >
-> So we get the following formula:
-> `51.2 x N + 20.8` for X.
-> and
-> `38.4 x N + 4.6` for Y,
-> both being rounded to closest number.
+> So we get the following formula:  
+> `51.2 x N + 20.8` for X  
+> and  
+> `38.4 x N + 4.6` for Y,  
+> both being rounded to closest number.  
 > 
 > thx for visiting my ted talk hope you enjoyed it
 
