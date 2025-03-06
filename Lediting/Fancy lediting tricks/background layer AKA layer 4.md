@@ -1,7 +1,10 @@
 yeah.
 
 its just \_bkg.png
+same size as room render
 separate bkg image to separate room image!
+
+Base game doesn't use such feature at all but MSC does a lot
 
 Value varies. In general, they're 10-30% transparent, rarely reach 50% or drop down to 4%
 
@@ -17,10 +20,13 @@ values (out of 255):
 9 (4%)
 # Making of
 
-wow ive been thinking bout that  
-and for now, ive come only one decently good solution  
-the single downside is that it requires krita and it might be a laggy solution for some people
-also its not precise tbh, might change color transparency by a few %  
+henrys leditor comes with built-in feature to make layer 4 images.
+
+
+unless someone makes a script for krita, idk if there can be better solution.
+## Using filter masks
+- pros: live preview, multilayer support
+- cons: not precise (might change color transparency by a few %), requires krita (it might be laggy for some people)
 
 create a group where you will do layers  
 and apply filter mask to the group "Add.. " -> "Filter mask"  
@@ -37,9 +43,27 @@ Okay ive been thinking of it for a bit.
 Got 2 ideas: via masking and via overlay effect.  
 If you've got other ideas, let me know.  
 ## Via masking
-- pros: more control over scene overall, multi layer support, works with any grayscale picture
+- pros: multi layer support, easy to import grayscale picture, more correct color output
 - cons: can't see the result right away
 
+*The point: make flat grayscale image and apply it as mask for purely white layer.*
+
+should work in any advances program, ill use Krita for example.  
+make a layer group, put everything grayscale there  
+then merge it all to get a single picture (you can clone the folder, for backup)  
+then create a new layer, fill it with white  
+and apply the grayscale image as mask  
+ure done, save as png n stuff  
+
+sai 2 cannot allow to use existing layer as mask, unfortunately  
+so i came up with different solution for it  
+
+create a new layer, fill with white, apply "Difference" mode on it, merge with base image
+then, "layer" -> "convert luminance to opacity"  
+and then, alpha lock the layer and fill it with white (yes, you can even use bucket on it)  
+done! ✨  
+
+i think im deleting the one below
 ## Via overlay effect
 - pros: given you've got image, you can check how it will approximately look in game
 - cons: worse opacity control, first layer has to contain all shapes

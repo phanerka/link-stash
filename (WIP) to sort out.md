@@ -6,6 +6,8 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
+*atmo atmo atmo*
+https://github.com/thalber/Atmo
 
 https://discord.com/channels/291184728944410624/296133304632213504/1113545138204057650
 worm grass values mod

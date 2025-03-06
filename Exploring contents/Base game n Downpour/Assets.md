@@ -97,12 +97,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
 ### Music  
 *Is encrypted in AssetBundle, in `AudioClip` folder.*
 Location: `Rain World\RainWorld_Data\resources.resource`
-(same as for sprites)
 Contains:
 - threat music layers
 - arena music
 - short tracks that play on region enter
 - passage music
+- LTTM's sirens sounds
 - rain sound that plays on game start (without music!)
 - sounds from RW alpha version (steps, long jump, spear pickup, etc.)
 TODO: check if it works  
@@ -144,7 +144,7 @@ Encrypting and decrypting: [RW Main](https://discord.com/channels/29118472894441
 For pearls from regions mods, go [[Other mods#Decrypting lines from CRS regions|here]]
   
 # Fonts  
-*Some fonts are encrypted in a form of [[Assets#Sprites|sprite atlases]]. Others technically don't even exist (characters are just a bunch of sprites).*  
+*Some fonts are encrypted in a form of [[Assets#Sprites|sprite atlases]]. Others technically don't even exist (entire label is just a sprite).*  
 *The fonts below are made by the community, for convenient usage.*
 
 https://fontstruct.com/gallery/tag/48144/Rain%20World

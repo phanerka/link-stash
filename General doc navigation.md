@@ -5,6 +5,12 @@ If you're new and want to learn how to make/add X, in general I'd advise to:
 - (if you're completely new to modding) head to "Getting started" page and only then, check other guides
 - check the *top guide / video tutorial*, *read / watch it from start to end* to get acknowledged with basics, and only *then* read the rest of page to see how you can change things yourself. I don't know your way of thinking, but otherwise you might feel confused and overwhelmed with all definitions and parameters!
 
+### clarifications idk?
+should i make separate devtools page?  
+also add here on modification  
+
+To avoid confusion, ill call every file that is put into modify folder "modification file of X" (X with modification syntax?)  
+its very easy to miss out that folder in path.  
 ### Tags  
 For convenient looking for information  
 helpful RW-related plugins, apps and websites: `#utils`  

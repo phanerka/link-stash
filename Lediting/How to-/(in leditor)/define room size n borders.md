@@ -58,6 +58,10 @@ For more precise formula, here's this spoiler v
 # Borders
 
 On room render, ONLY area inside border is preserved for geometry data; everything else past it will repeat the closest column / row closest to border.
+This might cause unintentional issues such as:
+- death pit
+- infinitely out-of-bounds extending pole
+- possibility to go *out of bounds* in a supposedly closed area
 
 A visual explanation:
 \[pic here im lazy to put it here rn]
