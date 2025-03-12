@@ -4,4 +4,4 @@ https://discord.com/invite/Syms6dqqFD
 
 for troubleshooting, theyve got [`#frequently-asked-questions`](https://discord.com/channels/903842809734389760/1087143800054501518) | [D](discord://discord.com/channels/903842809734389760/1087143800054501518) and [`#tech-support`](https://discord.com/channels/903842809734389760/1086942072327647253) | [D](discord://discord.com/channels/903842809734389760/1086942072327647253) channels! 
 
-for unpacking, [[Assets]] idk depacking sprite atlas?
+for unpacking, [[Exploring contents/Base game n Downpour/Assets/index]] idk depacking sprite atlas?

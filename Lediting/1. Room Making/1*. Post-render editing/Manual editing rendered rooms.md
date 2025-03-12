@@ -35,7 +35,7 @@ Room rendering documentation #docs
 
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714))
 
-todo: replace with [[Assets#Documentation on LevelColor shader]]  
+todo: replace with [[Exploring contents/Base game n Downpour/Assets/index#Documentation on LevelColor shader]]  
 another doc on LevelColor shader (how the game renders rooms):   
 https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
 
