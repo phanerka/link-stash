@@ -2,11 +2,7 @@
 
 Mods that could be useful:  
 ### Debugging  
-- Dev Tools (duh) ([wiki](https://rainworldmodding.miraheze.org/wiki/Dev_Tools), [video guide](https://www.youtube.com/watch?v=ggpKX6IJVFg))  
-	If you don't like it, here are some plugins that might fix some stuff:
-	- [Legible Devtools](https://steamcommunity.com/sharedfiles/filedetails/?id=2933848147)
-	- [rebind dev tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957)
-   
+- Dev Tools (duh) ([[Dev Tools|main page]])  
 - [dev console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki))
 
 - [unity explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200)?  

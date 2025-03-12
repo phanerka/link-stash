@@ -1,0 +1,2 @@
+Encrypting and decrypting: [RW Main](https://discord.com/channels/291184728944410624/1315395285647622214/1315408396249464922)
+For pearls from regions mods, go [[Other mods#Decrypting lines from CRS regions|here]]

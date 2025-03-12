@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1YlGNja-1UBAA51j_xYyjXHlMQ8S47I3RAfaw9rrv
 ill figure this out sry
 hmmmmm
 https://slimecubed.github.io/slugbase/articles/world-state-tutorial.html
-### Yapbot new lines
+### New slugcat-specific lines for the yapbot
 #crs required
 here
 https://github.com/Bro748/Custom-Regions/blob/dp-release/README.md#oracle-specific-text

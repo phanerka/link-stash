@@ -6,7 +6,7 @@ exists somewhere i forgor.....
 oh its from concealed garden which wasnt ported yet awwww 3: 
 
 ### Messing with creatures  
-check [[Coding/Useful mods list|this]].
+check [[Coding/Useful mods list#Creatures manipulation|this]].
 
 To get rid of slugcat:  
 just get [Mouse Drag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) mod and delete scug lmao

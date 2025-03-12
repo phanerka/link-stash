@@ -1,6 +1,6 @@
 ### Tech tips  
 ##### symlinking  
-go into rainworld_data/streamingassets/mods/  
+go into `Rain World\RainWorld_Data\StreamingAssets\mods\`  
 type `cmd` in Address bar of Explorer, then paste the following:
 
 ``mklink /d folder_name referenced_location``

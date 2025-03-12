@@ -6,6 +6,9 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
+wut
+https://steamcommunity.com/sharedfiles/filedetails/?id=3178516926
+
 *atmo atmo atmo*
 https://github.com/thalber/Atmo
 

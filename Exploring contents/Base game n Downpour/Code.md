@@ -1,5 +1,3 @@
-*weeeell shaders is technically cooode buut it still goes [[Assets#Shaders|here]] cuz i think its cool*
-
 Game code is in `Assembly-CSharp.dll` library. You know how to [[Debugging n troubleshooting|decompile]] it, right?  
 
 Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.   

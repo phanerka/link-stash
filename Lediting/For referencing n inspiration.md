@@ -8,8 +8,8 @@ https://donjon.bin.sh/fantasy/dungeon/cavern.cgi
 ### Idea generators  
 Room prompt generator: https://perchance.org/hjuqhnnhq9  
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1012430659312169133))  
-https://perchance.org/rainworld-room-generator - generates random room concepts.  
-https://perchance.org/lediting-inspo-generator - generates random region concepts.   
+https://perchance.org/rainworld-room-generator - room concept generator  
+https://perchance.org/lediting-inspo-generator - region concept generator  
 https://perchance.org/mat-cat-challenge - generates for the "mat and cat challenge", where you create a room that uses only one material, and two categories of tile.  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1211122741999177748))
 
