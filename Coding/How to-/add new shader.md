@@ -8,14 +8,24 @@ Full guide:
 https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/edit  
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1237835470080180235))
 
-you WILL have to make [[import X resource in the game|AssetBundle]] to load shader in game.
+you WILL have to make [[import X resource|AssetBundle]] to load shader in game.
 
 ;-; i dont wanna copy stuff
 
 oh yea i forgot about that. dammit
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/858276294353092609))
 
+TODO
+```
+For that, you might need to get [[Unity version|Unity Editor]] and compile AssetBundle on your own (i might add tutorial soon)  
+ooor  
+ill try to verify if it works  
+and if you can create fresh bundles with it :D  
+https://github.com/nesrak1/UABEA
 
+In worst cases, ask someone in modding channel to do it for you  
+Or ask me, I don't mind
+```
   
 > **Shaders, Lighting, and Shadows Information (For Shader Authors)**  
 >   

@@ -9,7 +9,7 @@ https://rwgg.isaacelenbaas.com/RWGG.html
 
 i accept donations with food  
 thats me irl  
-https://tenor.com/view/feed-the-void-black-cat-snack-hungry-cat-hungry-gif-306965068353833327
+![[feed-the-void-black-cat.gif]]
 
 https://scratch.mit.edu/projects/964257496/
 

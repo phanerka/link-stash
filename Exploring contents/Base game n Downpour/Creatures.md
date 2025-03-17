@@ -18,7 +18,7 @@ However, [IDs expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3
 - [id finder](https://steamcommunity.com/sharedfiles/filedetails/?id=3040378054): if the creature cannot be accessed in game
 - [visible ids](https://steamcommunity.com/sharedfiles/filedetails/?id=2934997065): if the creature *exists* in game
 - [[Technical files#console log|consoleLog.txt]] records IDs of creatures that weren't saved after cycle end (died, save position was outside of region world coordinates (whatever that means..) )
-##### Looking up based on ID  
+##### Spawning by ID  
 - via [Dev Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044)  mod  
 Spawn command: `spawn [creature] ID.-1.[id]`  
 - via [biography](https://steamcommunity.com/sharedfiles/filedetails/?id=2985657499) mod (seems to be broken ATM however)

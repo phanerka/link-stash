@@ -1,8 +1,15 @@
-Mod ID: `henpemaz_rainmeadow`
+*For adding region support for Meadow mode, check [[Meadow mode|lediting section]].*
+
+Remix mod ID: `henpemaz_rainmeadow`
+Workshop mod ID: `3388224007`
 
 I made something :>  
 https://gist.github.com/phanerka/3618d34c26e07da20d1f4456bcaa9da0  
 all future changes will go directly there!!!
+
+.... or not.
+welp
+here it goes to my doc then ig
 
 to replace remote links to local:  
 logOutput.log  
@@ -82,56 +89,6 @@ Don't forget to share modified Meadow build with your playtesters!
 ### Tech support  
 Feel free to ask questions in [`#playtesting` -> Mod Porting](https://discord.com/channels/1094716194180841602/1326036277488914523) thread in Rain Meadow server!   
 Rain Meadow invite link is attached in [Github repo](https://github.com/henpemaz/Rain-Meadow).
-
-# Meadow mode music support for custom regions  
-Spreadsheet with music distribution in base regions:  
-https://docs.google.com/spreadsheets/d/1rg14d7qPAnuyraE7zkSZvkA_8_6gDy_nrsypO1f6MaQ/edit  
-Region that have no Meadow support will have **Shoreline** settings by default \[TBA next version].
-
-**\[ISTG THE FORMATTING ISNT BROKEN FOR ME AND I WONT TRY FIXING IT AAAAAAAAAAAAAAAAA]**
-
-*! The file structure is going through an overhaul. Described structure will work only post next version of Meadow (v0.2.0)*  
-To configure music, you'll have to add ``meadowPlaylist.txt`` file to `your-mod-name\world\xx\` directory.  
-You'll need to define on separate line:  
-- vibe zone properties  
-Vibe zone is a special in-game room that has procedural music in it. You're free to warp to it anytime via pause menu.  
- Define through comma:
- - room name that will be vibe zone   
- - minimum radius of vibe zone (relies on world coordinates)
- - maximum radius of vibe zone
- - waveform value (acceptable: ``Trisaw``, ``Clar``, ``Litri``, ``Sine``, ``Bell``)  
-- songs playlist for area outside vibe zone  
-List of all songs can be found inside meadow mod folder, i.e. :  
-`Steam\steamapps\workshop\content\312520\3388224007\music\songs\`
-
-There can be more than one vibe zone in a single region (most base regions have only one though), and you will be warped to the closest one in game.
-
-Outer Expanse's `meadowPlaylist.txt` file as example:  
-```  
-OE_TREETOP,2800,4800,Sine  
-Eyes Vain  
-Woodback  
-me  
-Cascen  
-Folkada  
-Gray Orange  
-Void Genesis  
-Grasp  
-71104  
-Swan ode  
-OE_TOWER06,1000,2400,Litri  
-indufor  
-Eyto  
-Ones  
-Icy Parchment  
-tredjeplanen  
-Significance  
-Pedal Petal  
-Slightly Ill  
-Nevertop Side  
-Purple Puff  
-New and new  
-```
 
 # Adding dependencies and blacklist  
 TBA  

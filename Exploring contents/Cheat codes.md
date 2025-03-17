@@ -6,3 +6,6 @@ There are 2 types:
 - setup values in `setup.txt` file (**Dev Tools must be enabled**)
 
 https://rainworld.miraheze.org/wiki/Configuration_Files
+
+apparently this one is more exhaustive aughhhhhhhhhhhhh TODO
+https://steamcommunity.com/sharedfiles/filedetails/?id=2979934883

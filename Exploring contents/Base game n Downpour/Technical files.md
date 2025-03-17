@@ -200,7 +200,7 @@ Created by BepInEx, a Unity mod loader.
 ##### CustomRegionsSupport log #crs   
 `Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`  
 Useful for lediting.   
-Resolving issues with it: [[Lediting/3. Region Making/Troubleshooting]]  
+Resolving issues with it: [[Lediting/2. Region Making/Troubleshooting]]  
 ##### exception log  
 `Rain World\exceptionLog.txt`  
 Collects all errors that occurred in game. If no errors occur, it won't be created.   

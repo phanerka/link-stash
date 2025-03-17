@@ -1,23 +1,33 @@
-*This page is dedicated ONLY to exploring mods. For a guide how to modify them, refer to [[Debugging n troubleshooting#Editing DLLs|this]].*
+*This page is dedicated ONLY to exploring mods. For a guide how to modify their code, refer to [[DNSpy#Editing DLLs|this]].*
 
-To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
 
 Workshop mods location:   
-`Steam\steamapps\workshop\content\312520`  
-You can debug them just like [[Debugging n troubleshooting|your own mod]]. 
-
-To find technical files e.g. saves created by other mods (except [[Technical files#CustomRegionsSupport log crs|CRS]] since it's a must-have for general lediting), check "Coding" -> "How to-" -> "add mod compat" [[Meadow|folder]].
+`Steam\steamapps\workshop\content\312520`, in respective folder with Workshop mod ID.
+Easy way to determine the ID is to open Workshop mod page and check its link. To be exact, it's
+`https://steamcommunity.com/workshop/filedetails/?id=number`,
+where `number` is mod ID. (yeah ik im great at phrasing.)
 
 Downloading mods w/o workshop:   
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
-Region mods' project files: TODO
+### Technical files
+Could be:
+- save files
+- logs (except [[Technical files#CustomRegionsSupport log crs|CRS]] since it's a must-have for lediting in general)
+
+Check "Coding" -> "How to-" -> "add mod compat" [[Coding/How to-/add mod compat/index|folder]].
+### Code
+To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
+
+You can debug other mods just like [[Coding/Troubleshooting|your own mod]]. 
+### Regions
+Region mods' project files:
 > [!warning] Disclaimer 
 > **Make sure you read [this](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
 **You may use Deserted Wastelands ONLY for reference.**
 
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects
-### Decrypting lines from CRS regions  
+#### Decrypting lines from CRS regions  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
 (i yoinked tutorial from mod description and translated with DeepL)  

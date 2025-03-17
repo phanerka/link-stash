@@ -27,9 +27,9 @@ the watcher said hi i know im preparing to suffer
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym)   
 - rendered AND colored rooms (like how they look in game)  
 TODO map exporter for online maps!!!!!  
-check out [[Lediting/For referencing n inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
+check out [[References n inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
 - project files for lediting  
-refer to [[edit in-game files#modify rendered image]]
+refer to [[Ways to edit in-game files#modify rendered image]]
 
 Static map images:  
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA

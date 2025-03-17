@@ -1,14 +1,22 @@
 AKA better explanation of `LICENSE.txt` with a bit of additions.
 
-Note that website code *itself* retains MkDocs license aka BSD 2-Clause.
+Note that website code *itself* retains (quartz? i cant decide yet :( )MkDocs license aka BSD 2-Clause.
 # Legal disclaimer in legal thingies
-Everything provided here is intended _only_ for academic purposes. It's okay to make *free* RW mods based on given knowledge BUT everything else requires permission from respective owners of said resources.  
+Everything provided here is intended *only* for academic purposes. It's okay to make *free* RW mods based on given knowledge BUT everything else requires permission from respective owners of said resources.  
 # Repo modification & distribution
-I'm fine with some info being modified / being shared. Crediting AND notifying me is nice but isn't required.  
-Same rules apply to entire repo / website. If i stop updating it, feel free to fork it and post it somewhere else.  
-And again, just keep following others' rules, please. *Don't be a dick.*
+The documentation itself is under `CC-BY-SA 4.0` license. The source code of the website (used to format the documentation) is under `MIT` license (.. for now?).
 
-That being said, I don't want this website to be fully merged with Wiki due to multiple reasons:
+In simple words about the license:
+- Feel free to modify and share this doc somewhere else. But in both cases, you will have to use the same license I have set.
+- According to the license, you *have* to credit me on distribution. But let's be real: if you use a piece of information to share with someone without crediting me, I won't sue you and leave you broke for the rest of your life. I genuinely don't care (even if you don't credit me on distribution of a pic I made or *entire doc*) as long as you don't break worse rules. pinky promise 👀
+- According to the license, you'll have to document all changes you made to the document. But again, I don't care unless something worse happens.
+- Note that the documentation uses work of other people, however. They retain own rights, and anything regarding their work requires *their* permissions.
+- ~~Not for commercial use. Knowledge should not be paywalled.~~
+
+idk if i should make it non commercial or not. i don't want akupara to legally yoink, possibly extend and sell my documentation without my knowledge.
+
+
+That being said, personally I don't want this website to be fully merged with Wiki due to multiple reasons:
 - it got own, well thought-of way of navigation and formatting, much more fitting for "how to" style of guide
 - it accepts unfinished files and guides
 - some resources (like archives) are uploaded directly to the server
@@ -17,7 +25,7 @@ That being said, I don't want this website to be fully merged with Wiki due to m
 
 Wiki is good as it is overall, as place of exhaustively described features in mods/game.
 
-Note that, I'll repeat myself, that doesn't apply to moving part of info to wiki. Please reach me out if you do so, so that info won't be duped here and there.
+The rule doesn't apply to moving *part of info* to wiki, though. Please reach me out if you do so, so that info won't be duped here and there.
 
 # Credits  
 I credited people here:  
@@ -49,12 +57,8 @@ actually i will, for others convenience
 aight  
 ludocrypt: created numerous youtube tutorials on lediting (they're pretty sick) 
 
-
-
-### Special apologies
-saltyzean, unlasting, armada and other friends for avoiding to chat / play with for the past 3 months
-(i was hyperfixated on this document)
-
+TODO add special apologies
+in case someone wouldn't like their name to be publicly shown
 ### Special thanks
 notchoc, the foo, uo, henpemaz and the rest of meadow community
 for inspiring me to start ~~doing anything in this life~~ rw modding

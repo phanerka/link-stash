@@ -1,6 +1,9 @@
 Log locations are described [[Technical files#Logs|here]].
 
-You can log variables on runtime if you [[Debugging n troubleshooting#DNSpy'ing|attach DNSpy]] to the game.
+You can log variables on runtime if you [[Coding/Troubleshooting#DNSpy'ing|attach DNSpy]] to the game.
+
+https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/3_logging.html
+
 
 > `Debug.Log` is Unity's logger, which is not ready when `OnEnable` runs  
 >   

@@ -10,7 +10,9 @@ Mods that could be useful:
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
 - [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game  
 - [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to get rid of certain type of creatures.  
+- `setup.txt`: `world creatures spawn` disables almost ALL creatures from spawning in game.
 - Dev Console: allows to spawn creature with certain ID (more info [[Creatures#Creature IDs|here]])  
+	also `remove_crits` and `destroy` 
 - DevTools: when exabled in room, pressing `8` kills every creature in the room except scug
 
 ##### Debug/crash control  
@@ -48,6 +50,10 @@ Controls (non-numpad):
 - [Fisobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2920541687) ([docs](https://docs.google.com/document/d/1RS8m_7cR5BIJwmRF9zZ1JnZXt-7j5pF8sm4jkRKiY1g/edit?tab=t.0#heading=h.jwenpzxh29co), [example](https://github.com/Dual-Iron/fisobs/blob/master/examples/README.md)): simplifies item and creature creation.  
 - [Placed Objects Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439169)([docs](https://github.com/Rain-World-Modding/Pom))   
 should i add regionkit here lmao
+
+- Nutils [github](https://github.com/pkuyo/Nutils/)
+- EmgTx [github](https://github.com/HarvieSorroway/EmgTx)
+вики нет но вы держитесь
 
 [Decryptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2933241596) is it dead?? TODO
 

@@ -10,6 +10,8 @@ https://www.tumblr.com/a-stardusted-sky/736666180473028608/do-you-have-any-tips-
 
 v gosh i feel uncomfy bout that
 should i get rid of that?
+guess its alright, on second thought
+should move to another section / page tho
 ### Miimows' art
 made all OG game scene art
 

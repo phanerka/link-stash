@@ -29,10 +29,16 @@ If you're planning to [[add new shader|make shaders]] or make Debug version of R
 > [!tip] Also recommended to check [[Coding/Tips|Tips]] for making more convenient setup.
 
   
-### Example of code mod #templates  
+### Code mod template
+#templates  
 https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates   
 ### Useful links   
-##### wikis  
+
+Risk of Rain 2 wiki, esp general modding info  
+https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/C%23-Programming/Assembly-References/  
+Bepinex documentation  
+https://docs.bepinex.dev/articles/index.html
+##### RW Wiki  
 [Modding Wiki](https://rainworldmodding.miraheze.org/wiki/Main_Page) (duh) - will most likely provide some info  
 https://rainworld.miraheze.org/wiki/Category:Technical_pages - technical information about Rain World  
 https://rainworld.miraheze.org/wiki/UserWiki:Alphappy

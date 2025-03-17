@@ -6,6 +6,7 @@ Covers:
 - applying shader to an object  
 - adding the object in game
 
+TODO ? is that outdated too
 While it covers general approach to modding, note that it's outdated:  
 - custom assets can be added via [[modify game assets#adding new ones|RegionKit]]  
 - custom objects can be added via POM  

@@ -1,13 +1,8 @@
-maybe split down lediting on steps "preps", room creation, region creation, og stuff modification, post? idk  
-or add tags on phases?
-
 tbh i wanna also ask for custom decals that are free to use
 
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
-wut
-https://steamcommunity.com/sharedfiles/filedetails/?id=3178516926
 
 *atmo atmo atmo*
 https://github.com/thalber/Atmo
@@ -15,8 +10,6 @@ https://github.com/thalber/Atmo
 https://discord.com/channels/291184728944410624/296133304632213504/1113545138204057650
 worm grass values mod
 is there any other mod that does the same thing?
-
-https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/BepInEx_Files#Mod_Lifecycle_Functions
 
 
 yet another blender file n explanation  

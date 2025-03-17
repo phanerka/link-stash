@@ -16,7 +16,7 @@ And look at this peculiar way of using small pipe tiles:
 (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/1240734271145246780))  
 - don't make background or room boundaries *too* distracting unless it's intended  
 - make sure you can visually differentiate foreground from background (grayscaling the room might help)  
-- learn, study rooms made [[Lediting/For referencing n inspiration#Community-made rooms|by other people]], study in-game rooms, what tiles are usually used where and in pair with what (btw most commonly used: black goo (note it doesn't draw over all tiles!), slime, smth else i forgor)  
+- learn, study rooms made [[References n inspiration#Community-made rooms|by other people]], study in-game rooms, what tiles are usually used where and in pair with what (btw most commonly used: black goo (note it doesn't draw over all tiles!), slime, smth else i forgor)  
 - consistency! in general, a room looks better if you use ~same tiles on different room layers. if u're making a region, gotta decide with set of tiles n props ure gonna use  
 - try applying dead & alive plant effects at the same spot
 

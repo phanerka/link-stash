@@ -8,10 +8,17 @@ oh its from concealed garden which wasnt ported yet awwww 3:
 ### Messing with creatures  
 check [[Coding/Useful mods list#Creatures manipulation|this]].
 
+
+### Messing with slugcat
 To get rid of slugcat:  
 just get [Mouse Drag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) mod and delete scug lmao
+or `destroy me` via dev console?
 
-  
+
+to grant invincibilty (wont save from death pits!):
+`player invincibility` in `setup.txt`
+`invuln death` / `invult everything` (via dev console)
+
 ###  TAS (frame-perfect input), i suppose  
 never thought id be interested in that  
 https://discord.com/channels/291184728944410624/824027398948782180/1243298921313210378 TODO check it again btw  

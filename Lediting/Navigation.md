@@ -1,5 +1,6 @@
 Document-wide navigation notes: [[General doc navigation|here]]
 
+v TODO
 room making covers
 - room types and their requirements
 - how to use level editor and devtools
@@ -11,9 +12,7 @@ region making covers
 - adding lore-important items like pearls, broadcasts and echoes
 - in-depth .txt files modifications
 
-
-
-
+----------------------------
 
 Are you new to lediting or need a step-by-step tutorial to make a basic room? [[0. Getting started|getting started]].  
 Are you looking for:  
@@ -35,9 +34,10 @@ Talking bout the rest stuff, there are 4 possible ways how that could be done:
 	- If you don't:  
 		- check Dev Tools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
 		- check [[Lediting/Useful mods list#Dependencies|libraries' docs]]  
-- via [[0. Region files#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
-- with [[create custom palette|custom palettes]] (recoloring pipes / sky / water / acid, room-wide color manipulation)  
+- via [[Region files#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
+- with [[Custom palette|custom palettes]] (recoloring pipes / sky / water / acid, room-wide color manipulation)  
 	If you have access to the room, open Dev Tools interface in it, try changing palettes (main palette, fade palette, accent colors) and see if color of what you need changes
-- in very rare cases, its configured via code (like progress bar for gates)
+- in very rare cases, its configured via code (like progress bar for gates or... raindeer rooms or smth? TODO clarify)
 
 If you're looking for hacky stuff, check "Fancy lediting tricks" folder.
+
