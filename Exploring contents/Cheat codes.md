@@ -5,7 +5,6 @@ There are 2 types:
 - proper file name (sometimes with proper contents)
 - setup values in `setup.txt` file (**Dev Tools must be enabled**)
 
-https://rainworld.miraheze.org/wiki/Configuration_Files
-
-apparently this one is more exhaustive aughhhhhhhhhhhhh TODO
 https://steamcommunity.com/sharedfiles/filedetails/?id=2979934883
+
+There's also a [Wiki page](https://rainworld.miraheze.org/wiki/Configuration_Files) related to said feature but it lacks some values, comparing to Steam guide.

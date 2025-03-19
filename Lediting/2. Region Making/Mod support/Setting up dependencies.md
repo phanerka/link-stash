@@ -1,9 +1,9 @@
-are set up via modinjo.json.
+Are set up via `modinfo.json`.
 
 2 types:
-- hard dependencies - required to be enabled, your mod wont be enabled otherwise.
+- hard dependencies - your mod HAS to be enabled with dependency.
 	Related keys: `requirements` (for mod IDs), `requirements_names` (for user-friendly mod name)
-- soft dependencies - not required to be enabled with your mod
+- soft dependencies - you mod can be enabled without dependency, however enabling dependency will provide more features in your mod.
 	Related keys: `priorities` (for mod IDs)
 	If possible, it's better to set MSC as soft dependency to not leave your mod behind paywall. 
 
@@ -12,9 +12,9 @@ To find ID of another mod, you can:
 - check in `modinfo.json` of said mod in its [[Other mods|folder]]
 
 
-### Mod existence based condition
+### Setting up as soft dependency
 #crs required
-Can be applied to:
+Mod / region existence based condition. Can be applied to:
 - creature spawns
 - room connections
 

@@ -6,14 +6,20 @@ Region that have no Meadow support will have **Shoreline** settings by default.
 
 To configure music, you'll have to add `meadowPlaylist.txt` file to `your-mod\world\xx\` directory.  
 In the file, define on separate lines:
-- vibe zone properties  
-Vibe zone is a pre-selected region room that can be warped into anytime (via pause menu). Unlike other rooms (which play songs from playlist for background music), its music is procedurally generated.  
- Define through comma:
-   - name of the room that will be vibe zone   
-   - minimum radius of vibe zone (relies on world coordinates)
-   - maximum radius of vibe zone
-   - waveform value (acceptable: `Trisaw`, `Clar`, `Litri`, `Sine`, `Bell`)
-- songs playlist for area outside vibe zone  
+- vibe zone properties
+	Vibe zone is a pre-selected region room that can be warped into anytime (via pause menu). Unlike other rooms (which play songs from playlist for background music), its music is procedurally generated.  
+	Define through comma:
+	- name of the room that will be vibe zone   
+	- minimum radius of vibe zone (relies on world coordinates)
+	- maximum radius of vibe zone
+	- waveform value (type of procedural music).  
+	   Acceptable:
+		 - `Trisaw`
+		 - `Clar`
+		 - `Litri`
+		 - `Sine`
+		 - `Bell`
+- list of songs for area outside vibe zone  
 List of all songs can be found & listened to in Meadow mod folder, i.e. :  
 `Steam\steamapps\workshop\content\312520\3388224007\music\songs\`
 

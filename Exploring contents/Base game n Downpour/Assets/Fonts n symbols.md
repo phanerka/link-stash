@@ -1,7 +1,7 @@
 *Some fonts are encrypted in a form of [[Exploring contents/Base game n Downpour/Assets/index#Sprites|sprite atlases]]. Others technically don't even exist (entire label is just a sprite).*  
 *The fonts below are made by the community, for convenient usage.*
 
-Online website to check the font without having to install it:
+Online website to check the font without having to install it:  
 https://fontdrop.info/?darkmode=true
 
 ## RW title
@@ -75,7 +75,7 @@ Rain World 2
 > - bitmap image of all characters, stored as a sprite in font atlas
 > - bitmap decryptor for said image, that tells location of each character in the image.
 >  
-> Converting said font to modern format (`.ttf` aka TrueType) is hard due to 2 reasons:
+> Converting said font to modern format (`.ttf` aka TrueType) is hard due to 2 reasons:  
 > - such weird file structure is made by [BMFont](https://www.angelcode.com/products/bmfont/), and barely any app supports it
 > - TrueType format supports vector images, while RW fonts are based on bitmap image (which is raster)
 >  

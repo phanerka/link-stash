@@ -4,7 +4,7 @@ either wiki guys are compiling info into wiki page or im doing it myself :)
 basically the list:
 - xx_s01
 - region vista
-- i forgor some option?...
+- starter room
 
 # full support
 wawa

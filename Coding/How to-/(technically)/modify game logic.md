@@ -1,8 +1,10 @@
 hookerino  
-https://rainworldmodding.miraheze.org/wiki/Hooking
+https://rainworldmodding.miraheze.org/wiki/Hooking  
+https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Standard_hooking
+
 
 example:  
-https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/IL_hooking/Slam
+
 
 Hooking a property  
 https://rainworldmodding.miraheze.org/wiki/MonoMod_RuntimeDetour
@@ -13,6 +15,9 @@ https://github.com/tModLoader/tModLoader/wiki/Expert-IL-Editing
 
 lmao chinese wiki  
 https://rwmoddingch.github.io/ChModdingWiki/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/IL%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B/
+
+example:
+https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/IL_hooking/Slam
 
 ##### Wrapping in try-catch with IL hook  
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1237868501960491141/1329397865029697587))

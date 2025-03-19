@@ -9,7 +9,7 @@ all future changes will go directly there!!!
 
 .... or not.
 welp
-here it goes to my doc then ig
+here it goes back to my doc then ig
 
 to replace remote links to local:  
 logOutput.log  

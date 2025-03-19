@@ -1,5 +1,6 @@
 ### Common rooms' naming  
 room names' identification or smth... head hurtie pls no bad wordie  
+`XX_N01`
 \[region acronym]\_\[amount of screens in a room, identified with a letter]\[room number]  
 
 For example, `SU_B05`:  

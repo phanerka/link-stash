@@ -12,8 +12,6 @@ https://slimecubed.github.io/slugbase/articles/world-state-tutorial.html
 
 For non-Slugbase based ways to configure world, refer to the page about [[Region files#Region files|region files]]. 
 
-If you want to
-- change a bit of regions
 ### New slugcat-specific lines for the yapbot
 #crs required
 here

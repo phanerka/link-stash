@@ -1,3 +1,6 @@
+> [!warning] Warning on DNSpy links
+> Due to big popularity of DNSpy, there are seemingly "official" websites and project forks in the wild that actually contain malicious code. Be careful and download the app only from sources you trust.
+
 Download link:
 https://github.com/dnSpyEx/dnSpy
 
@@ -46,7 +49,7 @@ how to use dnspy vid?
 > Modifying Assembly-CSharp is highly discouraged, as your mod becomes ~~no more portable and generally applicable~~ highly incompatible with other mods and impossible to upload to Steam Workshop, and distributing it enters legally grey area (since your file will consist of 99% base game code).  
 >   
 > You might want to follow same steps to tweak different mod, but you'll have to keep in mind that:  
-> - u gotta know IL code son cause writing in C# doesn't always work (and might break things)  
+> - u gotta know IL code son cause C# code won't always be able to be compiled (and might break things)  
 > - you gotta replace your freshly saved plugin in DNSpy every time you change smth or it will break  
 >   
 > Instead, it's usually advised to just make a separate mod what will hook the code you want to change.

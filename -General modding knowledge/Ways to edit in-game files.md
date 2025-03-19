@@ -1,6 +1,11 @@
 > [!warning] A thing to keep in mind
 > Friendly reminder that it works with *region files* but it might not work with literally everything else; in that case, refer to [[import X resource|coding section]].
 
+That applies to *any* file in the game, with the exception of:
+- shaders (they need to be put into assetbundle. More info in correponding section)
+- ???
+
+
 ^ actually its kinda wrong TODO
 
 Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  

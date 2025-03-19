@@ -1,43 +1,18 @@
 Document-wide navigation notes: [[General doc navigation|here]]
 
-v TODO
-room making covers
-- room types and their requirements
-- how to use level editor and devtools
-- all (except region settings-related) possible ways to decorate the room
+Are you new to lediting or need a step-by-step tutorial to make a basic room? Head straight to "[[0. Getting started|Getting started]]"!  
 
-region making covers 
-- region files, what they do 
-- creating a specific room type
+Room making covers:
+- basic requirements for adding a room in the game
+- how to use level editor and Dev Tools
+- possible ways to customize the room
+
+Region making covers:
+- region folder structure
+- region files description
+- setting up various room types
 - adding lore-important items like pearls, broadcasts and echoes
-- in-depth .txt files modifications
+- adding music triggers via Dev Tools
+- tasks required to complete before region release
 
-----------------------------
-
-Are you new to lediting or need a step-by-step tutorial to make a basic room? [[0. Getting started|getting started]].  
-Are you looking for:  
-- (TODO delete probs) something that's important for region making? [[Region making]]  
-- list of mods and their documentation? [[Lediting/Useful mods list|Useful mods list]]  
-- some specific object / property to add in room? Check the section below ⬇ 👁 👁  
-- pre-devtooling specific tutorial? "How to-" folder  
-`(custom palette isnt pre devtooling DAMMIT)`
-
-### Figuring out how to add specific object / property to the room  
-honestly, just ask in any server lmao  
-but...
-
-All lore-important objects are described in "How to add X in the mod".  
-Talking bout the rest stuff, there are 4 possible ways how that could be done:  
-- via Dev Tools  
-	- If you have access to the room with what you want in game:  
-		enter the room, open Dev Tools interface and check Objects and Properties tabs  
-	- If you don't:  
-		- check Dev Tools [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Interface_Tabs) and search what you need in "Objects" and "Room Settings" tabs via `Ctrl + F`  
-		- check [[Lediting/Useful mods list#Dependencies|libraries' docs]]  
-- via [[Region files#properties.txt|region properties]] (recoloring creatures, setting amount of creatures)  
-- with [[Custom palette|custom palettes]] (recoloring pipes / sky / water / acid, room-wide color manipulation)  
-	If you have access to the room, open Dev Tools interface in it, try changing palettes (main palette, fade palette, accent colors) and see if color of what you need changes
-- in very rare cases, its configured via code (like progress bar for gates or... raindeer rooms or smth? TODO clarify)
-
-If you're looking for hacky stuff, check "Fancy lediting tricks" folder.
-
+external map making covers ..duh.

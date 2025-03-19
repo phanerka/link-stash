@@ -1,3 +1,6 @@
+https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Project_organization
+?
+
 ### Tech tips  
 ##### symlinking  
 go into `Rain World\RainWorld_Data\StreamingAssets\mods\`  

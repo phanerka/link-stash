@@ -21,10 +21,12 @@
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more objects for DevTools.   
 - [Lunacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2930814260) ([docs](https://github.com/Nacu0021/Lunacy)): yet another feature library.  
 - [KO Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=3443204574) :3
-- [The M4rbelous Entity Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3311812030): new creatures and items pack.  
-TODO: should i mention other item/creature mods here or just list to steam workshop?  
-or actually... just make foldable list?  
-- [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588):  self-explanatory.  
+- [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588): self-explanatory.  
+> 
+- [The M4rbelous Entity Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3311812030): biggest custom creatures and items pack.  
+
+All other modded creatures and items can be found on RW Mods Wiki ([Creatures list](https://rainworldmods.miraheze.org/wiki/Creatures) and [Items list](https://rainworldmods.miraheze.org/wiki/Objects)).  
+*Make sure to ask mod authors for permission to use them!*
 
   
 Mod collection (without Palette Creator) is here. 

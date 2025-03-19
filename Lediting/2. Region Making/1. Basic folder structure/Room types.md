@@ -8,7 +8,7 @@ https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templ
 https://www.youtube.com/watch?v=t1_JnDUNtaY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=5
 
 > [!note] A lil note on guide 
-> Entire page assumes that `xx` / `XX` and `yy` / `YY` are respective [[Region acronym|acronyms]] of regions you want to connect. Replace every single mention of them with actual region acronyms you're going to use. 
+> Entire page assumes that `xx` (`XX`) and `yy` (`YY`) are respective [[Region acronym|acronyms]] of regions you want to connect. Replace every single mention of them with actual region acronyms you're going to use. 
 
 Requires:
 - gate render files being put inside `your-mod\world\gates\` folder (**unlike all other room renders which are in `your-mod\world\xx-rooms\`!**)
@@ -37,7 +37,7 @@ Requires:
 
 Optional:
 - `your-mod\modify\world\gates\egates.txt`  
-	*Makes gate electric.*  
+	*Makes gate electric (works without water).*  
 	Add the following line there to make it work:  
 	`[ADD]GATE_XX_YY`
 
@@ -60,7 +60,7 @@ https://seroen.github.io/Seroens-Repo/Dist/Templates/Shelter%20Templates.zip
 For separate files download:  
 https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Shelter%20Templates  
 
-## General shelter
+## Common shelter
 Requires `: SHELTER` tag in `world_xx.txt`
 
 TODO add notes on shelter tiles usage, probs with preview  
@@ -77,19 +77,18 @@ Requires `: ANCIENTSHELTER` tag in `world_xx.txt`
 
 Friendly reminder that Warp Menu does not recognize this tag and puts ancient shelters in list of general rooms
 # Scavenger toll room
-Requires `: SCAVOUTPOST` tag in `world_xx.txt`.
-
-TO-DO:
-- `ScavengerOutpost` object in room, more info in [this table](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#Object_Library)
+Requires:
+- `: SCAVOUTPOST` tag in `world_xx.txt`
+- `ScavengerOutpost` object in room, more info in [Dev Tools objects list](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Objects-0) in Wiki
 - scavengers themselves lol
-	- set their spawns in `world_xx.txt`  
+	- set their spawns in `world_xx.txt` (main page about `world_xx.txt` [[Region files#world_xx.txt|here]])  
 		All scavs go to ~~hell~~ offscreen. The following example will spawn 2 scavengers:  
 		`OFFSCREEN : 0-Scavenger-2`  
 	- add scavenger holes to the rooms
 # Scavenger merchant room
 Requires
 - `: SCAVENGERTRADER` tag in `world_xx.txt`
-- `TradeOutpost` object in room, more info in that table ugh
+- `TradeOutpost` object in room, more info in [Dev Tools objects list](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Objects-0) in Wiki
 
 # Rubicon arena
 Requires `: ARENA` in `world_xx.txt`
