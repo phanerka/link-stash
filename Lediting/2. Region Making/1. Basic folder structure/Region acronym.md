@@ -1,5 +1,5 @@
 Acronym is 2-letter identifier for a region.  
-If someone gets 2 regions with same acronyms.... Eh, they better not. Trust me.
+If someone gets 2 different regions with same acronyms.... Eh, they better not. Trust me.
 > [!info] Note on acronyms
 > Recently, a [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061) was released that allows to use more than 2 letters for acronym. Yay!  
 

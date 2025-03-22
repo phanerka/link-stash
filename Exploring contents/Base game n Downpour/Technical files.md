@@ -197,7 +197,8 @@ yeah i blatantly stole descs from ;allthelogs pls spare me
 Created by BepInEx, a Unity mod loader.  
 > [!info] if more that one instance are running on a single PC:  
 > second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc.   
-##### CustomRegionsSupport log #crs   
+##### CustomRegionsSupport log 
+#crs   
 `Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`  
 Useful for lediting.   
 Resolving issues with it: [[Lediting/2. Region Making/Troubleshooting]]  

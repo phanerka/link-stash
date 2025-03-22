@@ -30,7 +30,8 @@ are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym)
 TODO map exporter for online maps!!!!!  
 check out [[References n inspiration#Region maps|rain world maps]] for quick view, [[References#Github images repository|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  ???? (all region rooms) for manual rendering.  
 - project files for lediting  
-refer to [[Ways to edit in-game files#modify rendered image]]
+Refer to "[[Editing in-game rooms]]" page.
+
 
 Static map images:  
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA
@@ -57,7 +58,7 @@ Connections map and AI map are added on room baking.
 
 ##### Geometry array structure
 All rooms' data is horizontally mirrored and rotated by 90 degrees counterclockwise. 
-
+\[uh imagine image here]
 First attribute:
 - 0: air
 - 1: full tile

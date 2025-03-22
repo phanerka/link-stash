@@ -1,10 +1,11 @@
 > [!warning] A thing to keep in mind
 > Friendly reminder that it works with *region files* but it might not work with literally everything else; in that case, refer to [[import X resource|coding section]].
 
-That applies to *any* file in the game, with the exception of:
+In general, it applies to *any* file in the game, with some exceptions:
 - shaders (they need to be put into assetbundle. More info in correponding section)
-- ???
+- ??
 
+Room files are complicated. 
 
 ^ actually its kinda wrong TODO
 

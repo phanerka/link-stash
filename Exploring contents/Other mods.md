@@ -13,7 +13,7 @@ https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 ### Technical files
 Could be:
 - save files
-- logs (except [[Technical files#CustomRegionsSupport log crs|CRS]] since it's a must-have for lediting in general)
+- logs (except [[Technical files#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
 
 Check "Coding" -> "How to-" -> "add mod compat" [[Coding/How to-/add mod compat/index|folder]].
 ### Code
@@ -21,12 +21,7 @@ To look up for open source mods, easiest solution is to open RW Workshop page an
 
 You can debug other mods just like [[Coding/Troubleshooting|your own mod]]. 
 ### Regions
-Region mods' project files:
-> [!warning] Disclaimer 
-> **Make sure you read [this](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
-**You may use Deserted Wastelands ONLY for reference.**
-
-https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects
+Main page on region project files is [[Editing in-game rooms|here]].
 #### Decrypting lines from CRS regions  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
