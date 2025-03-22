@@ -1,7 +1,7 @@
 *This page is dedicated to adding music **in room via Dev Tools**.*  
 
 *To add music **in the game itself**, refer to [[How to add in game|music making section]].*  
-*To add **new sounds**, refer to [[add new sounds|coding section]].*
+*To add **new sounds**, refer to [[Sounds|coding section]].*
 
 Open Dev Tools interface, then switch to:
 - [Sounds](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Sounds-0) tab, for setting up: 

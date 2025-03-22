@@ -1,4 +1,4 @@
-*For general Meadow support like syncing and blacklisting mods, go to [[Coding/How to-/add mod compat/Meadow|coding section]].*
+*For general Meadow support like syncing and blacklisting mods, go to [[Meadow|coding section]].*
 
 Spreadsheet with music distribution in base regions:  
 https://docs.google.com/spreadsheets/d/1rg14d7qPAnuyraE7zkSZvkA_8_6gDy_nrsypO1f6MaQ/edit  

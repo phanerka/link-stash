@@ -1,13 +1,12 @@
 > [!warning] A thing to keep in mind
-> Friendly reminder that it works with *region files* but it might not work with literally everything else; in that case, refer to [[import X resource|coding section]].
+> In general, it applies to *any* game asset, with some exceptions:
+> - [[Fonts n symbols#How to compile font on ur own|fonts]] 
+> - [[Coding/Guides/Loading custom assets/Shaders|shaders]] (they need to be put into AssetBundle)
+> - [[Sounds|sounds]] (they consist of 2 files: music file and text file) 
+> 
+>  hopefully i named everything here
 
-In general, it applies to *any* file in the game, with some exceptions:
-- shaders (they need to be put into assetbundle. More info in correponding section)
-- ??
-
-Room files are complicated. 
-
-^ actually its kinda wrong TODO
+TODO mention that location should be folder with blank (dummy) files
 
 Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  
 For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
@@ -24,6 +23,7 @@ If you want to **straight up override** original files, for example:
 then you put file with *SAME* name as in-game file in `your-mod\%file_path%` directory.  
 In case of `SU_A53` image, that would be `your-mod\world\su-rooms\su_a53_1.png`.  
 ### Modifying
+*Works **only** with text files!*  
 **Main Wiki page:**  
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
 

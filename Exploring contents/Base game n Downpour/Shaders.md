@@ -1,7 +1,7 @@
 *Compiled shaders are encrypted in AssetBundle, in `Shader` folder.*
 Location: `Rain World\RainWorld_Data\resources.resource`
 
-However, source code (for referencing) is available:
+However, source code (for referencing) is available unecrypted:
 `Rain World\RainWorld_Data\StreamingAssets\shaders`  
 
 put preview here 

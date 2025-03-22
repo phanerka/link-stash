@@ -2,13 +2,13 @@
 ### Things to know  
 C# my ass  
 Useful concepts (you can learn them later):  
-- [[modify game logic|Hooking / IL hooking]] (to modify base game logic)  
-- [[store data for existing objects|ConditionalWeakTables]] (to store data)  
-- [[add a creature or item|EnumExt]] (to register new objects)  
+- [[! Modifying game logic|Hooking / IL hooking]] (to modify base game logic)  
+- [[Storing data for existing objects|ConditionalWeakTables]] (to store data)  
+- [[New creature or item|EnumExt]] (to register new objects)  
 ### Things to download  
 - IDE for C#
 
-If you're planning to [[add new shader|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Unity version|specific version]] of Unity. It's very bulky, make sure to do it beforehand!  
+If you're planning to [[Coding/Guides/Loading custom assets/Shaders|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Unity version|specific version]] of Unity. It's very bulky, make sure to do it beforehand!  
 #### Setting up RW for debugging  
 > [!info] Disclaimer  
 > It's your choice whether you want to do it or not.  

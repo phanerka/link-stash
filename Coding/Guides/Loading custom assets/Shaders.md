@@ -8,7 +8,7 @@ Full guide:
 https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/edit  
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1237835470080180235))
 
-you WILL have to make [[import X resource|AssetBundle]] to load shader in game.
+you WILL have to make AssetBundle to load shader in game.
 
 ;-; i dont wanna copy stuff
 

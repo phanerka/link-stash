@@ -2,7 +2,7 @@ vid by henpe is highly suggested to watch (abstract objects/realized objects; wh
 
 Maybe you'd like to use Fisobs.
 
-is based on [[create an object|creating an object]], so make sure to check it as well.   
+is based on [[! Creating an object|creating an object]], so make sure to check it as well.   
 ### ExtEnum
 
 All object type IDs are realized via ExtNum.  

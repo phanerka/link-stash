@@ -44,7 +44,13 @@ https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pag
 props (same as above)
 https://docs.google.com/document/d/147crgDMY4ScrU8vn8Kl6gOXsbfbb5raprUAXaNhWndw/edit?tab=t.0#heading=h.d8sdxl34h7wg  
 
-##### Making init.txt file  
+#### Box type tiles
+  
+tile fype structure (TODO i should make it more transparent.)  
+(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/838172761549045761))
+
+
+### Making init.txt file  
 ![[Tile_Guide.png]]
 
 Specs Editor  

@@ -1,4 +1,4 @@
-Entire room coloring is made via [[Shaders#Documentation on LevelColor shader|LevelColor]] shader.
+Entire room coloring is made via [[Exploring contents/Base game n Downpour/Shaders#Documentation on LevelColor shader|LevelColor]] shader.
 
   
 45 degrees:  

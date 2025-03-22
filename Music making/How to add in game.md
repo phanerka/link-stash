@@ -1,7 +1,7 @@
 *This page is dedicated to adding music **in the game**.*
 
 *To add music **in particular room**, refer to [[Music or sounds|lediting section]].*  
-*To add **new sounds**, refer to [[add new sounds|coding section]].*
+*To add **new sounds**, refer to [[Sounds|coding section]].*
 
 ## Arena music
 To tweak arena music list, you might need:

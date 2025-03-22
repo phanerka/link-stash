@@ -30,7 +30,7 @@ to lessen pain i suppose
 Creatures' IDs affect their visual appearance but it doesn't mean every creature got unique ID in game.  
 Vertical spears note, cause some variable isn't used iirc
 
-Bout shaders: go [[add new shader|here]]
+Bout shaders: go [[Coding/Guides/Loading custom assets/Shaders|here]]
 
 All general input goes here. ESC key handling goes here.
 ### Hardcoded info
