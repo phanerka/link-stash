@@ -1,0 +1,3 @@
+- IllustrationLocalizationHelper
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
+- 

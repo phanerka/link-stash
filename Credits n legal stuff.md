@@ -28,11 +28,7 @@ Wiki is good as it is overall, as place of exhaustively described features in mo
 The rule doesn't apply to moving *part of info* to wiki, though. Please reach me out if you do so, so that info won't be duped here and there.
 
 # Credits  
-I credited people here:  
- - whose guides/words were copied due to info in Discord servers being not very easy to access  
- - who weren't directly credited neither had source link to their message
-
-However, if you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out.   
+If you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out.   
 **dis: `phanie_`**
 
 what i did / am planning to do:  
@@ -45,20 +41,21 @@ what i did / am planning to do:
 - organized files
 
 the sleepy scug pic is made by me bruh.... based on survivor sleeping sprite ofc  
+
 quintennial: shared their modified Rodondo font for my title thing. Thx a lot :3  
 and Olly Wood since they're original creators of the font
 
+Huuuuuge and separate thanks to `jonahfagnus` for giving a big feedback on my website 🔥  
+## Whose messages were referenced
 jonahfagnus: lediting guides, room/region idea generator creation
 
-  
-i honestly dont know if i should mention like, *EVERYONE*
-actually i will, for others convenience
+i WILL mention everyone. yeah.
+## Whose links were attached
+ludocrypt: numerous youtube tutorials on lediting (they're pretty sick) 
 
-aight  
-ludocrypt: created numerous youtube tutorials on lediting (they're pretty sick) 
-
-TODO add special apologies
+## Special apologies
+TBA TODO
 in case someone wouldn't like their name to be publicly shown
-### Special thanks
+## Special thanks
 notchoc, the foo, uo, henpemaz and the rest of meadow community
 for inspiring me to start ~~doing anything in this life~~ rw modding
