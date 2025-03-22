@@ -1,9 +1,13 @@
 # Getting already existing ones  
-- [Tile packs](https://seroen.github.io/Seroens-Repo/tiles.html) and [prop packs](https://seroen.github.io/Seroens-Repo/props.html) from the Warehouse (if you want to get them all: [Github repo](https://github.com/Seroen/Seroens-Repo-Files))  
+- from Solar's Warehouse.
+	Themed packs:
+	- [tile packs](https://solaristheworstcatever.github.io/Repo-Site/tiles.html) page
+	- [prop packs](https://solaristheworstcatever.github.io/Repo-Site/props.html) page
+	- [material packs](https://solaristheworstcatever.github.io/Repo-Site/materials.html) page
+	- [effect packs](https://solaristheworstcatever.github.io/Repo-Site/effects.html) page
+	All-in-one packs: [here](https://solaristheworstcatever.github.io/Repo-Site/index.html#compilations)
 - RWMS: [`#tiles-and-props`](https://discord.com/channels/1237826015829557400/1240708497469866134) | [D](discord://discord.com/channels/1237826015829557400/1240708497469866134) (most recent ones might not be included in the repo above.... *yet*)  
-- [Mo' Tiles](https://github.com/rwslugcat/mo-tiles-rw/releases/tag/release)  
-- [TotallyDutch's RW Tiles](https://github.com/totallydutch/Totallydutch-s-RW-tiles)  
-It seems that some tiles were not included in the Warehouse, so it was included separately.
+- [Mo' Tiles](https://github.com/rwslugcat/mo-tiles-rw/releases/tag/release) (not added yet?)
 
 # Viewing tiles  
 ##### rw_tileman
@@ -23,7 +27,7 @@ https://github.com/LudoCrypt/TileVisualizer/releases
 ### effects  
 >[!warning] supported ONLY by Community Editor and Rained at the moment.  
 https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects  
-Example effects are stored in Seroen's [Github repo](https://github.com/Seroen/Seroens-Repo-Files/tree/main/Effects/Example%20Effects)   
+Example effects are stored in Solar's [Github repo](https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/Effects/Example%20Effects)  
 ### tiles and props  
 Tutorial  
 tbh its pretty good for getting started  
@@ -50,7 +54,8 @@ to help with init file:
 Tile Init Editor #utils  
 https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view 
 
-##### Blender prop renderers #utils  
+##### Blender prop renderers
+#utils  
 You can create props using Blender.   
 - standard prop exporter  
 	- For Blender v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I))   

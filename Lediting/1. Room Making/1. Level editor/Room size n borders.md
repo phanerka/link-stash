@@ -5,9 +5,9 @@ Default size:
 # Multi-screen rooms
 ### Multi-screen room templates 
 #templates  
-https://seroen.github.io/Seroens-Repo/Dist/Templates/Size%20Templates.zip  
+https://solaristheworstcatever.github.io/Repo-Site/Dist/Templates/Size%20Templates.zip
 For separate files download:  
-https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Size%20Templates
+https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/LevelEditorProjects/Templates/Size%20Templates
 
 ### Setting up manually
 Approximate formula for calculating multi-screen room size:

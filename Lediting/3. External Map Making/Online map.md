@@ -1,6 +1,6 @@
 (??)
 When you finish the region, you'll likely want its map to be shared.  
-https://seroen.github.io/Seroens-Repo/Dist/Tools/Cornifer.zip  
+https://solaristheworstcatever.github.io/Repo-Site/Dist/Tools/Cornifer.zip
 Check this and reach out Alduris to post your region map. 
 
 ##### Map exporter beta  

@@ -5,7 +5,7 @@ Region project files are located in the Warehouse. Render them manually and put 
 
 Contains modded regions project files as well.
 > [!warning] Disclaimer on using MODDED regions project files
-> **Make sure you read [this](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
+> **Make sure you read [this](https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt) before you use any of region packs.**
 **You may use `Deserted Wastelands` (`DW`) region ONLY for reference.**
 
 

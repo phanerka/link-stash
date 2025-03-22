@@ -9,7 +9,7 @@ The main comprehensive guide is in [[Lediting/2. Region Making/index|Region Maki
 > 
 > Any of these mistakes will most likely make your game crash on campaign launch.
 # in existing region
-^ is easier than the next option
+*Is easier than the next option.*
 
 Let's take outskirts for example. Its [[Region acronym|acronym]] is `SU`.
 - put all your room files in the mod 
@@ -52,7 +52,7 @@ XX.
 	```
 	Just copypaste it into `world_xx.txt`.
 	
-	Between `ROOMS` and `END ROOMS`, add a new line and write the following file:
+	Between `ROOMS` and `END ROOMS`, add the following line:
 	`SU_X01: DISCONNECTED, DISCONNECTED, DISCONNECTED`
 	the result goes here yada yada
 - modify world region acronyms file so the game would know about your region

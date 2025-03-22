@@ -1,9 +1,9 @@
 # Gate  
 ### Gate templates
 #templates  
-https://seroen.github.io/Seroens-Repo/Dist/Templates/Gate%20Templates.zip  
+https://solaristheworstcatever.github.io/Repo-Site/Dist/Templates/Gate%20Templates.zip
 For separate files download:  
-https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Gate%20Templates  
+https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/LevelEditorProjects/Templates/Gate%20Templates
 ### YT Tutorials  
 https://www.youtube.com/watch?v=t1_JnDUNtaY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=5
 
@@ -33,16 +33,20 @@ Requires:
 	`[ADD]GATE_XX_YY : KARMALEFT : KARMARIGHT : SWAPSYMBOL` , where  
 	- `KARMALEFT` and `KARMARIGHT` are respective karma requirements for each side in range of `1-5`
 	- `: SWAPSYMBOL` is an optional tag; if added, it swaps karma requirement shown on the map.
-	
 
-Optional:
+(the guide was made based on this message from [RWMA](https://discord.com/channels/1083481230839922688/1083485771949949019/1205579329413709876) and ludos tutorial videos)
+#### Electric gate
+*Is gate that works without water.*
+
+Mostly same things to do but
+- Instead of gate template, grab `dryGate` template
 - `your-mod\modify\world\gates\egates.txt`  
-	*Makes gate electric (works without water).*  
 	Add the following line there to make it work:  
 	`[ADD]GATE_XX_YY`
 
-(the guide was made based on this message from [RWMA](https://discord.com/channels/1083481230839922688/1083485771949949019/1205579329413709876) and ludos tutorial videos)
-### More gate customization #regionKit
+
+### More gate customization
+#regionKit
 
 If you want to:  
 - add uncommon requirement (6+ karma, always unlocked, one-directioned, mark of communication/glow as condition to pass)  
@@ -56,10 +60,9 @@ https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/GateCustomization
 
 ##### Shelter tempates
 #templates  
-https://seroen.github.io/Seroens-Repo/Dist/Templates/Shelter%20Templates.zip  
+https://solaristheworstcatever.github.io/Repo-Site/Dist/Templates/Shelter%20Templates.zip
 For separate files download:  
-https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Shelter%20Templates  
-
+https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/LevelEditorProjects/Templates/Shelter%20Templates
 ## Common shelter
 Requires `: SHELTER` tag in `world_xx.txt`
 
