@@ -13,7 +13,7 @@ https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 ### Technical files
 Could be:
 - save files
-- logs (except [[Technical files#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
+- logs (except [[Saves#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
 
 Check "Coding" -> "How to-" -> "add mod compat" [[Coding/Guides/Mod compatibility/index|folder]].
 ### Code

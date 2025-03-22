@@ -1,4 +1,4 @@
-Entire room coloring is made via [[Exploring contents/Base game n Downpour/Shaders#Documentation on LevelColor shader|LevelColor]] shader.
+Entire room coloring is made via [[Exploring contents/Base game n Downpour/Assets/Shaders#Documentation on LevelColor shader|LevelColor]] shader.
 
   
 45 degrees:  
@@ -30,14 +30,10 @@ TODO put a preview of this somewhere
 To avoid Google Colab you can use Jupyter Notebook, Spyder, and the like. If you want use the old versions or modify the new ones (just change the file input/output stuff) then you could use a mobile app like Carnets.
 ```
 
-Room rendering documentation #docs  
-[the doc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Manual%20Camera%20Rendering-dRiTNeFHKb6cMFENUkcMmEcMgOu45X.pdf)
-
+Room rendering documentation
+#docs  
+[the doc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Manual%20Camera%20Rendering-dRiTNeFHKb6cMFENUkcMmEcMgOu45X.pdf)  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714))
 
-todo: replace with [[Exploring contents/Base game n Downpour/Assets/index#Documentation on LevelColor shader]]  
-another doc on LevelColor shader (how the game renders rooms):   
-https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
+For more information on `LevelColor` shader, refer to [[Exploring contents/Base game n Downpour/Assets/Shaders#Documentation on LevelColor shader|this]] page.
 
-wiki page  
-https://rainworldmodding.miraheze.org/wiki/Level_Image_Format

@@ -73,7 +73,7 @@ OPO - OnlineEntity + APO
 OPOD (OPODefiniton) structure: (used for creating a new online object from scratch, that has no APO: `ApoFromDef()`)  
 - `int apoId` (own ID cause RW IDs suck :3)  
 - `ushort apoSpawn` (idk)  
-- `AbstractPhysicalObject.AbstractObjectType apoType` (type of APO; the list can be looked up in [[Technical files#Object IDs]])
+- `AbstractPhysicalObject.AbstractObjectType apoType` (type of APO; the list can be looked up in [[Saves#Object IDs]])
 
 Present new type of objects called `OnlinePhysicalObject` aka OPO in short:  
 OPO consists of:  

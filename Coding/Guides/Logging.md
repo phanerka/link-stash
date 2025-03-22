@@ -1,4 +1,4 @@
-Log locations are described [[Technical files#Logs|here]].
+Log locations are described [[Saves#Logs|here]].
 
 You can log variables on runtime if you [[Coding/Troubleshooting#DNSpy'ing|attach DNSpy]] to the game.
 

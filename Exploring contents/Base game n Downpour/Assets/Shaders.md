@@ -158,7 +158,10 @@ However, source code (for referencing) is available unecrypted:
 #docs  
 responsible for room coloring  
 https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18  
-(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))  
+
+wiki page  
+https://rainworldmodding.miraheze.org/wiki/Level_Image_Format
 
 ##### How shadows work
 https://twitter.com/joar_lj/status/1525445116789497856  

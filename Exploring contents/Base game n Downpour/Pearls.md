@@ -25,4 +25,4 @@ Getting to LTTM (`SL_AI` room):
 
 Alternative ways to get a pearl:
 - via dev console
-`spawn DataPearl [ID]`, where \[ID] - pearl ID (list of available IDs will be shown; base game / Downpour IDs also can be looked up [[Technical files#Object IDs|here]])
+`spawn DataPearl [ID]`, where \[ID] - pearl ID (list of available IDs will be shown; base game / Downpour IDs also can be looked up [[Saves#Object IDs|here]])

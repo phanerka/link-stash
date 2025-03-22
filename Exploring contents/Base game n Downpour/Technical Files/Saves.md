@@ -1,4 +1,3 @@
-### Saves  
 `%userprofile%\AppData\LocalLow\Videocult\Rain World`
 
 ??? TODO whats that  
@@ -9,12 +8,12 @@ https://github.com/Fnafgameur/RwSavEditor/releases/tag/First
 https://github.com/Vultumast/RainWorldSaveEditor  
 (TODO check if it still works)
 
-##### Sandbox save file structure
+### Sandbox save
 
 Honestly..... I don't know why you'd need it since you can spawn creatures via Beasmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes|cheat codes]]. But if you *do* need to read save files manually...  
 ![[sandbox-save.png]]  
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))  
-##### Object IDs
+### Object IDs
 
 Creatures:  
 (can be looked up in `CreatureTemplate.cs -> Type` class)  
@@ -185,26 +184,3 @@ Your files that are stored in Steam Cloud
 https://store.steampowered.com/account/remotestorageapp/?appid=312520
 
 ### Logs  
-yeah i blatantly stole descs from ;allthelogs pls spare me  
-> [!warning] All logs are cleared on game restart. Make sure to save them in time.  
-> Another option is to install [LogManager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069) mod and configure it. It also changes logs' locations to `idk i forgor`, however.
-
-> [!tip] Enabling live `LogOutput.log` logs: [[Coding/Tips#Live logs|coding tips]]
-
-**TODO: FINISH IT**  
-##### LogOutput log  
-`Rain World\BepInEx\LogOutput.log`  
-Created by BepInEx, a Unity mod loader.  
-> [!info] if more that one instance are running on a single PC:  
-> second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc.   
-##### CustomRegionsSupport log 
-#crs   
-`Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`  
-Useful for lediting.   
-Resolving issues with it: [[Lediting/2. Region Making/Troubleshooting]]  
-##### exception log  
-`Rain World\exceptionLog.txt`  
-Collects all errors that occurred in game. If no errors occur, it won't be created.   
-##### console log  
-Logs what is loading and happening in the game.  
-`Rain World\consoleLog.txt`
