@@ -1,3 +1,8 @@
+https://rainworldmodding.miraheze.org/wiki/Competitive_Mode_Spawns
+
+
+v will probs delete
+
 Configuration:
 - `PlayersGlow`
 - `GoalAmount - N`

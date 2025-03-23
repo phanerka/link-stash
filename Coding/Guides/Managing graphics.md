@@ -1,7 +1,7 @@
 >[!warning] Warning: my ass doesnt know anything bout that
 > I just posted links here cause it seems revelant
 
-Don't forget about [[Code#Magic numbers]] page, if you want to customize creature graphics.
+Don't forget about [[Clarifications#Magic numbers|Magic numbers]] page, if you want to customize creature graphics.
   
 rw graphics modding  
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0  

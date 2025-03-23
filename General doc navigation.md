@@ -6,6 +6,28 @@ If you're new and want to learn how to make/add X, in general I'd advise to:
 - check the *top guide / video tutorial*, *read / watch it from start to end* to get acknowledged with basics, and only *then* read the rest of page to see how you can change things yourself. I don't know your way of thinking, but otherwise you might feel confused and overwhelmed with all definitions and parameters!
 
 ### clarifications idk?
+
+... hold on i might confuse people with ACTUAL windows variables
+AAAAAAAAAAAAAAAAAAAAAAAAAAAaa
+
+Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  
+For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
+`Rain World\RainWorld_Data\StreamingAssets\world\su-rooms\`.  
+In this case, `%file_path%` would be `world\su-rooms\`.  
+
+
+To avoid 
+`%file_path%`: path starting from `StreamingAssets` folder.
+
+`%Steam%`: Steam installation folder. Default path: 
+`C:\Program Files (x86)\Steam`
+
+`%Rain World%`: RW location. Default path:
+`C:\Program Files (x86)\Steam\steamapps\common\Rain World`
+
+`%StreamingAssets%`: folder with most of RW assets. Location:
+`%Rain World%\RainWorld_data\StreamingAssets`
+
 should i make separate devtools page?  
 also add here on modification  
 

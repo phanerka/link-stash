@@ -10,7 +10,7 @@ https://github.com/Vultumast/RainWorldSaveEditor
 
 ### Sandbox save
 
-Honestly..... I don't know why you'd need it since you can spawn creatures via Beasmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes|cheat codes]]. But if you *do* need to read save files manually...  
+Honestly..... I don't know why you'd need it since you can spawn creatures via Beastmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes|cheat codes]]. But if you *do* need to read save files manually...  
 ![[sandbox-save.png]]  
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))  
 ### Object IDs

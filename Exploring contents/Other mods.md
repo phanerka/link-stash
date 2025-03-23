@@ -22,7 +22,16 @@ To look up for open source mods, easiest solution is to open RW Workshop page an
 You can debug other mods just like [[Coding/Troubleshooting|your own mod]]. 
 ### Regions
 Main page on region project files is [[Editing in-game rooms|here]].
-#### Decrypting lines from CRS regions  
+
+### PORLS
+looking up online: rw mods wiki
+#### Dialogues  
+Some will work with default with base decryption method. Some will not.
+
+If it doesnt, use this v
+
+To spawn a pearl, check [[Exploring contents/Base game n Downpour/Pearls#Exploring pearls in game|this]] page.
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
 (i yoinked tutorial from mod description and translated with DeepL)  

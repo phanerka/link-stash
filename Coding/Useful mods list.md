@@ -55,7 +55,5 @@ should i add regionkit here lmao
 - EmgTx [github](https://github.com/HarvieSorroway/EmgTx)
 вики нет но вы держитесь
 
-[Decryptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2933241596) is it dead?? TODO
-
   
 Mod collection is here.

@@ -8,10 +8,8 @@
 
 TODO mention that location should be folder with blank (dummy) files
 
-Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  
-For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
-`Rain World\RainWorld_Data\StreamingAssets\world\su-rooms\`.  
-In this case, `%file_path%` would be `world\su-rooms\`.  
+>[!info] Reminder on variables
+> This page uses custom variables, for better clarification. Refer to [[General doc navigation#clarifications idk?]] for their explanation.
 ### Overriding
 **Main Wiki page:**  
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files
