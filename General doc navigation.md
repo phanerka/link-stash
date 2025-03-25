@@ -10,10 +10,7 @@ If you're new and want to learn how to make/add X, in general I'd advise to:
 ... hold on i might confuse people with ACTUAL windows variables
 AAAAAAAAAAAAAAAAAAAAAAAAAAAaa
 
-Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  
-For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
-`Rain World\RainWorld_Data\StreamingAssets\world\su-rooms\`.  
-In this case, `%file_path%` would be `world\su-rooms\`.  
+
 
 
 To avoid 

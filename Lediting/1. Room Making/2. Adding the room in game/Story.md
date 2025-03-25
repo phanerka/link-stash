@@ -6,6 +6,7 @@ The main comprehensive guide is in [[Lediting/2. Region Making/index|Region Maki
 > - forgetting about `modify` folder (files placed in `modify` will *be merged* with base game files, not override them; more info [[Ways to edit in-game files|here]].)
 > - using `_` instead of `-` and vice versa
 > - writing words in incorrect order (e. g. `rooms-su` instead of `su-rooms`)
+> - deleting or renaming the image without leaving `_1` in the end
 > 
 > Any of these mistakes will most likely make your game crash on campaign launch.
 # in existing region

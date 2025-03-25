@@ -13,8 +13,7 @@ i should also make some templatte palette probs (typo intended)
 > The described path is outdated. Correct path:  
 > `Rain World\RainWorld_Data\StreamingAssets\palettes\`
 
-https://docs.google.com/document/d/1fY_KEpD5RaXHS7Ho-kPee4Fe-xIBp5ilMuQ0-UBG0is/edit?pli=1&tab=t.0#heading=h.cnykpdgzckp4  
-
+https://docs.google.com/document/d/1fY_KEpD5RaXHS7Ho-kPee4Fe-xIBp5ilMuQ0-UBG0is/edit
 
 # Adding palette in the game
 Put your new palette in `your-mod\palettes\` folder, named as `paletteN.png`, where N is a number.

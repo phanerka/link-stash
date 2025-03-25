@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1jEUJ23r1vTYXXoI21I1PexlfiIetJVzv/view
 (source: [Reddit post](https://www.reddit.com/r/rainworld/comments/1bei8sy/i_created_a_fully_functional_typeface_for_every/))  
 ![[rainworldsymbols.png|700]]
 ##### le doc
-https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit?usp=sharing  
+https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/822957346711928922))  
 
 Rain World 1  

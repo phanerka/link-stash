@@ -4,7 +4,7 @@
 Don't forget about [[Clarifications#Magic numbers|Magic numbers]] page, if you want to customize creature graphics.
   
 rw graphics modding  
-https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0  
+https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))
 
 partiality modding (but i care bout graphics)  

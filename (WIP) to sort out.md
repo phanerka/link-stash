@@ -3,7 +3,6 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
-https://rainworldmodding.miraheze.org/wiki/Challenges
 
 ? rw main
 https://discord.com/channels/291184728944410624/1349120847306293338
@@ -26,9 +25,6 @@ https://discord.com/channels/1237826015829557400/1237868553450029208/13364423843
   
 txt = new FLabel("font", "");
 
-bro what? is it finished???  
-https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Simple_/_UI_implementations
-
 Rain World Composite Screenshots:  
 https://ln.sync.com/dl/5644eba30/jtkgzkhc-jxeja24s-h3edv9g3-v84qz7kn  
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/518599984258613248))
@@ -39,19 +35,6 @@ isnt it better to turn into a mod
 or is there one already?
 
   
-image converter  
-oldie  
-https://ln.sync.com/dl/357bdf1b0/z6tktgzw-a77f8imc-yw45zfsd-aytdk8hz
-
-^ is it really useful at these days?
-
-v newer one  
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/772724366017691648))
-
-  
-a shitpost doc??? is it even conprehensible???  
-https://docs.google.com/document/d/1ZYdP58SA1_b5otzLhNYnkilrUuwhNutcrXAMwjryj7k/  
-(source: [RW Main](https://discord.com/channels/291184728944410624/965639206561009664/1309660909739708437))
 
 Layers to create a full room  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1306379121911136380))  

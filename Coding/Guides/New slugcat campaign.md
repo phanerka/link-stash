@@ -5,7 +5,7 @@ https://github.com/SlimeCubed/SlugBase/wiki
 
 ##### Mod ID reservation
 #sheets  
-https://docs.google.com/spreadsheets/d/1YlGNja-1UBAA51j_xYyjXHlMQ8S47I3RAfaw9rrvpUU/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1YlGNja-1UBAA51j_xYyjXHlMQ8S47I3RAfaw9rrvpUU/edit
 ### configuring worldstate
 **Main page:**
 https://slimecubed.github.io/slugbase/articles/world-state-tutorial.html
@@ -34,5 +34,5 @@ For adding art scenes, refer to [[make a scene|this]].
 ### Dating sim branch lease
 #sheets
 -# why..........  
-https://docs.google.com/spreadsheets/d/1NvUI05j_pJN3DXbi4124iH2J3r-wEeeWNyX3tJTM2PA/edit?usp=sharing  
+https://docs.google.com/spreadsheets/d/1NvUI05j_pJN3DXbi4124iH2J3r-wEeeWNyX3tJTM2PA/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1192167586796941312))

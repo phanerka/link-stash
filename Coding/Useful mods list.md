@@ -3,9 +3,20 @@
 Mods that could be useful:  
 ### Debugging  
 - Dev Tools (duh) ([[Dev Tools|main page]])  
-- [dev console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki))
+- [Dev Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki)): provides a list of various useful features from console.
 
-- [unity explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200)?  
+- [Unity Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200): universal debugging tool for Unity games. However, due to Rain World not using all of Unity features, the mod is less useful than in other Unity games in general.  
+	Provides:
+	- sprite atlases extraction via `Inspector` tab, however other specialized tools like `AssetRipper` are much easier to use (and can export more types of assets).
+	- internal logging window, which can also capture Unity Debug logs (`consoleLog.txt`.
+	- runtime preview and edit of variables, however same and (even better) can be achieved with Debug World.
+	- [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) code execution
+	- hooking methods with custom code support, adds code by default that logs parameters whenever the method is called (however doesn't have autocomplete)
+	- any method call from any time
+
+> [!warning] Warning on Unity Explorer usage
+> It doesn't prevent the game from capturing same input that is entered when the window is on. Disable Dev Tools to prevent its accidental enable via `O` or rebind toggle to another key via [Rebind Dev Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957).
+
 ##### Creatures manipulation  
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
 - [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game  
@@ -16,14 +27,16 @@ Mods that could be useful:
 - DevTools: when exabled in room, pressing `8` kills every creature in the room except scug
 
 ##### Debug/crash control  
+
+*TODO: check all these mods*  
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)  
-- [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) TODO ????  
+- [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) 
 - [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)  
-- [Rain World Try Catch](https://steamcommunity.com/sharedfiles/filedetails/?id=2922082966) ??? is it better???  
+- [Rain World Try Catch](https://steamcommunity.com/sharedfiles/filedetails/?id=2922082966) is it any different from the one above?  
 - [HookDebug](https://steamcommunity.com/sharedfiles/filedetails/?id=3414105084) - probably will help to detect mod compat issues.
 
 - [cutscene debug tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3269401924)  
-- [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342)([source code?](https://github.com/casheww/RW-ToolBox))
+- [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342) ([source code?](https://github.com/casheww/RW-ToolBox))
 
 - [DebugVisualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3136260525)  
 Controls (non-numpad):  
@@ -34,16 +47,15 @@ Controls (non-numpad):
 4 to toggle relationship visualizer  
 5 to toggle utility visualizer  
 6 to clear and reload sprites  
-- [Checkpointer](https://steamcommunity.com/sharedfiles/filedetails/?id=3168261789) idk if its helpful tbh  
 - [SuperVisualiser](https://steamcommunity.com/sharedfiles/filedetails/?id=3035802284)- shows various stats of creatures  
-- [BodyChunk Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3252161184) ?????
+- [BodyChunk Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3252161184) 
 
 - [Rain Reloader](https://steamcommunity.com/sharedfiles/filedetails/?id=3172072318) - quickly restarts entire game
 
 ##### Slowing down / stopping the game:  
 - [step by step](https://steamcommunity.com/sharedfiles/filedetails/?id=3311149960)?  
 - [physics speed config](https://steamcommunity.com/sharedfiles/filedetails/?id=2940029256)?  
-- [Game Speed Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=3413376142) ???????  
+- [Game Speed Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=3413376142) 
 ### Libraries  
 > [!warning] Friendly reminder to add following mods to [[Mod structure|modinfo.json]], if you're going to use them
 

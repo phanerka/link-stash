@@ -26,21 +26,25 @@ Main page on region project files is [[Editing in-game rooms|here]].
 ### PORLS
 looking up online: rw mods wiki
 #### Dialogues  
-Some will work with default with base decryption method. Some will not.
-
-If it doesnt, use this v
-
-To spawn a pearl, check [[Exploring contents/Base game n Downpour/Pearls#Exploring pearls in game|this]] page.
-
+Some will work with [[Dialogues#Encryption and decryption|default decryption]] method. Some will not.
+##### Via CRS Decryptor mod
+*Will help to decrypt pearls if everything else fails.*  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
-(i yoinked tutorial from mod description and translated with DeepL)  
-Tutorial for using it (take the pearl text of module Howling Rift as an example):  
-> 1. Get the pearl of Howling Rift.  
-> 2. Give the pearl to the iterator to read, trigger the reading of the pearl text file (here is HC_PIT.txt).  
-> 3. This module will generate the HC_PIT.txt.decrypted file in the same directory, open the file with a text editor to find this is the decrypted text.  
-> We don't know if the echoed text is available yet.  
->   
-> For those who want to translate the module, please note that you have to remove the .decrypted suffix at the end of the file and change the first character at the beginning of the file to “0” (0 means the file is unencrypted) for the game to be able to read it normally.  
->   
-> In addition, text that is not encrypted in the first place will be invalidly “decrypted” and a file will be created. I didn't special-case this because I'm lazy. If this causes problems, please let me know.  
+>[!warning] Warning on usage
+> Do NOT attempt to read already decrypted files! The mod will attempt them to decrypt as well, causing the contents to become unreadable.
+
+Tutorial (as example, the Howling Rift pearl with english dialogue is used):
+- get the pearl with dialogue you need to decrypt.
+	To spawn a pearl, check [[Exploring contents/Base game n Downpour/Pearls#Exploring pearls in game|this]] page.
+- give the pearl to any iterator to read it.
+- locate the path of dialogue file for the pearl in mod folder. There will be another file with same name but ends with `.decrypted`: it will contain decrypted dialogue. 
+	For Howling Rift pearl, it would be:
+	`Steam\steamapps\workshop\content\312520\2987817211\Text\Text_Eng\HC_PIT.txt` (for encrypted file)
+	`Steam\steamapps\workshop\content\312520\2987817211\Text\Text_Eng\HC_PIT.txt.decrypted` (for decrypted file)
+- open the `.decrypted` file, view or edit it.
+- once you're done and want to allow the game to read the file:
+	- remove the `.decrypted` line in file name
+	- replace the 1st character in the beginning of the file with `0`.  
+
+(source: translated from mod page)

@@ -1,3 +1,10 @@
+>[!wip] WIP PAGE
+> Not finished yet. Planned sections:
+> - Misleading logic / naming
+> - Hardcoded info
+> - Different naming
+> - Typos
+
 aye  
 to lessen pain i suppose
 ### Misleading logic / naming

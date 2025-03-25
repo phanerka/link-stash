@@ -1,8 +1,8 @@
 https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Project_organization
-?
 
 ### Tech tips  
 ##### symlinking  
+*TODO repeating wikis tutorial; probs delete it*
 go into `Rain World\RainWorld_Data\StreamingAssets\mods\`  
 type `cmd` in Address bar of Explorer, then paste the following:
 
