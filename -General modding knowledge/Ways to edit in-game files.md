@@ -1,10 +1,10 @@
 > [!warning] A thing to keep in mind
-> In general, it applies to *any* game asset, with some exceptions:
-> - [[Fonts n symbols#How to compile font on ur own|fonts]] 
-> - [[Coding/Guides/Loading custom assets/Shaders|shaders]] (they need to be put into AssetBundle)
-> - [[Sounds|sounds]] (they consist of 2 files: music file and text file) 
-> 
->  hopefully i named everything here
+> In general, it applies to *any* game asset, with some exception of [[Coding/Guides/Loading custom assets/Shaders|shaders]] (they need to be put into AssetBundle). 
+> Besides, some assets have got multiple files related to them: 
+> - [[Fonts n symbols#How to compile font on ur own|fonts]] (sprite sheet and text file AKA decryptor, more info in compiling font section)
+> - [[Sounds|sounds]] (music file and text file that allows to mix sounds) 
+
+
 
 TODO mention that location should be folder with blank (dummy) files
 
@@ -33,12 +33,15 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
 https://docs.google.com/document/d/1-n6fcQlVHS_ctQh-lULal8x4FfZ8N0eOWcZJ1G6pP0U/edit  
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/1273601361870721094))  
 
+*Due to complexity, map merging got own [[In-game map rendering|page]].*
+
 If you want to **change a part of** original files, for example:
 - add connection to your own room/region  
 - append own songs to song list for arena  
 - replace some creature spawns with custom ones,  
 
 then you _will_ have to use modification files.  
+
 ALL modification files require *SAME* name as in-game file BUT have to be put in `your-mod\modify\%file_path%` instead.  
 Speaking of example, room images cannot be edited for obvious reasons. Room settings file will be used instead (`su_a53-setings.txt`), which is located in same directory.  
 In that case, full path would be `your-mod\modify\world\su-rooms\su_a53-setings.txt`  

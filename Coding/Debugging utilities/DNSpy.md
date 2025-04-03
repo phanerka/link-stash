@@ -4,21 +4,23 @@
 Download link:
 https://github.com/dnSpyEx/dnSpy
 
-spy????? 🥖 🇫🇷 🇫🇷 🇫🇷   
 ### Setting up  
 To debug your own mod in DNSpy, drag-and-drop the built plugin that the game *is reading*, i.e. from  
 `Rain World\RainWorld_Data\StreamingAssets\mods\YOUR_MOD_NAME\plugins`
 
 > [!warning] Don't forget to replace it every time after build!
 
-to debug others mods:   
-`Steam\steamapps\workshop\content\312520`  
-TODO bruh i duped info, theres same one in [[Other mods]]
-### Attaching  
+Works with other (Workshop) mods as well; for locating them, refer to [[Other mods|this]] section. 
+### Attaching 
+
+>[!warning] Warning on attaching
+> Won't work with Linux or Mac.
+> I tried with Linux.
+
 If attaching doesn't work, try  
 - disabling all mods (clean `enabledMods.txt` file and `mergedMods` folder)  
 - disabling all network drivers (VPN, local network) except the one that provides internet connection  
-- ??? https://docs.unity3d.com/6000.0/Documentation/Manual/managed-code-debugging.html
+- check [Unity documentation](https://docs.unity3d.com/6000.0/Documentation/Manual/managed-code-debugging.html) (however, it doesn't seem of big use)
 
 maybe this will fix your things if you happen to find this archive and youre making a mod in visual studio (not visual studio code!! yes!!!!!) atm and want to debug that mod but cant for some reason:
 - go to your project properties
@@ -33,7 +35,7 @@ and move pdb file as well to your mod folder lmao
 Will work ONLY if you added the mod AND attached to the game.  
 todo goddammit
 
-"breakpoint could not be placed"
+"Breakpoint could not be placed"
 possible causes:
 - youre using the library thats not read by the game.
 - that part of code is overridden by another mod (like mergefix, concerning merging code). Explore that mod library or disable it.

@@ -36,7 +36,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
 Tutorial (as example, the Howling Rift pearl with english dialogue is used):
 - get the pearl with dialogue you need to decrypt.
-	To spawn a pearl, check [[Exploring contents/Base game n Downpour/Pearls#Exploring pearls in game|this]] page.
+	To spawn a pearl, check [[Exploring contents/Base game n DLCs/Pearls#Exploring pearls in game|this]] page.
 - give the pearl to any iterator to read it.
 - locate the path of dialogue file for the pearl in mod folder. There will be another file with same name but ends with `.decrypted`: it will contain decrypted dialogue. 
 	For Howling Rift pearl, it would be:

@@ -1,6 +1,9 @@
 *While DW doesn't do much on it's own, it allows DNSpy to attach to the game. More info about attaching is in DNSpy [[DNSpy#Attaching|section]].*
 ### Installing 
-get [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/coding/DebugWorld-rvrKbEeqowXM2GOMBub4GDKEjJfkuZ.zip) from `#modding-resources` channel.  
+TODO rework the section; RW is x64 now
+get [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/coding/DebugWorld-rvrKbEeqowXM2GOMBub4GDKEjJfkuZ.zip) from `#modding-resources` channel (source: ?????)
+TODO add one from github forums, by thalber
+
 Note that it has modified `Managed\Assembly-CSharp.dll` library, which causes all mods to be verified by mod version, not checksum. Also, it doesn't work with Meadow. Replace the library at own discretion.
 
 Just unzip the files and replace them in RW game folder.  
@@ -41,7 +44,7 @@ live logging in bepinex
 wait for manager debugger = 1
 etc etc
 
-#### "development build" label
+#### Hiding "development build" label
 The one in bottom left corner.  
 How to hide:  
 - open `Rain World\RainWorld_Data\Resources\unity default resources` file in any hex editor  

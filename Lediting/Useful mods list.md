@@ -7,7 +7,7 @@
 
 ##### Recommended
 - [Better Decals](https://steamcommunity.com/sharedfiles/filedetails/?id=3241776574): allows decals to be more customized.   
-- [Stuck in a Cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552): helps to edit the room with Dev Tools without worries that rain will eventually come. More info [[2. In-game room preview#Rain disable|here]].  
+- [Stuck in a Cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552): helps to edit the room with Dev Tools without worries that rain will eventually come. More info [[2+. Setting up environment#Rain disable|here]].  
 - [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory. For room recording, refer to [[Recording rooms|this]].  
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[Custom palette]]" file for working one.  
 - mods that extend max length for region [[Region acronym#Region naming (acronym)|acronym]]:

@@ -21,7 +21,7 @@ https://github.com/henpemaz/RWSceneEditor ([demo](https://dl.dropboxusercontent.
 *Are encrypted in AssetBundle, in `Texture2D` folder.*
 Location: `Rain World\RainWorld_Data\resources.resource`
 **Looking up online:**  
-> [!warning] These sprites are from RW v1.5. Downpour and Remix-related assets are absent.  
+> [!warning] These sprites are from RW v1.5. DLCs and Remix-related assets are absent.  
 https://drive.google.com/drive/u/0/folders/1HnKRhfpON7VSAehGZN34qsPbZRnfHX8c  
 (source: [Reddit](https://www.reddit.com/r/rainworld/comments/1dbtzrt/comment/l7vgv0y/))
 

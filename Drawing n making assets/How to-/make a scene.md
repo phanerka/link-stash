@@ -1,6 +1,6 @@
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes
 
-This [[Exploring contents/Base game n Downpour/Assets/index#Krita plugin for convenient importing and exporting scenes utils|Krita plugin]] might help you to make scene sprites easier.
+This [[Exploring contents/Base game n DLCs/Assets/index#Krita plugin for convenient importing and exporting scenes utils|Krita plugin]] might help you to make scene sprites easier.
 
 ### Mimicking scene art
 Some concept art can be found on [[References#Wiki page|Wiki page]].

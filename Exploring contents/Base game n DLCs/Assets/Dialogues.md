@@ -1,10 +1,10 @@
-Looking up online: [wiki](https://rainworld.miraheze.org/wiki/Pearl/Dialogue) duh (for [Downpour](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour))
+Looking up online: [wiki](https://rainworld.miraheze.org/wiki/Pearl/Dialogue) duh (for [Downpour](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour) and Watcher \[TBA])
 TODO add decrypted files archive
 For pearls from modded regions, go [[Other mods#Decrypting lines from CRS regions|here]]
 
 ## Encryption and decryption
 >[!warning] Warning on decryption issues
->The following ways will work with base game and MSC files but might fail with modded regions' files.
+>The following ways will work with base game and DLC files but might fail with modded regions' files.
 > If the latter is your case and it does happen, check [[Other mods#Via CRS Decryptor mod|Other mods]] page. 
 #### Via built-in game feature
 *Doesn't require any mods to be installed!*
@@ -23,7 +23,7 @@ Once the game is loaded, the files put in that path will be converted.
 #### Via Decryptor mod
 >[!warning] Luckily the mod still works. But once it doesn't, please don't ask the author to update them! 
 
-*Decrypts ALL text files from enabled mods, whether it's from base game, MSC or modded regions.*  
+*Decrypts ALL text files from enabled mods, whether it's from base game, DLCs or modded regions.*  
 *Doesn't provide encryption.*  
 Path for decrypted files:  
 `Rain World\RainWorld_Data\StreamingAssets\decrypt`

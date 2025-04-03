@@ -63,6 +63,7 @@ This might cause unintentional issues such as:
 - death pit
 - infinitely out-of-bounds extending pole
 - possibility to go *out of bounds* in a supposedly closed area
+- unfinished pipe connection (which leads to game freeze on room loading)
 
 A visual explanation:
 \[pic here im lazy to put it here rn]

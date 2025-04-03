@@ -12,7 +12,7 @@
 
 for syntax and decrypting, check [[Dialogues]] page
 
->[!warning] PSA 
+>[!warning] Advice on mod translations 
 > If you're translating MSC / other region mods, mark them as soft dependency. It will make sure your mod will load after them and translate lines properly.
 
 Base game.
@@ -21,7 +21,7 @@ Base game.
 		Structure:
 		- `N.txt` (n for number):
 			- iterators multi-line dialogues (items description, pearls)
-				For exact pearl dialogues, refer to [[Exploring contents/Base game n Downpour/Pearls#PORL TABL|PORL TABL]]
+				For exact pearl dialogues, refer to [[Exploring contents/Base game n DLCs/Pearls#PORL TABL|PORL TABL]]
 			- echoes dialogues
 			- 25-34: items descriptions
 			- 35, 37: moons greeting

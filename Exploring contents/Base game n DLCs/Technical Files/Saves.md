@@ -182,5 +182,3 @@ Conditions for files to be stored in Steam Cloud
 https://steamdb.info/app/312520/ufs/  
 Your files that are stored in Steam Cloud  
 https://store.steampowered.com/account/remotestorageapp/?appid=312520
-
-### Logs  

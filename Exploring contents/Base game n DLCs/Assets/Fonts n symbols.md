@@ -1,4 +1,4 @@
-*Some fonts are encrypted in a form of [[Exploring contents/Base game n Downpour/Assets/index#Sprites|sprite atlases]]. Others technically don't even exist (entire label is just a sprite).*  
+*Some fonts are encrypted in a form of [[Exploring contents/Base game n DLCs/Assets/index#Sprites|sprite atlases]]. Others technically don't even exist (entire label is just a sprite).*  
 *The fonts below are made by the community, for convenient usage.*
 
 Online website to check the font without having to install it:  

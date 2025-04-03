@@ -1,4 +1,4 @@
-**Exploring existing shaders:** [[Exploring contents/Base game n Downpour/Assets/index#Shaders|here]]
+**Exploring existing shaders:** [[Exploring contents/Base game n DLCs/Assets/index#Shaders|here]]
 
 *WARNING: this page is on hiatus, some guides may be outdated. I want to make own shader later to confirm everything myself.*
 ### Prerequisites  

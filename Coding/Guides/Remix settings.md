@@ -1,5 +1,8 @@
 [Remix Menu Template examples](https://steamcommunity.com/sharedfiles/filedetails/?id=2961618749) mod
 
+And NoirCatt's mod template comes with Remix settings example. 
+
+
 apparently theres also this  
 https://rainworldmodding.miraheze.org/wiki/Remix_Menu
 

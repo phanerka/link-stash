@@ -28,5 +28,5 @@ After they agree, here's the list:
 	- connections if `YY` is enabled: `{YY}`
 	- connections if `YY` is disabled: `{!YY}`
 
-### Using MSC / modded creatures
+### Using DLC / modded creatures
 Set them up as [[Setting up dependencies#Setting up as soft dependency|soft dependency]].

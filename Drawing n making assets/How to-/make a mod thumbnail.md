@@ -1,9 +1,14 @@
-Default size: `676 x 380`
+Size base mods use: `676 x 380`
 
-[Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON):
-```
-In addition to the modinfo.json file, the mod directory can also include a **thumbnail.png** image to be displayed in the REMIX menu. This should be an image with 16:9 aspect ratio, recommended to be at least 640x360 pixels large. Additionally, the file size of this thumbnail image should remain below 1 MB.
-```
+Requirements for thumbnail: 
+- name: `thumbnail.png`
+- up to `1 MB` size
+
+Recommended: 
+- aspect ratio: `16:9`
+- `640x360` at least
+
+(source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
 
 All official mod thumbnail art is made by **Kelocitta**.
 

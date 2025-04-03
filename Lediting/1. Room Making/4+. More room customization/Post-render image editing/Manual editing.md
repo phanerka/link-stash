@@ -1,4 +1,4 @@
-Entire room coloring is made via [[Exploring contents/Base game n Downpour/Assets/Shaders#Documentation on LevelColor shader|LevelColor]] shader.
+Entire room coloring is made via [[Exploring contents/Base game n DLCs/Assets/Shaders#Documentation on LevelColor shader|LevelColor]] shader.
 
   
 45 degrees:  
@@ -35,5 +35,5 @@ Room rendering documentation
 [the doc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Manual%20Camera%20Rendering-dRiTNeFHKb6cMFENUkcMmEcMgOu45X.pdf)  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714))
 
-For more information on `LevelColor` shader, refer to [[Exploring contents/Base game n Downpour/Assets/Shaders#Documentation on LevelColor shader|this]] page.
+For more information on `LevelColor` shader, refer to [[Exploring contents/Base game n DLCs/Assets/Shaders#Documentation on LevelColor shader|this]] page.
 

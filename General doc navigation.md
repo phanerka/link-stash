@@ -1,3 +1,9 @@
+> [!warning] Clarifications on Watcher DLC
+> - Some info *might* be outdated
+> - Uploaded files *may* contain Watcher content. If so, it will be mentioned. 
+> - All Watcher only related content will be put in closed spoiler.
+
+
 Navigation on `Lediting` folder: [[Lediting/Navigation|here]]  
 Navigation on `Coding` folder: [[Coding/Navigation|here]]
 
@@ -62,6 +68,7 @@ For convenient looking for information.
 - `#templates` - mod and room templates
 - dependencies:
 	- `#msc` - More Slugcats Expansion AKA Downpour DLC
+	- `#watcher` - Watcher DLC
 	- `#crs` - Custom Regions Support mod
 	- `#regionKit` - RegionKit mod
 

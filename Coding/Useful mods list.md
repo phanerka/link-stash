@@ -21,7 +21,7 @@ Mods that could be useful:
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
 - [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game  
 - [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to get rid of certain type of creatures.  
-- `setup.txt`: `world creatures spawn` disables almost ALL creatures from spawning in game.
+- `setup.txt`: `world creatures spawn:0` disables almost ALL creatures from spawning in game.
 - Dev Console: allows to spawn creature with certain ID (more info [[Creatures#Creature IDs|here]])  
 	also `remove_crits` and `destroy` 
 - DevTools: when exabled in room, pressing `8` kills every creature in the room except scug

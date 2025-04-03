@@ -1,3 +1,4 @@
+# Setting up proper mod structure
 In one way or another, region making topic has to be concerned.  
 The main comprehensive guide is in [[Lediting/2. Region Making/index|Region Making]] folder; this page exists just to cover *minimum* requirements to put a single room in a region.
 
@@ -9,7 +10,7 @@ The main comprehensive guide is in [[Lediting/2. Region Making/index|Region Maki
 > - deleting or renaming the image without leaving `_1` in the end
 > 
 > Any of these mistakes will most likely make your game crash on campaign launch.
-# in existing region
+### in existing region
 *Is easier than the next option.*
 
 Let's take outskirts for example. Its [[Region acronym|acronym]] is `SU`.
@@ -28,14 +29,14 @@ END ROOMS
 ```
 
 
-# in new region
+### in new region
 
 XX.
 
 - put all your room files in the mod 
 	`your-mod\world\xx-rooms`: all room files
 - set up basic region requirement
-	`your-mod\world\world_xx.txt`
+	`your-mod\world\xx\world_xx.txt`
 	
 	The file requires specific format to work:
 	```
@@ -64,3 +65,8 @@ XX.
 	XX
 	[ENDMERGE]
 	```
+
+# Reaching the room in game
+
+- install Warp Menu mod and teleport in the room in game  
+- (not recommended) modify original game connections to make it accessible in game, and get there on your own
