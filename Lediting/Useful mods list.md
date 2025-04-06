@@ -1,5 +1,8 @@
+
 > [!warning] That's not entire list. Some mods are more niche and mentioned in "How-to"s
 
+>[!warning] yet another warning
+> Since the game was updated recently, some mods might not work.
 ##### Must-haves  
 - Dev Tools ([[Dev Tools|main page]]): a classic. You cannot finish a room without Dev Tools. Literally.
 - [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) *bruh*): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with game crashes / freezes troubleshooting during room creation process.   
@@ -22,7 +25,8 @@
 - [Lunacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2930814260) ([docs](https://github.com/Nacu0021/Lunacy)): yet another feature library.  
 - [KO Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=3443204574) :3
 - [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588): self-explanatory.  
-> 
+- [Connection Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=3458613978): allows to have 2+ connections between same rooms and connect a room to self.
+
 - [The M4rbelous Entity Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3311812030): biggest custom creatures and items pack.  
 
 All other modded creatures and items can be found on RW Mods Wiki ([Creatures list](https://rainworldmods.miraheze.org/wiki/Creatures) and [Items list](https://rainworldmods.miraheze.org/wiki/Objects)).  

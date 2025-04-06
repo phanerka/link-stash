@@ -1,4 +1,4 @@
->[!example]- List of language shortenings in game:
+>[!example]- List of language codes in game:
 >- `chi`
 >- `eng`
 >- `fre`

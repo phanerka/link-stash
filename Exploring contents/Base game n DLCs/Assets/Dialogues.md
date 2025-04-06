@@ -12,8 +12,8 @@ For pearls from modded regions, go [[Other mods#Decrypting lines from CRS region
  basically [RW Main](https://discord.com/channels/291184728944410624/1315395285647622214/1315408396249464922)
 
 Copy the files in 
-- `Rain World\RainWorld_Data\StreamingAssetsDecrypt\text` (for decryption)
-- `Rain World\RainWorld_Data\StreamingAssetsEncrypt\text` (for encryption)
+- `Rain World\RainWorld_Data\StreamingAssets\decrypt\text` (for decryption)
+- `Rain World\RainWorld_Data\StreamingAssets\encrypt\text` (for encryption)
 and launch the game.  
 Once the game is loaded, the files put in that path will be converted.
 
@@ -27,6 +27,10 @@ Once the game is loaded, the files put in that path will be converted.
 *Doesn't provide encryption.*  
 Path for decrypted files:  
 `Rain World\RainWorld_Data\StreamingAssets\decrypt`
+
+> [!warning] huh
+> seems like `decrypt` folder breaks the game on launch now
+> TODO: check if the mod still works
 
 ## Syntax
 TBA TODO

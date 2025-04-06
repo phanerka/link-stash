@@ -1,4 +1,4 @@
-Size base mods use: `676 x 380`
+Size base game and DLC mods use: `676 x 380`
 
 Requirements for thumbnail: 
 - name: `thumbnail.png`
@@ -6,7 +6,7 @@ Requirements for thumbnail:
 
 Recommended: 
 - aspect ratio: `16:9`
-- `640x360` at least
+- size: `640x360` at least
 
 (source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
 

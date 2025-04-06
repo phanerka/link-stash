@@ -53,17 +53,15 @@ cursive text is what was used as base and extended
 ## Whose messages were referenced
 Resources which werent posted publicly or just some random messages. 
 
-12 steps: 
-- sandbox save file structure
+`12 steps`: sandbox save file structure
 
-711138971756920833 (how do you even... want to be called?): 
-- note on connecting pipes
+`711138971756920833` (how do you even... want to be called?): note on connecting pipes
 
-alduris: 
+`alduris`: 
 - wrapping code into try-catch with IL hook
 - clarification on location shaders are read from in game (?)
 
-andrewfm: 
+`andrewfm`: 
 - note on "what happens if official leditor crashes on start" lmao
 - connecting pipes gif (?)
 - room ascii art script
@@ -72,207 +70,134 @@ atom:
 - blender level compositor (?)
 - CustomDecalOrSprite animation creation guide
 
-bro:
-- room text file structure
-
-Cactus (& Hootis?): 
-- shader creation guide
-
-candlesign: 
-- RW concept art achive
-
-forthfora: 
+`bro`: room text file structure
+`Cactus` (& `Hootis`?): shader creation guide
+`candlesign`:  RW concept art achive
+`catsoft`: multiple game versions compatibility for a mod
+`forthfora`: 
 - IL Hooks rules
 - explanation of "checksum override" option
 - PORL TABL
 
-FrabjousPolygon: 
-- decomposing script and documentation? 
+`FrabjousPolygon`: decomposing script and documentation? 
+`Gamer025`: KVP viewer utility
+`henpemaz`: symlinking for lediting idea
+`herr sten`: transparent gifs creation
+`iwantbread`: *magic numbers explanation*
 
-Gamer025:
-- KVP viewer
-
-henpemaz: 
-- symlinking for lediting idea
-
-herr sten: 
-- transparent gifs creation
-
-iwantbread: 
-- *magic numbers explanation*
-
-jonahfagnus: 
+`jonahfagnus`: 
 - lediting guides
 	- troubleshooting
 	- *gate creation*
 	- ouf
 
-JuliaCat:
-- image of all pearls in game
+`JuliaCat`: image of all pearls in game
 
-m4rblel1ne:
+`m4rblel1ne`:
 - box type tile structure explanation (is planned to be reworked)
 - custom rope prop example
 
-maxdubstep: 
-- found blender v4.0 prop renderer. should find it myself ugh
+`maxdubstep`: found blender v4.0 prop renderer. should find it myself ugh
+`merfauk`: FreeDecalOrSprite usage examples
+`morebagels`: transparent gif guide
+`NV`: variable structure
+`pockyraisin`: cavern generator link
+`ratrat44`: scavs (lots of scavs)
+`Rbor`: clarification on how room camera works
+`starryspelunker`: blender prop renderer troubleshooting
+`tvardero`: timestamps for ambient sounds video on YT
 
-
-
-merfauk: 
-- FreeDecalOrSprite usage examples
-
-morebagels: 
-- transparent gif guide
-
-NV: 
-- variable structure
-
-pockyraisin: 
-- cavern generator link
-
-ratrat44:
-- scavs (lots of scavs)
-
-Rbor: 
-- clarification on how room camera works
-
-starryspelunker: 
-- blender prop renderer troubleshooting
-
-tvardero: 
-- timestamps for ambient sounds video on YT
-
-vigaro: 
+`vigaro`: 
 - *debug world creation guide*
 - custom workshop uploader
 
-user23848:
-- *wise words about tank holders*
+`user23848`: *wise words about tank holders*
 ## Whose resources were referenced
 Files, guides and just links that were posted in public. 
 
-alduris: 
+`alduris`: 
 - effects preview images for lediting
 - UserWikis on RW and Modding Wikis
 - map exporter
 
-alphappy: 
+`alphappy`: 
 - UserWikis made on both modding and base game website
 
-andrewfm: 
+`andrewfm`: 
 - trial reset guide for adobe director 12 (?)
 - utility for making double palette rooms
 - unofficial leditor
 - graphics modding documentation (?)
 - clarification on room naming
 
-Awri Lynn: 
+`Awri Lynn`: 
 - shader preview list
 
-cappin: 
+`cappin`: 
 - blender level compositor
 - pipe types image
 
-Deathpits: 
-- slugbase slugcat example with CWT
+`Deathpits`: slugbase slugcat example with CWT
+`drowningmoth`: proper pipe connection guide (ADD SOURCE TO THE IMG)
+`bismuthnebula`: leditor features preview
+`fishnoid`: room prompt generator
+`forthfora`: pearl table
+`h`: created raindondo font
 
-drowningmoth: 
-- proper pipe connection guide (ADD SOURCE TO THE IMG)
-
-bismuthnebula: 
-- leditor features preview
-
-fishnoid: 
-- room prompt generator
-
-forthfora: 
-- pearl table
-
-h: 
-- created raindondo font
-
-haizlbliek: 
+`haizlbliek`: 
 - region acronym checker
 - floodforge
 
-henpemaz:
-- krita plugin for scenes
+`henpemaz`: krita plugin for scenes
+`impostores`(?): font document
 
-impostores(?):
-- font document
-
-jonahfagnus: 
+`jonahfagnus`: 
 - old prop creation guide
 - room/region idea generator
 - modification files guide
 
-kakukips: 
-- rainrune font
+`kakukips`: rainrune font
 
-klumquart:
+`klumquart`:
 - moving machines guide
 - list of shaders applicable for FreeDecalOrSprite object
 
-lapislorgo:
-- hologram making guide
+`lapislorgo`: hologram making guide
+`laurapigeon`: RW image repository
 
-laurapigeon: 
-- RW image repository
-
-ludocrypt: 
+`ludocrypt`: 
 - numerous youtube tutorials on lediting (they're pretty sick)
 - layer swap utility for lediting project files
 - camera preview in Desmos
 - video preview of camera angles
 - Tile viewer
 
-mayhemmm: 
+`mayhemmm`: 
 - animated tile making plugin for aseprite
 - cangle image
 
-merfauk:
-- soft and hard blender v3.6 prop renderers
+`merfauk`: soft and hard blender v3.6 prop renderers
+`nauticalchloride`: region mod template
+`notspiko`: broadcast making guide
+`olaycolay`: dating sim branch lease spreadsheet
+`ongomato`: blender prop renderer v2.7
+`seroen`: seroens warehouse (temporarily maintained solars one) 
+`slime_cubed`: notes on shader creation
+`solar`: solars warehouse
 
-nauticalchloride:
-- region mod template
-
-notspiko: 
-- broadcast making guide
-
-olaycolay: 
-- dating sim branch lease spreadsheet
-
-ongomato: 
-- blender prop renderer v2.7
-
-
-seroen: 
-- seroens warehouse (temporarily maintained solars one) 
-
-slime_cubed: 
-- notes on shader creation
-
-solar: 
-- solars warehouse
-
-tat0110:
+`tat0110`:
 - ambient sounds video on YT
 - UserWiki
 
-topicular:
-- partiality modding (parts of it are still useful)
+`topicular`: partiality modding (parts of it are still useful)
+`wrayk`: palette creation guide (?)
 
-wrayk: 
-- palette creation guide (?)
-
-xanthespirit (xansworkshop.com?): 
+`xanthespirit` (`xansworkshop.com`?): 
 - writing shaders guide
 - sound creation guide
 - LevelColor shader guide
 
-zelolt: 
-- created segoe ui rw bold font
+`zelolt`: created segoe ui rw bold font
 ## Special apologies
 TBA TODO
 in case someone wouldn't like their name to be publicly shown

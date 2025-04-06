@@ -33,7 +33,7 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
 https://docs.google.com/document/d/1-n6fcQlVHS_ctQh-lULal8x4FfZ8N0eOWcZJ1G6pP0U/edit  
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/1273601361870721094))  
 
-*Due to complexity, map merging got own [[In-game map rendering|page]].*
+*Due to complexity, map merging got own [[In-game map rendering#Merging maps|page]].*
 
 If you want to **change a part of** original files, for example:
 - add connection to your own room/region  

@@ -1,5 +1,8 @@
 > [!warning] That's not entire list. Some mods are more niche and mentioned in "How-to"s
 
+>[!warning] yet another warning
+> Since the game was updated recently, some mods might not work.
+
 Mods that could be useful:  
 ### Debugging  
 - Dev Tools (duh) ([[Dev Tools|main page]])  

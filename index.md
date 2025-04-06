@@ -1,4 +1,4 @@
-![[link-stash.png]]
+![[main-page-dark.png]]
 
 *Temporary announcement:  
 If you're here because of crediting issue, go to [[Credits n legal stuff#Credits|Credits]] page and check if there's your nickname in the list. If you're not happy with your resources being posted, feel free to reach me out!*
@@ -19,7 +19,7 @@ This website WON'T:
  - even try to hide any kinds of game spoilers. *You've been warned.*  
  - provide "step by step" exhaustive guides.  
  - explain vague and non-RW related topics like "how to draw" or "how to code". That stuff is up to you.  
- - have any information regarding v1.5 modding. And it's not planned to to be added. The doc MAY contain some v1.5 guides but ONLY if they still provide some useful information for v1.9 modding.
+ - have any information regarding v1.5 modding. And it's not planned to to be added. The doc MAY contain some v1.5 guides but ONLY if they still provide some useful information for v1.10 modding.
  
 ------
 
