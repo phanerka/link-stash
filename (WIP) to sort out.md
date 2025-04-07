@@ -7,8 +7,6 @@ need to check this one once again. with palette creator
 ? rw main
 https://discord.com/channels/291184728944410624/1349120847306293338
 
-*atmo atmo atmo*
-https://github.com/thalber/Atmo
 
 https://discord.com/channels/291184728944410624/296133304632213504/1113545138204057650
 worm grass values mod
@@ -29,10 +27,6 @@ Rain World Composite Screenshots:
 https://ln.sync.com/dl/5644eba30/jtkgzkhc-jxeja24s-h3edv9g3-v84qz7kn  
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/518599984258613248))
 
-o0  
-https://rainworldmodding.miraheze.org/wiki/DebugMouse  
-isnt it better to turn into a mod  
-or is there one already?
 
   
 
@@ -40,34 +34,12 @@ Layers to create a full room
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1306379121911136380))  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1294397902231179418))
 
-  
-phew. oh my god.  
-when will i deal with all that stuff
-
-  
 ### people to annoy  
 :3 :leditoroverload: :3
 
 https://discord.com/channels/1083481230839922688/1083485771949949019/1326940012301914215 rwma  
 distant city asset creator!!!!  
-and rain shader!!!!
-
-imma put unfinished cool shader here and pretend its supposed to be here  
-[https://github.com/LudoCrypt/TurnRain](https://github.com/LudoCrypt/TurnRain "https://github.com/LudoCrypt/TurnRain") ([preview video]([https://www.youtube.com/watch?v=8-oeALLoL4A](https://www.youtube.com/watch?v=8-oeALLoL4A "https://www.youtube.com/watch?v=8-oeALLoL4A")))  
-Explanation:   
-> First we must understand how rain world knows how to draw rain. In vanilla, at room init, it makes a 'mask' texture the size of the level, basically going through every column and painting red, until it finds a solid block, then paints the rest black. Then in the shader it doesnt draw rain anywhere where it's black. So here was the plan: Redraw said mask texture but with an angle to it. Lets begin:  
->   
-> 1. Make a texture twice the size of the level  
-> 2. Go through every piece of geometry and paint four black pixels on the texture (because its upscaled)  
-> 3. Add a pixel in the corner of two solid pieces of geometry (this is so it looks less blocky)  
-> 4. Start in the bottom left corner of the image and move down x pixels (x is based on the angle) and right 1 pixel. If it is not black, dont do anything, but if it is black, paint the rest of the pixels on that path black.  
-> 5. Move up x pixels and repeat.  
-> 6. Once you reach upper oob, stop, and continue the process but moving right each time, instead of up.  
->   
-> After this, I just clear the mask texture and replace it with the new one. Then for the actual rain angle I just change rainDirectionGetTo to whatever the new angle is
-
-(source: [RWMA](https://discord.com/channels/1083481230839922688/1083485771949949019/1232426391522381875))
-
 
 https://discord.com/channels/1083481230839922688/1083484108056957089/1305779046142971904 rmwa  
 dev tools effect quick reload
+but the project seems to be lost in time, just like the creator :<

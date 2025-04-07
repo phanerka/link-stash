@@ -28,3 +28,5 @@ Alternative ways to get a pearl:
 `spawn DataPearl [ID]`, where `[ID]` - pearl ID (list of available IDs will be shown; base game / Downpour IDs also can be looked up [[Saves#Object IDs|here]])
 Pebbles' pearl:
 `spawn PebblePearl` or smth
+
+[What's This Pearl?](https://steamcommunity.com/sharedfiles/filedetails/?id=3428753018) mod shows pearl name and (optionally) ID, after holding it for a bit.

@@ -14,7 +14,11 @@ Also, available in [[References#Github images repository|Github images repo]].
 ### Creature IDs
 ##### Finding ID  
 Base game IDs vary from 1,000 to 10,000. For every new creature / item, the game increments ID number by 1.  
-However, [IDs expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3094610084) mod increases ID range up to technical limitations (from -2,147,483,648 to 2,147,483,647) and hands out absolutely random ID numbers. 
+However, some mods are able to change that logic:
+- [IDs expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3094610084) mod increases ID range up to technical limitations (from -2,147,483,648 to 2,147,483,647) and hands out absolutely random ID numbers
+- [ID Range Extender](https://steamcommunity.com/sharedfiles/filedetails/?id=3147644887) mod allows to uh... change the first value used for ID?
+
+Everything depends on your current setup and wheher you can find the creature in the game right now.
 - [id finder](https://steamcommunity.com/sharedfiles/filedetails/?id=3040378054): if the creature cannot be accessed in game
 - [visible ids](https://steamcommunity.com/sharedfiles/filedetails/?id=2934997065): if the creature *exists* in game
 - [[Saves#console log|consoleLog.txt]] records IDs of creatures that weren't saved after cycle end (died, save position was outside of region world coordinates (whatever that means..) )

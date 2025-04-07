@@ -14,3 +14,7 @@ Check this and reach out Alduris to post your region map.
 > If you receive an error or the screenshotter stops running without closing, please upload LogOutput.log, LogOutput.log.1, and, if it exists, exceptionLog.txt
 
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1273913033831350296/1273913775732555816))  
+
+
+making own website?
+https://github.com/rain-world-map/generation

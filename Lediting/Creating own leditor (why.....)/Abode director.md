@@ -1,3 +1,4 @@
+Aye, welcome to sailing the 7 seas!
 how to pirate it n stuff.
 
 Trial reset guide TODO add source

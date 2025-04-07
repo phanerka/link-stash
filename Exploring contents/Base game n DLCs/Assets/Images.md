@@ -80,8 +80,4 @@ Nightcat's body: `1E112E`
 
 (sources: [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1100566406828924978), [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1266033578882502777))
 
-~~Besides, it's possible to find values in game, upon opening color picker (for example, in custom slugcat color selection)-~~  
-where tf did i see that feature????  
-hsl / rgb / predetermined colors switch  
-this? fr??? TODO  
-https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
+[Extended Color Config](https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357) mod replaces default color picker interface with a much better one; it has a tab with palette of all colors used in game (I think?...).

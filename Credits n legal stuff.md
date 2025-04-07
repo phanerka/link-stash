@@ -204,3 +204,6 @@ in case someone wouldn't like their name to be publicly shown
 ## Special thanks
 notchoc, the foo, uo, henpemaz and the rest of meadow community
 for inspiring me to start ~~doing anything in this life~~ rw modding 
+
+
+![[selfish-credits.png]]

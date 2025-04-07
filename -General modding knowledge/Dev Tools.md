@@ -1,5 +1,9 @@
 *It's so useful that it had to be moved into separate page.*
 
+> [!watcher] sorry but watcher ate dev tools objects
+> https://steamcommunity.com/sharedfiles/filedetails/?id=3456052043
+> bam
+
 > [!warning] Warning on DevTools usage
 > Every time you hide Dev Tools interface, all settings are reset to the in-game ones. 
 > Some settings are reset even if you switch interface tab (example: canon mode in Map tab). 

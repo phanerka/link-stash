@@ -1,5 +1,6 @@
 ### Region maps  
 Base & Downpour regions: https://noblecat57.github.io/index.html  
+Watcher regions: https://rw-watchermap.github.io/
 Modded regions: https://alduris.github.io/mod-map/
 
 ### Room layout  
