@@ -7,7 +7,7 @@ First, check if the connection you want to use is free: [Mod-mod connections tab
 
 After they agree, here's the list:  
 (assuming `XX` is your region, `YY` is their region)
-- define their mod as [[Setting up dependencies|dependency]]
+- define their mod as [[Setting up soft dependency|dependency]]
 - in `world\yy`, place ALL changed / new rooms for `YY` region (that connect to your region)
 - in `modify\world\yy\world_yy.txt`:
 	- *replace* connections of the `YY` existing room you changed to lead to own region
@@ -27,6 +27,3 @@ After they agree, here's the list:
 	If `YY` is set as soft dependency, set up via region existence checks (CRS required):
 	- connections if `YY` is enabled: `{YY}`
 	- connections if `YY` is disabled: `{!YY}`
-
-### Using DLC / modded creatures
-Set them up as [[Setting up dependencies#Setting up as soft dependency|soft dependency]].

@@ -3,6 +3,12 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
+shaders preview (watcher included)
+im still waiting for an answer.....
+https://discord.com/channels/1083481230839922688/1083484108056957089/1358838566234619904
+
+where to add landscape art link?
+https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#region-landscape-art
 
 ? rw main
 https://discord.com/channels/291184728944410624/1349120847306293338

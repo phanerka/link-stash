@@ -3,3 +3,6 @@ https://docs.google.com/document/d/1P28E2-R-z5Y5vIuNikZ1niFBmlYjtR2ebBM5-SrX8VU/
 also, [CRS documentation](https://github.com/Garrakx/Custom-Regions?tab=readme-ov-file#broadcasts).
 
 \+ colors.txt!!!
+
+
+TODO is broadcast for spearmaster only?

@@ -31,3 +31,7 @@ https://www.youtube.com/playlist?list=PLXLJAahykEUGq-xuwEdGnH_W8xy5YPcUH
 > Video 10: a lot, nearly half of all the rest
 
 (sources: video from [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1206370168192893008), timestamps from [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1288236364328079502))  
+
+**Watcher Environmental Sounds Playlist**
+https://www.youtube.com/playlist?list=PLtEuAKQ7zYjHiJYzVp0-35X5ZI7YlP_Xe
+(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172527323516983/1357484292095344852))

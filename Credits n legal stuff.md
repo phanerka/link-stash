@@ -73,7 +73,7 @@ atom:
 `bro`: room text file structure
 `Cactus` (& `Hootis`?): shader creation guide
 `candlesign`:  RW concept art achive
-`catsoft`: multiple game versions compatibility for a mod
+`catsoft`: info about adding multiple game versions compatibility for a mod
 `forthfora`: 
 - IL Hooks rules
 - explanation of "checksum override" option
@@ -92,6 +92,7 @@ atom:
 	- ouf
 
 `JuliaCat`: image of all pearls in game
+`ldani` (sry foo but you i didn't see your message first :p ): clarification on how naming for watcher regions works
 
 `m4rblel1ne`:
 - box type tile structure explanation (is planned to be reworked)
@@ -155,6 +156,7 @@ Files, guides and just links that were posted in public.
 - old prop creation guide
 - room/region idea generator
 - modification files guide
+- watcher environmental sounds playlist
 
 `kakukips`: rainrune font
 

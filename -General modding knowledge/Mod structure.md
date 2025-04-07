@@ -8,7 +8,7 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories
 Folder structure:  
 https://rainworldmodding.miraheze.org/wiki/UserWiki:Tat0110
 
-### Multiple version compatibility
+### Targeting multiple game versions
 ```
 ModName
 ├── modinfo.json

@@ -9,6 +9,7 @@ Pipes that go down (and aren't connected to a tunnel) are always covered with a 
 pipe connections can be just player connection - player connection  
 https://discord.com/channels/1083481230839922688/1083483045329375393/1250182010446544997
 
+hiding entrances is done not here but with dev tools, with `ExitSymbolHidden` object
 
 ### Entrance types
 *Proper connections for every entrance type.*  

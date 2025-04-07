@@ -48,8 +48,13 @@ Responsible for defining:
 - subregion names  
 - room attributes (what creatures are more/less likely or forbidden to visit specific room)  
 #### More region properties customization
-#crs required!  
+#crs required!
+
+`properties.txt`:
 - general properties  
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Region-Properties  
 - overseers related properties  
 https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/CustomProjections.md  
+
+`MetaProperties.txt`:
+https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#metaproperties
