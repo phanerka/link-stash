@@ -1,5 +1,5 @@
 >[!warning] Warning: my ass doesnt know anything bout that
-> I just posted links here cause it seems revelant
+> I just posted links here cause they seem ~~cool~~ revelant
 
 Don't forget about [[Clarifications#Magic numbers|Magic numbers]] page, if you want to customize creature graphics.
   
@@ -26,4 +26,8 @@ on graphics update...
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1194317180137902162)) one  
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1090446015842222142)) two, w/ pic
 
+### Animation
+gl lmao
 
+may joar's force be with you
+https://www.youtube.com/watch?v=sVntwsrjNe4

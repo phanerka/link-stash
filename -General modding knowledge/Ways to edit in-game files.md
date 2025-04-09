@@ -2,11 +2,9 @@
 > In general, it applies to *any* game asset, with some exception of [[Coding/Guides/Loading custom assets/Shaders|shaders]] (they need to be put into AssetBundle). 
 > Besides, some assets have got multiple files related to them: 
 > - [[Fonts n symbols#How to compile font on ur own|fonts]] (sprite sheet and text file AKA decryptor, more info in compiling font section)
-> - [[Sounds|sounds]] (music file and text file that allows to mix sounds) 
-
-
-
-TODO mention that location should be folder with blank (dummy) files
+> - [[Sounds|sounds]] (music file and text file that allows to mix sounds)
+> 
+> And keep in mind that [[How to add in game|music]] and [[Sounds|sounds]] need to use location of respective dummy files, not AssetBundles.
 
 
 Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  

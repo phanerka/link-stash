@@ -6,9 +6,9 @@ Covers:
 - applying shader to an object  
 - adding the object in game
 
-TODO ? is that outdated too
+%% TODO:: ? is that outdated too %%
 While it covers general approach to modding, note that it's outdated:  
-%%TODO:: change the link%%
+%% TODO:: change the link in the future %%
 - custom assets can be added via [[Atlases and sprites|RegionKIt]]
 - custom objects can be added via POM  
 

@@ -45,7 +45,7 @@ RIP 🫡
 This section is for mods which, while had a great potential, unfortunately never came out and never will.
 It doesn't mean anyone can fix them, though; check what license is used in Github repository, otherwise ask authors for permissions to modify.
 - [Atmo](https://steamcommunity.com/sharedfiles/filedetails/?id=2920450391) ([Github repo](https://github.com/thalber/Atmo)): scripting mod.
-- [Breadway](https://steamcommunity.com/sharedfiles/filedetails/?id=2993825578): welp.
+- [Breadway](https://steamcommunity.com/sharedfiles/filedetails/?id=2993825578) ([Github repo](https://github.com/thalber/Breadway)): welp.
 - Rain Angle effect ([demo](https://www.youtube.com/watch?v=8-oeALLoL4A), [Github repo](https://github.com/LudoCrypt/TurnRain)): yep.
 	Announcement [here](https://discord.com/channels/1083481230839922688/1083483097145819348/1236746634235482122) (RWMA), a quick overview of how it works [here](https://discord.com/channels/1083481230839922688/1083485771949949019/1232426391522381875) (RWMA).
 - Voxel World (demo: [one](https://www.youtube.com/watch?v=3lSxs1IKxeg), [two](https://www.youtube.com/watch?v=1c4yAcd2XWw), [three](https://www.youtube.com/watch?v=3lSxs1IKxeg); [Github repo](https://github.com/SlimeCubed/VoxelWorld))

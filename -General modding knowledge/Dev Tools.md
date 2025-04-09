@@ -24,8 +24,14 @@
 > "Open Dev Tool interface": enable Dev Tools and start the game; make sure Dev Mode is enabled.
 > Press H to toggle the interface.
 
-wiki:
+##### Dev Tools Wiki page
+#wiki
+*Pretty exhaustive page on Dev Tools features.*
+Honestly, take a break one day and try reading it whole and fiddling with the mod in game, learn its features. It's *so* powerful that it's a shame that people mostly use main interface only.
 https://rainworldmodding.miraheze.org/wiki/Dev_Tools
+
+##### Dev Tools video guides
+#vids
 video guide: 
 https://www.youtube.com/watch?v=ggpKX6IJVFg
 
@@ -33,6 +39,6 @@ more exhaustive but incomplete video guide:
 https://www.youtube.com/watch?v=49ImiszhCe0
 
 ### Dev Tools plugins
-Were made to fix some stuff.
+Some QoL mods.
 - [Legible Devtools](https://steamcommunity.com/sharedfiles/filedetails/?id=2933848147) - recolors Dev Tools buttons' color from red to cyan
 - [Rebind Dev Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957) - adds keybinds configuration and setting to turn off Dev Mode auto-enabling on cycle start in Story.

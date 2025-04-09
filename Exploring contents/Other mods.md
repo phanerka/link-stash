@@ -1,15 +1,14 @@
 *This page is dedicated ONLY to exploring mods. For a guide how to modify their code, refer to [[DNSpy#Editing DLLs|this]].*
 
-- [ ] TODO 
 
-
+### Getting the mod
+- if it's downloaded from Workshop already
 Workshop mods location:   
 `Steam\steamapps\workshop\content\312520`, in respective folder with Workshop mod ID.
 Easy way to determine the ID is to open Workshop mod page and check its link. To be exact, it's
 `https://steamcommunity.com/workshop/filedetails/?id=number`,
 where `number` is mod ID. (yeah ik im great at phrasing.)
-
-Downloading mods w/o workshop:   
+- downloading mods w/o workshop
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
 ### Technical files

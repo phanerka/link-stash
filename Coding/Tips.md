@@ -25,12 +25,13 @@ otherwise you have to sit through that 'merging all regions' thing
 and yeah for code only mods it makes no difference  
 honestly I would leave it disabled and install mergefix though  
 ##### Live logs  
-enable one setting in bepinex config
+- `LogOutput.log`: enable one setting in bepinex config
+- `consoleOutput.txt`: press `K` with Dev Mode enabled.
 
 ##### Using cheat codes  
 Refer to [[Cheat codes]].
 
 ### Coding tips  
 - for mod compatibility, class creation > hook creation  
-- no base code yoinking. if ya need to change a single line in the function, check out IL hooking  
+- no base code yoinking. if ya need to change a single line in the function, check out IL hooking
 - For IL hooking: [[! Modifying game logic#Guidelines|guidelines]]

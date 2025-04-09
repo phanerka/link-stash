@@ -1,10 +1,14 @@
 AKA "where tf do i look for information"
 
 ### Discord servers  
-look for pins, dedicated channels or just search across entire server.  
-Main server (aka RW Main): https://discord.gg/rainworld  
-Modding Academy server (aka RWMA): https://discord.gg/4rqYRexHW3  
-Modding server (aka RWMS): https://discord.gg/kPGJNhrnu2
+look for pins, dedicated channels or just search across entire server.
+
+Main server (aka RW Main):
+https://discord.gg/rainworld  
+Modding server (aka RWMS):
+https://discord.gg/kPGJNhrnu2
+Unofficial Modding server (formerly Modding Academy aka RWMA):
+https://discord.gg/4rqYRexHW3  
 
 > [!tip] Personal advice: do NOT hesitate to ask for help there!  
 > Information and resources are truly spread out across everything, believe me as _creator of this website_.  

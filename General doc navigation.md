@@ -60,10 +60,12 @@ etc.
 make separate "file location" page in "general knowledge" folder and the info above ^ in it too? and reference the page here?
 and put locating rw folder and steam folder there too?
 ### Tags  
-For convenient looking for information.
+~~For convenient looking for information.~~
+My initial idea was to make tags mark not *entire page* but only headers. However, it seems a bit hard to implement that, so tags aren't that useful tbh.
 - `#utils` - helpful RW-related plugins, apps and websites
-- `#wiki` - wiki documentation
-- `#docs` - non-wiki documentation
+- `#wiki` - Wiki and UserWiki documentation
+- `#docs` - non-Wiki documentation
+- `#vids` - video guides
 - `#sheets` - spreadsheets for cross-mod support
 - `#templates` - mod and room templates
 - dependencies:

@@ -60,6 +60,7 @@ Resources which werent posted publicly or just some random messages.
 `alduris`: 
 - wrapping code into try-catch with IL hook
 - clarification on location shaders are read from in game (?)
+- short explanation why `logger.log()` is better
 
 `andrewfm`: 
 - note on "what happens if official leditor crashes on start" lmao

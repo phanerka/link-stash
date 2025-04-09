@@ -1,11 +1,14 @@
 AKA info useful for ANY mod creation
 
-Mod thumbnail: [[make a mod thumbnail|here]]
+*Mod thumbnail: [[make a mod thumbnail|here]]*
 
-modinfo.json:  
+### modinfo.json
+#wiki
+*Defines basic mod info, is used by Remix.*
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories  
 
-Folder structure:  
+### Folder structure  
+#wiki
 https://rainworldmodding.miraheze.org/wiki/UserWiki:Tat0110
 
 ### Targeting multiple game versions

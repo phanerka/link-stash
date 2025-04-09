@@ -4,6 +4,12 @@
 Download link:
 https://github.com/dnSpyEx/dnSpy
 
+#### Linux troubleshooting
+iirc you need some .NET framework, otherwise it will crash on launch
+`winetricks` in terminal -> uhhh something from the following:
+dotnet6, dotnetdesktop6, dotnet7, dotnet8, dotnetdesktop8
+its most likely .net 8 but i cant tell for sure so gl
+
 ### Setting up  
 To debug your own mod in DNSpy, drag-and-drop the built plugin that the game *is reading*, i.e. from  
 `Rain World\RainWorld_Data\StreamingAssets\mods\YOUR_MOD_NAME\plugins`
@@ -12,39 +18,24 @@ To debug your own mod in DNSpy, drag-and-drop the built plugin that the game *is
 
 Works with other (Workshop) mods as well; for locating them, refer to [[Other mods|this]] section. 
 ### Attaching 
+>[!warning] Won't work with Linux or Mac.
 
->[!warning] Warning on attaching
-> Won't work with Linux or Mac.
-> I tried with Linux.
-
+##### Troubleshooting
 If attaching doesn't work, try  
 - disabling all mods (clean `enabledMods.txt` file and `mergedMods` folder)  
 - disabling all network drivers (VPN, local network) except the one that provides internet connection  
 - check [Unity documentation](https://docs.unity3d.com/6000.0/Documentation/Manual/managed-code-debugging.html) (however, it doesn't seem of big use)
 
-maybe this will fix your things if you happen to find this archive and youre making a mod in visual studio (not visual studio code!! yes!!!!!) atm and want to debug that mod but cant for some reason:
-- go to your project properties
-- go to build -> general tab, scroll to its bottom
-- find "Debug symbols" setting and change it to:
-"PDB file, portable across platforms"
-
-and dont forget to rebuild your mod lmao
-and move pdb file as well to your mod folder lmao
-
 ### Using breakpoints  
 Will work ONLY if you added the mod AND attached to the game.  
-todo goddammit
+%% TODO:: simple how-to goddammit %%
 
 "Breakpoint could not be placed"
-possible causes:
-- youre using the library thats not read by the game.
-- that part of code is overridden by another mod (like mergefix, concerning merging code). Explore that mod library or disable it.
-- (map image render code) that part of code uses multithreading, maybe?... i think i can disable it in the library?...
-- you changed the code and didnt save it / restarted the game? needs confirmation
-
-
-gotta add vids vids vids  
-how to use dnspy vid?
+Possible causes (at least what i encountered):
+- you're using the library thats not read by the game.
+- that part of code is overridden by another mod (like MergeFix, concerning merging code). Explore that mod library or disable it.
+- (map image render code) that part of code uses multithreading, maybe?... i wonder if it can be disabled
+- you changed the code and didn't save it / restarted the game? needs confirmation
 
 ### Editing DLLs  
 > [!warning] Disclaimer: the video is outdated.  
@@ -66,5 +57,3 @@ You can:
 - configure breakpoints (add conditions or filters, log in internal console)  
 - analyze methods.  
 - search across entire library, even string / number values
-
-whats bout unity explorer? can it even be useful?

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 tbh i wanna also ask for custom decals that are free to use
 
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  

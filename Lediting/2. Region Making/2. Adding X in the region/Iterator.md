@@ -1,3 +1,5 @@
+Welcome to coding page in "Lediting" folder! :3 
+anyway
 [Iterator Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=3072891344) aeaeuaueau
 
 maybe its also possible to do so with this  
@@ -11,4 +13,4 @@ wawa... ill explore it later
 **personal todo: check chocs notes on that**
 ### Iterator mods
 those that add iterator to the game ig
-should list em here? no?
+https://rainworldmods.miraheze.org/wiki/Modded_Iterators

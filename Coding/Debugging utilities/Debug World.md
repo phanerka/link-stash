@@ -1,4 +1,4 @@
-*While DW doesn't do much on it's own, it allows DNSpy to attach to the game. More info about attaching is in DNSpy [[DNSpy#Attaching|section]].*
+*While DW doesn't do much on it's own, it allows [[DNSpy#Attaching|DNSpy]] and [[Visual Studio 20xx|Visual Studio]] to attach to the game. More info on respective pages.
 ### Installing 
 TODO rework the section; RW is x64 now
 get [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/coding/DebugWorld-rvrKbEeqowXM2GOMBub4GDKEjJfkuZ.zip) from `#modding-resources` channel (source: ?????)
@@ -13,7 +13,7 @@ In case you want to make Debug version of Rain World on your own:
 > 1)  Download and install [[Unity version|Unity]] (its version has to match the one the game has got). :)
 > go get some tea or smth, its gonna take a while
 > 2)  Time to copy stuff!
-you'll need to dig a bit in where unity is installed to and check following folders:
+> Find where Unity is installed and check following folders:
 > - `Data\PlaybackEngines\windowsstandalonesupport\Variations\win32_development_mono`
 > 	 just copy them to "Rain World" aka root folder, override them:
 > 	- `WindowsPlayer.exe` (rename to `RainWorld.exe`)
@@ -30,7 +30,7 @@ you'll need to dig a bit in where unity is installed to and check following fold
 > Save the file, close the file.
 > 
 > Phew! Should be done.
-> And don't forget bout cleaning `bepinex.cfg` to make things work!
+> And don't forget bout cleaning `BepInEx.cfg` to make things work!
 
 ### Troubleshooting
 - if the game breaks on start and shows red errors in the corner:  
@@ -40,7 +40,8 @@ you'll need to dig a bit in where unity is installed to and check following fold
 
 
 ### DW customization
-live logging in bepinex
+%% TODO:: finish %%
+~~live logging in bepinex~~
 wait for manager debugger = 1
 etc etc
 
@@ -52,5 +53,5 @@ Online Hex editor: https://hexed.it/
 - find `UnityWatermark-dev` string
 - find 73 and 11 values a bit further in the table (they should be within 2 next lines)
 - replace both of them with 1
-- save and replace old file with brand new illegal one.  
+- save and replace old file with ✨ brand new ✨ illegal one.  
 (source: source code of [Unity Remove Dev Watermark](https://github.com/kyubuns/UnityRemoveDevWatermark/blob/main/Assets/RemoveDevWatermark/Editor/BuildPostProcessor.cs) plugin)
