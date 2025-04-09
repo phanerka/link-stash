@@ -1,5 +1,8 @@
 *For adding region support for Meadow mode, check [[Meadow mode|lediting section]].*
 
+%% TODO:: *sigh* rework. also remind about pinned messages in \#mod-compat chanel %%
+%% also remember about 3rd party throttling utilities %%
+
 Remix mod ID: `henpemaz_rainmeadow`
 Workshop mod ID: `3388224007`
 

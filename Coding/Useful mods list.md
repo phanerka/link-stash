@@ -23,6 +23,8 @@ Mods that could be useful:
 > [!warning] Warning on Unity Explorer usage
 > It doesn't prevent the game from capturing same input that is entered when the window is on. Disable Dev Tools to prevent its accidental enable via `O` or rebind toggle to another key via [Rebind Dev Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957).
 
+%% TODO:: update mod collection %%
+- [Mouse Drag Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3460881795): a plugin for Unity Explorer and Mouse Drag. Allows to open class of picked creature via Mouse Drag interface.
 ##### Creatures manipulation  
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
 - [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game  
@@ -34,7 +36,13 @@ Mods that could be useful:
 
 ##### Debug/crash control  
 
-*TODO: check all these mods*  
+%% TODO: check all these mods %%
+%% yet another TODO:: probably split up by sections. i really dk where to put shader tester %%
+- [Shaders Tester](https://steamcommunity.com/sharedfiles/filedetails/?id=3460778746): to view all shaders in the game at the same time, with slight configuration.
+	*Requires [ImGUI API](https://steamcommunity.com/sharedfiles/filedetails/?id=3417372413); please download it yourself.*
+	*Please don't ask the author to fix if it; only I asked them to publish the mod, and they explicitly warned me so. My point is that "having broken base is better than nothing", so yeah.*
+	Press `Delete` key in game to toggle the menu; turn it off to be able to close the game xd
+
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)  
 - [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) 
 - [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)  

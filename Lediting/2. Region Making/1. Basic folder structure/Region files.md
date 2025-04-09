@@ -69,7 +69,7 @@ Responsible for defining:
 > ```
 > - `globalCreatureFlags`: `properties.txt` flags but for every spawner.
 > 	- creature specific: `globalCreatureFlags: Scavenger-Seed:2837`
-> 	- for all creatures: `IgnoreCycle`
+> 	- for all creatures: `globalCreatureFlags: IgnoreCycle`
 > Example of overly complicated working string, to show proper syntax:
 > `globalCreatureFlags: Winter, Ignorecycle, Scavenger-Seed:2837, Scavenger-Lavasafe, Pink-Mean:0.7`
 > - `hideTimer` (`true`  / `false`): duh
@@ -94,4 +94,5 @@ https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Regi
 https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/CustomProjections.md  
 
 `MetaProperties.txt`:
+(tat pls add this link to your wiki its not rly fitting here pls i beg you tat)
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#metaproperties

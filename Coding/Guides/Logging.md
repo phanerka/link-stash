@@ -15,6 +15,6 @@ You can log variables on runtime if you [[DNSpy#Attaching|attach DNSpy]] to the 
 	Isn't ready when `OnEnable` runs (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1334384577371705367)), unlike the one above.
 - `Custom.Log(string)`
 	Custom logging functions.
-	Are frequently used in base code but please don't use it, since:
+	Are frequently used in base code but please don't use them, since:
 	- `Log()` outputs to literally nowhere
-	- `ImportantLog()` literally uses `Debug.Work()` %% TODO:: is it called like that?%%
+	- `ImportantLog()` literally uses `Debug.Work()` %% TODO:: is it called like that? %%

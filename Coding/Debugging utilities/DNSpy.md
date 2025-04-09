@@ -20,6 +20,7 @@ Works with other (Workshop) mods as well; for locating them, refer to [[Other mo
 ### Attaching 
 >[!warning] Won't work with Linux or Mac.
 
+%% TODO:: add how-to here too %%
 ##### Troubleshooting
 If attaching doesn't work, try  
 - disabling all mods (clean `enabledMods.txt` file and `mergedMods` folder)  
