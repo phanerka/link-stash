@@ -1,5 +1,8 @@
 AKA resolve path, as i understand?
 
+ Path.DirectorySeparatorChar.ToString()
+ is it for uhhh nintendo switch and ps4 only?
+
 this for general
 https://docs.bepinex.dev/api/BepInEx.Paths.html
 

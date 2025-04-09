@@ -1,6 +1,6 @@
 # Setting up proper mod structure
 In one way or another, region making topic has to be concerned.  
-The main comprehensive guide is in [[Lediting/2. Region Making/index|Region Making]] folder; this page exists just to cover *minimum* requirements to put a single room in a region.
+The main comprehensive guide is in [[Lediting/2. Region Making/|Region Making]] folder; this page exists just to cover *minimum* requirements to put a single room in a region.
 
 > [!warning] Warning on folder structure
 > Be *very* attentive to correct folders and files naming. It's easy to make a mistake, examples being:

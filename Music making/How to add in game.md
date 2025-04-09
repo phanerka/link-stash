@@ -34,7 +34,13 @@ online preview [[Music making/For referencing n inspiration#Ambient sounds previ
 
 ## Threat music
 `your-mod\music\procedural`
+
+Contents:
+- music layer files
 Music format: `.ogg`, sample rate: `44,100 kHz`
+
+- `xx.txt` file, where `xx` is region [[Region acronym|acronym]].
+Otherwise, use `proceduralMusicBank` region property to define name of the text file.
 
 https://rainworldmodding.miraheze.org/wiki/Threat_Music_File_Format 
 
@@ -46,7 +52,7 @@ Can be checked in game via Dev Tools main interface, in "Sounds" tab ([Wiki page
 #crs required.
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#procedural-music
 
-#### Post-cycle rain music
+## Post-cycle rain music
 *AKA rain song*
 #regionKit required
 `your-mod\music\songs`

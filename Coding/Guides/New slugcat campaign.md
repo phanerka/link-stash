@@ -24,7 +24,7 @@ Potentially is helpful for a cutscenes as well
 regarding cutscenes:  
 in dnspy:   
 "slideshow" and "buildscene"  
-For slugcat sprite naming, refer to [[Code#Magic numbers|this]].  
+For slugcat sprite naming, refer to [[Clarifications#Magic numbers|this]].  
 
 # Graphics  
 Adding graphics without DMS: https://github.com/orgs/Rain-World-Modding/discussions/19

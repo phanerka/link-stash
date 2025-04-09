@@ -1,8 +1,10 @@
 *It's so useful that it had to be moved into separate page.*
 
 > [!watcher] sorry but watcher ate dev tools objects
+> Objects tab is known to not work with any language except English.
+> This mod fixes it:
 > https://steamcommunity.com/sharedfiles/filedetails/?id=3456052043
-> bam
+
 
 > [!warning] Warning on DevTools usage
 > Every time you hide Dev Tools interface, all settings are reset to the in-game ones. 

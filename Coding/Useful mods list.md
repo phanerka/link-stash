@@ -1,9 +1,9 @@
 *Mod collection in Steam Workshop is [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3460051608).*
 TODO make a thumbnail bruh
 
->[!watcher] sorry but watcher ate some of them
+>[!watcher] sorry but watcher ate some mods
 > Due to recent update of the game, some mods might not work.
-> Confirmed to be broken mods are crossed out. If they stay broken for too long without a way to be fixed, while being potentially useful, they will move to "Cancelled projects" section.
+> Confirmed to be broken mods are crossed out.
 
 *That's not entire list. Some mods are more niche and mentioned in "How-to"s*
 Mods that could be useful:  

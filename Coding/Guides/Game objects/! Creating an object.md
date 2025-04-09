@@ -8,7 +8,8 @@ Covers:
 
 TODO ? is that outdated too
 While it covers general approach to modding, note that it's outdated:  
-- custom assets can be added via [[modify game assets#adding new ones|RegionKit]]  
+%%TODO:: change the link%%
+- custom assets can be added via [[Atlases and sprites|RegionKIt]]
 - custom objects can be added via POM  
 
 

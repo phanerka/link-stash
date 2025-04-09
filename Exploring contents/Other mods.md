@@ -15,7 +15,7 @@ Could be:
 - save files
 - logs (except [[Saves#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
 
-Check "Coding" -> "How to-" -> "add mod compat" [[Coding/Guides/Mod compatibility/index|folder]].
+Check "Coding" -> "How to-" -> "add mod compat" [[Coding/Guides/Mod compatibility/|folder]].
 ### Code
 To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
 

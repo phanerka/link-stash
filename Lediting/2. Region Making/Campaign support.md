@@ -1,4 +1,6 @@
 Slugcats have to be named in own way, which might differ from in-game name:
+(where to lookup: `SlugcatStats` class, defined as `SlugcatStats.Timeline` objects)
+
 > [!example]- List of slugcat naming
 > - Monk: `Yellow`
 > - Survivor: `White`
@@ -9,6 +11,7 @@ Slugcats have to be named in own way, which might differ from in-game name:
 > - Spearmaster: `Spear`
 > - Saint: `Saint`
 > - ???: `Inv`
+> - Watcher: `Watcher`
 
 use Slugcat Randomizer, to see registered scugs
 

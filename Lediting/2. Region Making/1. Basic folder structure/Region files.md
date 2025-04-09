@@ -46,7 +46,44 @@ Responsible for defining:
 - all kinds of region-wide properties for creatures (like color and amount of spawned creatures)  
 - settings templates for DevTools to use  
 - subregion names  
-- room attributes (what creatures are more/less likely or forbidden to visit specific room)  
+- room attributes (what creatures are more/less likely or forbidden to visit specific room) 
+
+> [!watcher]- Properties from Watcher regions
+> - `mudColor`
+> Default: `0.31, 0.19, 0.13`, converted to HEX: `#4f3021`
+> Example: `mudColor: 0.6, 0.6, 0.46`
+> `fuseSize` (float... yes, for some reason) - Increases superstructure fuses objects.
+> Default: `10`
+> Example: `heat ducts: 20`
+> - `mapSkyLayers`: defines if room boundaries should be rendered as air instead of ground, on the map; pic below. Was hardcoded with closest 2 layers for CC and SI.
+> Example: `mapSkyLayers: 0, 2`
+> - `cloudsStart` < `cloudsEnd`: define height (altidude) of where clouds show
+> idk how its calculated and am lazy to figure out
+> what i found is `(mapPos / 3 + 10) x 20 + inRoomPos - (roomSize x 20) / 2`
+> maybe `abovecloudsview` room setting also affects it?...
+> Default: `20000`, `31400` but not sure
+> Example:
+> ```
+> cloudsStart: 8500
+> cloudsEnd: 9500 
+> ```
+> - `globalCreatureFlags`: `properties.txt` flags but for every spawner.
+> 	- creature specific: `globalCreatureFlags: Scavenger-Seed:2837`
+> 	- for all creatures: `IgnoreCycle`
+> Example of overly complicated working string, to show proper syntax:
+> `globalCreatureFlags: Winter, Ignorecycle, Scavenger-Seed:2837, Scavenger-Lavasafe, Pink-Mean:0.7`
+> - `hideTimer` (`true`  / `false`): duh
+> Default: `false`
+> - `proceduralMusicBank`: for using threat text file that isn't called as region. No need to mention `.txt`.
+> Example: `proceduralMusicBank: wara`
+> - `waterColorOverride` 
+> Default: `0.05f, 0.05f, 0.8f`, converted to HEX: `#0d0dcc`
+> Example: `waterColorOverride: 0.6, 0.6, 0.46`
+> 
+> note:
+> corruption color by default in watcher timeline is now set to: `0.373f, 0.11f, 0.831f`, HEX: `#5f1cd4`
+
+
 #### More region properties customization
 #crs required!
 
