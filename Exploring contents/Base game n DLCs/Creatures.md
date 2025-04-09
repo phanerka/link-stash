@@ -21,7 +21,7 @@ However, some mods are able to change that logic:
 Everything depends on your current setup and wheher you can find the creature in the game right now.
 - [id finder](https://steamcommunity.com/sharedfiles/filedetails/?id=3040378054): if the creature cannot be accessed in game
 - [visible ids](https://steamcommunity.com/sharedfiles/filedetails/?id=2934997065): if the creature *exists* in game
-- [[Saves#console log|consoleLog.txt]] records IDs of creatures that weren't saved after cycle end (died, save position was outside of region world coordinates (whatever that means..) )
+- [[Logs#console log|consoleLog.txt]] records IDs of creatures that weren't saved after cycle end (died, save position was outside of region world coordinates (whatever that means..) )
 ##### Spawning by ID  
 - via [Dev Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044)  mod  
 Spawn command: `spawn [creature] ID.-1.[id]`  

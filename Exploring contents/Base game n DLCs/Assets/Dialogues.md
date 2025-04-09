@@ -1,6 +1,6 @@
 Looking up online: [wiki](https://rainworld.miraheze.org/wiki/Pearl/Dialogue) duh (for [Downpour](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour) and Watcher \[TBA])
 TODO add decrypted files archive
-For pearls from modded regions, go [[Other mods#Decrypting lines from CRS regions|here]]
+For pearls from modded regions, go [[Other mods#Via CRS Decryptor mod|here]]
 
 ## Encryption and decryption
 >[!warning] Warning on decryption issues

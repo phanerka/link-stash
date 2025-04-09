@@ -7,7 +7,7 @@ All pearl colors:
 
 for pearl dialogues:
 - from base game: go [[Dialogues|here]].  
-- from region mods: go [[Other mods#Decrypting lines from CRS regions|here]].
+- from region mods: go [[Other mods#Via CRS Decryptor mod|here]].
 
 ##### PORL TABL  
 #docs  

@@ -25,7 +25,7 @@ A guide on making new game mode based on existing one (here's Arena Mode as exam
 https://github.com/6fears7/Arena-Online/tree/main
 
 ### Debugging  
-Meadow uses [[Saves#LogOutput log|logOutput.log]] for logging. If more that one instance are running in same environment, additional ``logOutput.log.N`` files will be created (where N is number of instance - 1).  
+Meadow uses [[Logs#LogOutput log|logOutput.log]] for logging. If more that one instance are running in same environment, additional ``logOutput.log.N`` files will be created (where N is number of instance - 1).  
 
 Save files are stored in same directory with RW base files:  
 `%userprofile%\AppData\LocalLow\Videocult\Rain World`  

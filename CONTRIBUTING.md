@@ -5,6 +5,6 @@
 - Please *always* add source where you found the guide / file. I'm not accepting it otherwise.  
 - It's alright to specify some information along with link (to make provided info clearer) or give a bit of summary, it's alright to duplicate resources links from some guide... but it's NOT alright to copy big chunks of text from there.  
 	.... unless you can't directly point at said resource with a non-Discord link.  
-- sorry but i'm not accepting requests to [[References#Tutorials|drawing tutorials]] section! I've got own standards there and they might conflict with others'. Main point is to have style as close to RW as possible.
+- sorry but i'm not accepting requests to [[Art and tutorials]] section! I've got own standards there and they might conflict with others'. Main point is to have style as close to RW as possible.
 
 All points above are subjects to change.

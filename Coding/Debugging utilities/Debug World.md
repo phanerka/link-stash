@@ -36,7 +36,7 @@ you'll need to dig a bit in where unity is installed to and check following fold
 - if the game breaks on start and shows red errors in the corner:  
 	delete `Rain World\BepInEx\config\BepInEx.cfg` and restart the game.  
 - if the game breaks on loading:  
-	some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region acronym#Region baking|this]] for proper baking instructions.  
+	some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region baking|this]] for proper baking instructions.  
 
 
 ### DW customization

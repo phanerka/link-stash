@@ -84,7 +84,7 @@ state of APO records variable data every tick i suppose
 `Online`: woah there's a lot of stuff!... Gotta go thru it to explain.  
 `Online/State/*`: handling online objects (send / receive data and override local variables)  
 More info [here](https://github.com/TheLazyCowboy1/RainMeadowSyncTemplate#states)  
-`Online/State/OnlineState.cs` defines [[Meadow code guide#Attributes|OnlineState]] and [[Meadow code guide#OnlineField|DeltaSupport]] attributes.  
+`Online/State/OnlineState.cs` defines [[Meadow code guide#OnlineField attributes|OnlineState]] and [[Meadow code guide#DeltaSupport attribute|DeltaSupport]] attributes.  
 `public StateHandler(OnlineState.StateType stateType, Type type)` function: takes case of delta state similarity detection, i suppose  
 `Online/Serialization/`: prepping info to send, i guess?  
 - deflating (compressing data, in simple (and rude) words, doing what .zip does)  

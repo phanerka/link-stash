@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1YlGNja-1UBAA51j_xYyjXHlMQ8S47I3RAfaw9rrv
 **Main page:**
 https://slimecubed.github.io/slugbase/articles/world-state-tutorial.html
 
-For non-Slugbase based ways to configure world, refer to the page about [[Region files#Region files|region files]]. 
+For non-Slugbase based ways to configure world, refer to the page about [[Campaign support]] page. 
 
 ### New slugcat-specific lines for the yapbot
 #crs required

@@ -1,6 +1,6 @@
-Log locations are described [[Saves#Logs|here]].
+Log locations are described [[Logs|here]].
 
-You can log variables on runtime if you [[Coding/Troubleshooting#DNSpy'ing|attach DNSpy]] to the game.
+You can log variables on runtime if you [[DNSpy#Attaching|attach DNSpy]] to the game.
 
 https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/3_logging.html
 

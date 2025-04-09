@@ -1,5 +1,7 @@
 *This page is dedicated ONLY to exploring mods. For a guide how to modify their code, refer to [[DNSpy#Editing DLLs|this]].*
 
+- [ ] TODO 
+
 
 Workshop mods location:   
 `Steam\steamapps\workshop\content\312520`, in respective folder with Workshop mod ID.
@@ -13,7 +15,7 @@ https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 ### Technical files
 Could be:
 - save files
-- logs (except [[Saves#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
+- logs (except [[Logs#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
 
 Check "Coding" -> "How to-" -> "add mod compat" [[Coding/Guides/Mod compatibility/|folder]].
 ### Code
