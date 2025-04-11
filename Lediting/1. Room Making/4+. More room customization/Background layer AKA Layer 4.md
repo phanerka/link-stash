@@ -8,19 +8,9 @@ Base game doesn't use such feature at all but MSC does a lot
 
 Value varies. In general, they're 10-30% transparent, rarely reach 50% or drop down to 4%
 
-values (out of 255):
-136 (53%), 91 (36%), 70 (27%), 39 (15%)
-70 (27%), 54 (21%), 39 (15%) 
-109 (43%)
-51
-
-33 (13%)
-36 (14%)
-43, 60, 23 (9%)
-9 (4%)
 # Making of
 
-henrys leditor comes with built-in feature to make layer 4 images.
+Henry's Leditor comes with built-in feature to make layer 4 images.
 
 
 unless someone makes a script for krita, idk if there can be better solution.

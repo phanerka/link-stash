@@ -2,7 +2,7 @@
 > I just posted links here cause they seem ~~cool~~ revelant
 
 Don't forget about [[Clarifications#Magic numbers|Magic numbers]] page, if you want to customize creature graphics.
-  
+
 rw graphics modding  
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))

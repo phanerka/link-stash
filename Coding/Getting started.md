@@ -1,10 +1,13 @@
 (basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)  
 ### Things to know  
-C# my ass  
+C#. yeah.
+For syntax, here's a list of shortcuts for shorter and cleaner code:
+https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Shortcuts
+
 Useful concepts (you can learn them later):  
 - [[! Modifying game logic|Hooking / IL hooking]] (to modify base game logic)  
 - [[Storing data for existing objects|ConditionalWeakTables]] (to store data)  
-- [[New creature or item|EnumExt]] (to register new objects)  
+- [[New creature or item|EnumExt]] (to register new objects)
 ### Things to download  
 - IDE for C#
 
@@ -19,7 +22,8 @@ If you're planning to [[Coding/Guides/Loading custom assets/Shaders|make shaders
 - set up [[Debug World]]  
 - install [[DNSpy]]
 ### Things to learn  
-[Technical Glossary](https://rainworld.miraheze.org/wiki/Technical_Glossary)
+Technical glossary which includes RW-specific terms:
+https://rainworld.miraheze.org/wiki/Technical_Glossary
 
 ### Tutorials   
 - [YT basic mod creation vid](https://www.youtube.com/watch?v=JG9cyL5FW90)  

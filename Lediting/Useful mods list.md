@@ -12,7 +12,7 @@ TODO make a thumbnail bruh
 ##### Must-haves  
 - Dev Tools ([[Dev Tools|main page]]): a classic. You cannot finish a room without Dev Tools. Literally.
 - [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) *bruh*): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with game crashes / freezes troubleshooting during room creation process.   
-- [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): allows to teleport to any region / room in game. Extremely useful when adding rooms in Story.
+- [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) (outdated [Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): allows to teleport to any region / room in game. Extremely useful when adding rooms in Story.
 
 ##### Recommended
 - [Better Decals](https://steamcommunity.com/sharedfiles/filedetails/?id=3241776574): allows decals to be more customized.   

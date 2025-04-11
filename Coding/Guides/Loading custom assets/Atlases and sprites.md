@@ -1,4 +1,3 @@
-
 (is it actually useful? isnt that in-game behavior actually?)
 https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md#asset-loading ?  
 a bit of guide  

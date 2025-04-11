@@ -26,6 +26,7 @@ If attaching doesn't work, try
 - disabling all mods (clean `enabledMods.txt` file and `mergedMods` folder)  
 - disabling all network drivers (VPN, local network) except the one that provides internet connection  
 - check [Unity documentation](https://docs.unity3d.com/6000.0/Documentation/Manual/managed-code-debugging.html) (however, it doesn't seem of big use)
+- if you're using Visual Studio to both develop and debug the mod: check [[Visual Studio 20xx#Attaching|this]].
 
 ### Using breakpoints  
 Will work ONLY if you added the mod AND attached to the game.  
@@ -48,7 +49,6 @@ Possible causes (at least what i encountered):
 >   
 > Instead, it's usually advised to just make a separate mod what will hook the code you want to change.
 
-  
 https://www.youtube.com/watch?v=xOjaM3wjpO0  
 ### Other DNSpy features  
 You can:  

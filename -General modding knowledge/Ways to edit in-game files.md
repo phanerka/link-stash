@@ -6,11 +6,15 @@
 > 
 > And keep in mind that [[How to add in game|music]] and [[Sounds|sounds]] need to use location of respective dummy files, not AssetBundles.
 
+%% TODO::
+To avoid confusion, ill call every file that is put into modify folder "modification file of X" (X with modification syntax?)  
+its very easy to miss out that folder in path.  
+%%
 
-Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `%file_path%`.  
+Let's assume that path to certain in-game file, starting from `Rain World\RainWorld_Data\StreamingAseets` folder, is `[file_path]`.  
 For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
 `Rain World\RainWorld_Data\StreamingAssets\world\su-rooms\`.  
-In this case, `%file_path%` would be `world\su-rooms\`.  
+In this case, `[file_path]` would be `world\su-rooms\`.  
 ### Overriding
 **Main Wiki page:**  
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files
@@ -19,7 +23,7 @@ If you want to **straight up override** original files, for example:
 - replace room image  
 - replace room settings,  
 
-then you put file with *SAME* name as in-game file in `your-mod\%file_path%` directory.  
+then you put file with *SAME* name as in-game file in `your-mod\[file_path]` directory.  
 In case of `SU_A53` image, that would be `your-mod\world\su-rooms\su_a53_1.png`.  
 ### Modifying
 *Works **only** with text files!*  
@@ -40,6 +44,6 @@ If you want to **change a part of** original files, for example:
 
 then you _will_ have to use modification files.  
 
-ALL modification files require *SAME* name as in-game file BUT have to be put in `your-mod\modify\%file_path%` instead.  
+ALL modification files require *SAME* name as in-game file BUT have to be put in `your-mod\modify\[file_path]` instead.  
 Speaking of example, room images cannot be edited for obvious reasons. Room settings file will be used instead (`su_a53-setings.txt`), which is located in same directory.  
 In that case, full path would be `your-mod\modify\world\su-rooms\su_a53-setings.txt`  

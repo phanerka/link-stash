@@ -84,15 +84,14 @@ Responsible for defining:
 > corruption color by default in watcher timeline is now set to: `0.373f, 0.11f, 0.831f`, HEX: `#5f1cd4`
 
 
-#### More region properties customization
-#crs required!
+#### Modded region properties
 
 `properties.txt`:
-- general properties  
+- general properties ( #crs required)
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Region-Properties  
-- overseers related properties  
+- overseers related properties ( #regionKit required)
 https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/CustomProjections.md  
 
-`MetaProperties.txt`:
+`MetaProperties.txt` ( #crs required):
 (tat pls add this link to your wiki its not rly fitting here pls i beg you tat)
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#metaproperties

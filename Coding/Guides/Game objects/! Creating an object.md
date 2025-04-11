@@ -1,3 +1,6 @@
+> [!wip] uh oh this page is updated
+> and i don't have knowledge to properly make it
+
 https://youtu.be/5QRmr2eLiRk  
 A non-scripted VOD on adding a turret into game.  
 todo add timestamps  
