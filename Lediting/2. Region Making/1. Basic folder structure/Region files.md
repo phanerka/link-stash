@@ -15,18 +15,19 @@ Can be created with [[World editors|FloodForge]] (?)
 
 Responsible for:  
 - defining [[Room types|room types]] via tag (shelters, gates, etc.)  
-- connecting rooms  
+- connecting rooms
 	Can be customized for various slugcat campaigns\*, via conditional links ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/File_Formats#world_xx.txt), [video guide](https://www.youtube.com/watch?v=mQfZwHSxNTA))  
 > [!info] Clarification on room connections order
 > tbh i'm surprised it's not mentioned in wiki.  
 > Connections count starts from **top left corner** of the room and is read by lines (not columns!)
 > Lever editor Rained can show pipe numbers... somewhere. wawa
+> and in the game, by pressing `M` with Dev Mode enabled
 	.
 > [!warning] Warning on connecting to rooms
 >The following cases will not work in base game (however, can be fixed with [Connection Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=3458613978) mod):
 >- connect room to self
 >- have 2+ connections from room A to room B
-- setting up creature spawns  
+- setting up creature spawns and lineaging
 	May contain additional creature flags ([Creature Flags](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Creature_Flags) section on Wiki page)  
 	Can be customized for various slugcat campaigns\* (the bottom of [Creature Spawns](https://rainworldmodding.miraheze.org/wiki/World_File_Format#Creature_Spawns) section on Wiki page)
 	Note that batflies' spawning is defined by room tags, not this section.

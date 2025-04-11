@@ -3,6 +3,7 @@
 *To add music **in particular room**, refer to [[Music or sounds|lediting section]].*  
 *To add **new sounds**, refer to [[Sounds|coding section]].*
 
+%% TODO:: add siren music from regionKit %%
 ## Arena music
 To tweak arena music list, you might need:
 - `your-mod\music\songs\` folder 

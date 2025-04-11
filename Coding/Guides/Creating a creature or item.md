@@ -9,6 +9,7 @@ All object type IDs are realized via ExtNum.
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/ExtEnum  
 ### Creatures
 
+%% TODO:: OUTDATED %%
 Creature template (lizard): [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1336495351368257587)
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2931520964  
@@ -26,6 +27,7 @@ VERY unorthodox way
 https://rain-world-modding.fandom.com/wiki/Adding_a_Custom_Creature
 
 ### Items  
+%% TODO:: OUTDATED %%
 Creature template (fruit): [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1336495418976108634)
 
 https://rainworldmodding.miraheze.org/wiki/Creating_An_Object

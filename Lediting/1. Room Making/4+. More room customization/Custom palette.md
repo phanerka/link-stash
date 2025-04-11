@@ -1,12 +1,8 @@
 # Making palette image
 There are 3 ways:  
-- via Palette Creator mod  
-The workshop version is broken. I sorta.... "fixed" it. partially. Couldn't bother to fix better. Here.  
-TODO move the file link to actually there
+- via Palette Creator mod (which is broken atm :c)
 - by combining existing palette and fade palette in main Dev Tool interface ( #regionKit required)  
 - manually  
-
-i should also make some templatte palette probs (typo intended)
 ### Palette creation guide
 #docs  
 > [!warning] Warning on palette location
