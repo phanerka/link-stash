@@ -38,6 +38,10 @@ For more precise formula, here's this spoiler v
 > - a row of 4 : 3 screens touching each other (in general, they do not intersect nor have space in-between)  
 > - borders on sides  
 > 
+> %%
+> TODO:: okay what the fuck is that shit v. where is it pulled from. from what ass. 
+> verify
+> %%
 > The game takes the `1024 x 768` (4 : 3) resolution as base (as well as for camera size). *Any other resolution is just this one being scaled to said resolution's height with width being extended.*  
 > \[imagine a pic here]  
 > *A proof: no matter what resolution is, the game uses same spot to switch cameras.*  

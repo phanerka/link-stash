@@ -6,6 +6,11 @@ tbh i wanna also ask for custom decals that are free to use
 "if ure patching the mod, u have to reaload it asap or else debugger will break"  
 need to check this one once again. with palette creator
 
+le compilation
+https://discord.com/channels/291184728944410624/1023298427590824020/1024117762844545106
+
+map archive
+https://discord.com/channels/291184728944410624/976039007265902634/976062997258727486
 ### Moving tiles to another layer (Widtotwl)
 idk where to put this WAAAAAAAa TODO  
 #utils  

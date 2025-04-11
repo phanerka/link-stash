@@ -7,7 +7,7 @@ https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Shortcuts
 Useful concepts (you can learn them later):  
 - [[! Modifying game logic|Hooking / IL hooking]] (to modify base game logic)  
 - [[Storing data for existing objects|ConditionalWeakTables]] (to store data)  
-- [[Creating a creature or item|EnumExt]] (to register new objects)
+- [[Creating a creature or item|ExtEnum]] (to register new objects)
 ### Things to download  
 - IDE for C#
 
