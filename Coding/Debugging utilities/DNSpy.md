@@ -58,3 +58,4 @@ You can:
 - configure breakpoints (add conditions or filters, log in internal console)  
 - analyze methods.  
 - search across entire library, even string / number values
+- view function trace on breakpoint

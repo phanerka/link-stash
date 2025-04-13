@@ -1,8 +1,4 @@
-```  
-really low quality drawing to give you an idea of how camera angles work:  
-We have a box, and how such box would act if we increased the angle in certain directions, with different strength, both indicated by the arrow. you can see the box gains a lot of depth from this, whether to its benefit or not is how you use it, but more often than not - an angle is good.  
-Effectively, in RW it works the same, except that there are four "arrows" corresponding each corner of the screen. This isnt exactly how it works behind the scenes, but it is how you can treat light angles. You can also point the four "arrows" in varying directions in a way that it distorts the background layers so that they are rotated, further, or closer.  
-```  
+Consider the line from every corner as an arrow, that dictates direction and strength of the perspective.
 (should i redraw it?)  
 ![[camera-render-box.jpg]]  
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788))

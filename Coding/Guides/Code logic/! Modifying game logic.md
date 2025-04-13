@@ -13,34 +13,52 @@ https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Standard_hooking
 
 #### IL Hooking
 Advanced type of hooking.
-%% TODO:: bad phrasing %%
-Is used to modify *part* of code in function, which helps to avoid ugly copy-pasting of original code into your mod (which is the only way with non-IL hooking).
+
+Is used to modify *part* of original code in method, which helps to avoid ugly copy-pasting of original code into your mod (which is the only way with non-IL hooking).
+For guidelines, check the [[! Modifying game logic#IL hooking guidelines|section]] below.
+##### IL documentiation
+#docs
 https://github.com/tModLoader/tModLoader/wiki/Expert-IL-Editing
 
 lmao chinese wiki  
 https://rwmoddingch.github.io/ChModdingWiki/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/IL%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B/
 
-RW WIki page
+##### IL examples
 https://rainworldmodding.miraheze.org/wiki/Hooking#IL_hooking
 
-Example:
 https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/IL_hooking/Slam
 
+
+
 ### Creating a hook manually
+*aka RuntimeDetour hooking.*
+
 Can be used to modify *anything*, be it method, property or constructor. However, is harder to make. 
 The hook needs to be declared in `OnEnable()` [[Adding logic on mod enable or disable|mod lifecycle]] function.
+Example:
 https://rainworldmodding.miraheze.org/wiki/Hooking#Manual_hooking
-#### RuntimeDetour hooking (outdated?)
-https://rainworldmodding.miraheze.org/wiki/MonoMod_RuntimeDetour
 
-### NativeDetour hooking
+Is based on features of `MonoMod` library. It's code exists on [Github](https://github.com/MonoMod/MonoMod/tree/master), as well as:
+- `RuntimeDetour` documentation
+	https://monomod.dev/docs/RuntimeDetour/Usage.html
+- technical explanation how `RuntimeDetour` works
+	https://github.com/MonoMod/MonoMod/blob/master/README-RuntimeDetour.md
+- examples of using various types of hooks
+	https://github.com/MonoMod/MonoMod/tree/master/MonoMod.UnitTest/RuntimeDetour
+
+#### NativeDetour hooking
 https://rainworldmodding.miraheze.org/wiki/Hooking#Native_Detours
 
+### Low-level hooking
+> [!wip] okay this page is only theoretical dont expect it to be 100% correct
+
+Is based on features of `Cecil` library, the one `MonoMod` is based on.
+https://github.com/jbevain/cecil/tree/master
 ##### Wrapping in try-catch with IL hook  
 Done via ExceptionHandler.
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1237868501960491141/1329397865029697587))
 
-# Guidelines
+# IL hooking guidelines
 
 > 1. expect the hook to fail, they're much less robust than regular hooks (and are likely to break after game updates or if another mod IL hooks the same place), so write them with a lot of redundancy   
 > 2. try-catch the hook definition, this will catch any exceptions that are thrown inside the hook   

@@ -1,4 +1,5 @@
-(basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)  
+(basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)
+btw make sure to use `PUBLIC-Assembly-CSharp`, NOT `Assembly-CSharp`!
 ### Things to know  
 C#. yeah.
 For syntax, here's a list of shortcuts for shorter and cleaner code:
@@ -40,7 +41,7 @@ https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates
 
 Risk of Rain 2 wiki, esp general modding info  
 https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/C%23-Programming/Assembly-References/  
-Bepinex documentation  
+BepInEx documentation  
 https://docs.bepinex.dev/articles/index.html
 ##### RW Wikis  
 [Modding Wiki](https://rainworldmodding.miraheze.org/wiki/Main_Page) (duh) - will most likely provide some info  
