@@ -1,7 +1,7 @@
 just a bit of theory.
 
 1. The mod location is added into `enabledMod.txt`
-	Note that DLCs have internal code check for being enabled, and aren't affected by the file. 
+	Note that DLCs have internal code check for being enabled, and aren't affected by the file.
 ### Content mods
 2. If `checksumOverride` is `false`, then:
 	1. ALL files from `modify` folder are merged with base game files and are put in `mergedmods` folder

@@ -1,4 +1,4 @@
-![[main-page-dark.png]]
+![[pics/web/main-page-dark.png]]
 
 *Temporary announcement:  
 If you're here because of crediting issue, go to [[Credits n legal stuff#Credits|Credits]] page and check if there's your nickname in the list. If you're not happy with your resources being posted, feel free to reach me out!*
