@@ -11,7 +11,6 @@ comment out stuff that needs permission
 --------------------------
 doc specific stuff:
 
-make thumbnails for mod collections
 porl tabl contains names of text files
 correct names of asset bundles that contain assets
 credit a guy who dropped a lit of creature spawn names
@@ -42,6 +41,5 @@ and very, *very* long list in my server.....
 -------------
 website stuff:
 
-finally make commits
-fix theme change logic
-remake themes
+remake css themes
+fix theme change (pic doesnt change on light mode, whengoing to main page)
