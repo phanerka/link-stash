@@ -1,7 +1,7 @@
-*Compiled shaders are encrypted in AssetBundle, in `Shader` folder.*
+*Compiled shaders are encrypted in `AssetBundle`, in `Shader` folder.*
 Location: `Rain World\RainWorld_Data\resources.resource`
 
-However, source code (for referencing) is available unecrypted:
+However, source code (for referencing) is available unencrypted:
 `Rain World\RainWorld_Data\StreamingAssets\shaders`  
 
 >[!example]- List of all game shaders
@@ -153,6 +153,24 @@ However, source code (for referencing) is available unecrypted:
 > ![[shaders-cheat-sheet-pt2.mp4]]
 
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484108056957089/1095172254549168268))
+
+##### Shaders Tester mod
+%%
+Okay, a bit of explanation:
+I've put this mod here, apart from the mods list in respective page, because it's highly unstable and, again, won't ever be fixed or updated. I don't want to leave people with questions just because people would potentially subscribe to all mods without a thought and without reading all these warnings.
+%%
+> [!warning] Disclaimer: the mod won't be updated or fixed.
+> Only I asked mod author to publish the mod, and they explicitly warned me so.
+> My point is that "having broken base is better than nothing"; if you don't like it, make a similar mod on your own.
+
+*An utility to view all shaders in the game at the same time, with configuration options.*
+
+**Requires [ImGUI API](https://steamcommunity.com/sharedfiles/filedetails/?id=3417372413) as dependency; please download it yourself.**
+
+Steam Workshop:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3460778746
+
+Press `Delete` key in game to toggle the menu; turn it off to be able to close the game xd
 
 ##### Documentation on LevelColor shader
 #docs  

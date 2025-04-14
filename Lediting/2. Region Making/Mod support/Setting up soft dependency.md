@@ -1,4 +1,6 @@
 #crs required
+*Main "setting up dependency" page: [[Setting up dependencies|here]]*.
+
 Mod / region existence based condition. Can be applied to:
 - creature spawns
 - room connections

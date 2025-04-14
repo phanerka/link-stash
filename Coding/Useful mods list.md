@@ -27,20 +27,15 @@ Mods that could be useful:
 - [Mouse Drag Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3460881795): a plugin for Unity Explorer and Mouse Drag. Allows to open class of picked creature via Mouse Drag interface.
 ##### Creatures manipulation  
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
-- [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game  
+- ~~[BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)~~ - provides convenient way to spawn creatures in-game  
 - [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to get rid of certain type of creatures.  
 - `setup.txt`: `world creatures spawn:0` disables almost ALL creatures from spawning in game.
 - Dev Console: allows to spawn creature with certain ID (more info [[Creatures#Creature IDs|here]])  
 	also `remove_crits` and `destroy` 
 - DevTools: when exabled in room, pressing `8` kills every creature in the room except scug
 
-##### Debug/crash control  
-%% TODO:: check all these mods adn update mod collection with shaders tester %%
-%% yet another TODO:: probably split up by sections. i really dk where to put shader tester %%
-- [Shaders Tester](https://steamcommunity.com/sharedfiles/filedetails/?id=3460778746): to view all shaders in the game at the same time, with slight configuration.
-	*Requires [ImGUI API](https://steamcommunity.com/sharedfiles/filedetails/?id=3417372413); please download it yourself.*
-	*Please don't ask the author to fix if it; only I asked them to publish the mod, and they explicitly warned me so. My point is that "having broken base is better than nothing", so yeah.*
-	Press `Delete` key in game to toggle the menu; turn it off to be able to close the game xd
+##### Debug/crash control
+%% yet another TODO:: probably split up by sections. %%
 
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)  
 - [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) 
@@ -80,5 +75,7 @@ should i add regionkit here lmao
 - EmgTx [github](https://github.com/HarvieSorroway/EmgTx)
 вики нет но вы держитесь
 
-  
-Mod collection is here.
+##### Cancelled projects
+This section is for mods which, while had a great potential, unfortunately never came out and never will.
+It doesn't mean anyone can fix them, though; check what license is used in Github repository, otherwise ask authors for permissions to modify.
+- Extensibles ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Extensibles), [Github repo](https://github.com/EtiTheSpirit/Extensibles/tree/master)): hook extension... library? sry im dum in modding

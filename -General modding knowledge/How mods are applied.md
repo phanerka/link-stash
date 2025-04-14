@@ -3,8 +3,13 @@ just a bit of theory.
 1. The mod location is added into `enabledMod.txt`
 	Note that DLCs have internal code check for being enabled, and aren't affected by the file.
 ### Content mods
+*Mainly, is controlled by `Remix`.*
+
 2. If `checksumOverride` is `false`, then:
 	1. ALL files from `modify` folder are merged with base game files and are put in `mergedmods` folder
+
+### Code mods
+*Mainly, is controlled by `BepInEx`.*
 
 ### game runtime
 The game checks `mergedmods` folder first, and if required file doesnt exist, fallbacks to base game folder

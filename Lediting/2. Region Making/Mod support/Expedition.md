@@ -1,5 +1,7 @@
-either wiki guys are compiling info into wiki page or im doing it myself :)
+either wiki guys are compiling info into wiki page or im doing it myself
 
+> [!wip] This page is WIP.
+> It's supposed to enlist everything to make custom region Expedition-compatible.
 # basic support
 basically the list:
 - xx_s01

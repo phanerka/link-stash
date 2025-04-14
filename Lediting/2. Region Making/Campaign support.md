@@ -1,3 +1,6 @@
+> [!wip] This page is WIP.
+> Its supposed to explain what's possible to change for slugcat campaigns. However, here's only a draft ATM; wait until it's made or make it yourself and PR it.
+
 Slugcats have to be named in own way, which might differ from in-game name:
 (where to lookup: `SlugcatStats` class, defined as `SlugcatStats.Timeline` objects)
 

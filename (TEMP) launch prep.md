@@ -13,19 +13,17 @@ doc specific stuff:
 
 porl tabl contains names of text files
 correct names of asset bundles that contain assets
-credit a guy who dropped a lit of creature spawn names
+credit a guy who dropped a list of creatures and objects IDs (i extended it)
 crs region properties: sundown music
 mention overseer properties to adding overseer thing, as well the link to rw forum
-function trace feature in dnspy
 mention fixing custom.log() feature in dll file for better consoleLog.txt
-is broadcast for spearmaster only?
 tokens thru dev tools? gotta check
+(and all subtypes of `PlacedObject.Data`) `PlacedObject.Data.ToString()`: how its stored in settings files as i understand
 note on watchers moving water
 hiding connections yeah
 adas watcher ambient thing
 slugbase used for cutscenes in region making too?....
 fix baking guide
-mention that garbage worms still need to be added via world_xx.txt
 > if you press `i` with devtools enabled, it'll show the currently playing sounds in the upper left; that way you can check if it's playing your sound or not
 
 https://discord.com/channels/600037764385210389/600037764385210391/1356577615951040562

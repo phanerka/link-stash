@@ -10,12 +10,15 @@ Output location:
 To reveal entire region map in game, add `reveal map:1` to [[Cheat codes|setup.txt]] and enable Dev Tools.
 ### Merging maps
 supports custom campaigns. 
+%% TODO:: add %% 
 
 Output location:  
 `Rain World\RainWorld_Data\StreamingAssets\mergedmods\world\xx\map_xx.png`
 
 
 ### troubleshooting
+*Disclaimer: I'm relying on own experience. I could miss other cases.*
+
 room looks full on preview, empty on output:  
 - your game is too tired to render rooms chill  
 	reload the cycle with R with dev mode on and try again.

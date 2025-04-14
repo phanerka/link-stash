@@ -46,6 +46,9 @@ wait for manager debugger = 1
 etc etc
 
 #### Hiding "development build" label
+*...*
+*yes, henpe. i wondered about it because of you.*
+
 The one in bottom left corner.  
 How to hide:  
 - open `Rain World\RainWorld_Data\Resources\unity default resources` file in any hex editor  
