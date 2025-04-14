@@ -1,7 +1,7 @@
 *This page is dedicated to adding music **in the game**.*
 
 *To add music **in particular room**, refer to [[Music or sounds|lediting section]].*  
-*To add **new sounds**, refer to [[Sounds|coding section]].*
+*To add **new sounds** and use them in code, refer to [[Sounds|coding section]].*
 
 %% TODO:: add siren music from regionKit %%
 ## Arena music

@@ -17,14 +17,12 @@ credit a guy who dropped a list of creatures and objects IDs (i extended it)
 crs region properties: sundown music
 mention overseer properties to adding overseer thing, as well the link to rw forum
 mention fixing custom.log() feature in dll file for better consoleLog.txt
-tokens thru dev tools? gotta check
-(and all subtypes of `PlacedObject.Data`) `PlacedObject.Data.ToString()`: how its stored in settings files as i understand
-note on watchers moving water
+tokens thru dev tools: what options are responsible for; add working one
 hiding connections yeah
-adas watcher ambient thing
 slugbase used for cutscenes in region making too?....
 fix baking guide
-> if you press `i` with devtools enabled, it'll show the currently playing sounds in the upper left; that way you can check if it's playing your sound or not
+and on baking: p helps to debug pathfinding
+regionkit: seems like theres disable iggy option by default 
 
 https://discord.com/channels/600037764385210389/600037764385210391/1356577615951040562
 https://discord.com/channels/600037764385210389/600037764385210391/1355656848006451312

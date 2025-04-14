@@ -47,10 +47,12 @@ Mods that could be useful:
 - [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342) ([source code?](https://github.com/casheww/RW-ToolBox))
 
 - [DebugVisualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3136260525)  
+
+%% TODO:: format it properly %%
 Controls (non-numpad):  
 0 to switch between all creatures and just the selected one  
 1 to change selected creature  
-2 to toggle sight visualizer  
+2 to toggle sight visualizer  %% basically `lizard laser eyes:1` but toggleable %%
 3 to toggle tracker visualizer  
 4 to toggle relationship visualizer  
 5 to toggle utility visualizer  

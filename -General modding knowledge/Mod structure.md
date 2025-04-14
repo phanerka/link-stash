@@ -2,6 +2,13 @@ AKA info useful for ANY mod creation
 
 *Mod thumbnail: [[make a mod thumbnail|here]]*
 
+> [!warning] Warning on proper text file formatting
+> Every text file *must* have:
+> - `CRLF` as line sequence for ending
+> 	Saving in `Notepad` is safe, however this might be an option in other text editors
+> - `UTF-8` as encoding
+> Otherwise, the file might end up causing errors for the game.
+
 ### modinfo.json
 #wiki
 *Defines basic mod info, is used by Remix.*
