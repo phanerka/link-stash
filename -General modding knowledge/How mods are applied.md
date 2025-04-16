@@ -38,3 +38,4 @@ if the game finds map files in `mergedmods`, it will override them there too, no
 
 %% whats bout override tho? what file is read then? %%
 %% and whats bout plugins? %%
+%% i mean... how are they applied? %%

@@ -6,8 +6,8 @@
 > 
 > And keep in mind that [[How to add in game|music]] and [[Sounds|sounds]] need to use location of respective dummy files, not AssetBundles.
 
-%% TODO::
-To avoid confusion, ill call every file that is put into modify folder "modification file of X" (X with modification syntax?)  
+%%
+To avoid confusion, i should call every file that is put into modify folder "modification file of X" (X with modification syntax?) probably?...
 its very easy to miss out that folder in path.  
 %%
 

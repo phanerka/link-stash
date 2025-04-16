@@ -1,12 +1,13 @@
 %% TODO:: differentiate defining (via modinfo json) and actual setting up %%
+## Finding mod Remix ID
+*Not to be confused with [[Other mods#Getting the mod|Workshop ID]].*
 
-Are defined via `modinfo.json`.
-## Finding mod ID
 To find ID of another mod, you can:
 - check in Remix menu (it appears right under mod name on the right)
 - check in `modinfo.json` of said mod in its [[Other mods|folder]]
 
-
+# Types of dependencies
+Are defined via `modinfo.json` [[Mod structure#Mod description file|file]].
 ### hard dependencies
 your mod HAS to be enabled with dependency. Is easier to set up.
 Related keys for defining: `requirements` (for mod IDs), `requirements_names` (for user-friendly mod name)

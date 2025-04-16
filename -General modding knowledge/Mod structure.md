@@ -15,8 +15,6 @@ The name of the folder can be *anything* and doesn't really affect anything.
 Below list of files that are useful for *any* mod.
 ## Mod thumbnail
 *Is optional.*
-
-Size used by base game and DLC mods: `676 x 380`
 ### Requirements
 Mandatory: 
 - name: `thumbnail.png`
@@ -25,6 +23,7 @@ Mandatory:
 Recommended: 
 - aspect ratio: `16:9`
 - size: at least `640x360`
+	Size used by base game and DLC mods: `676 x 380`
 
 (source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
 ## Mod description file 

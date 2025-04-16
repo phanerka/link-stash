@@ -11,10 +11,6 @@ https://discord.com/channels/291184728944410624/1023298427590824020/102411776284
 
 map archive
 https://discord.com/channels/291184728944410624/976039007265902634/976062997258727486
-### Moving tiles to another layer (Widtotwl)
-idk where to put this WAAAAAAAa TODO  
-#utils  
-https://github.com/LudoCrypt/Widtotwl
 
 where to add landscape art link?
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#region-landscape-art
