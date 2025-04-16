@@ -1,24 +1,44 @@
 AKA info useful for ANY mod creation
 
-*Mod thumbnail: [[make a mod thumbnail|here]]*
-
 > [!warning] Warning on proper text file formatting
-> Every text file *must* have:
+> Every text file in the mod *must* have:
 > - `CRLF` as line sequence for ending
 > 	Saving in `Notepad` is safe, however this might be an option in other text editors
 > - `UTF-8` as encoding
 > Otherwise, the file might end up causing errors for the game.
 
-### modinfo.json
-#wiki
-*Defines basic mod info, is used by Remix.*
+# Basic setup
+All local mods are put in a folder in:
+`Rain World\RainWorld_Data\StreamingAssets\mods\`
+The name of the folder can be *anything* and doesn't really affect anything.
+
+Below list of files that are useful for *any* mod.
+## Mod thumbnail
+*Is optional.*
+
+Size used by base game and DLC mods: `676 x 380`
+### Requirements
+Mandatory: 
+- name: `thumbnail.png`
+- up to `1 MB` size
+
+Recommended: 
+- aspect ratio: `16:9`
+- size: at least `640x360`
+
+(source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
+## Mod description file 
+*Defines basic mod info; is used by Remix.*
+
+Name: `modinfo.json`
+List of available keys:
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories  
 
-### Folder structure  
+# Folder structure  
 #wiki
 https://rainworldmodding.miraheze.org/wiki/UserWiki:Tat0110
 
-### Targeting multiple game versions
+# Targeting multiple game versions
 ```
 ModName
 ├── modinfo.json

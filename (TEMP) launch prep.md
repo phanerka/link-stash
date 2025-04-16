@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-dic general stuff:
+doc general stuff:
 
 get rid of *those commits*
 get rid of todo comments
@@ -11,7 +11,8 @@ comment out stuff that needs permission
 --------------------------
 doc specific stuff:
 
-porl tabl contains names of text files
+on various kinds of tutorials: switch `-` with numbers, its steps after all
+clarification on patchers and plugins
 correct names of asset bundles that contain assets
 credit a guy who dropped a list of creatures and objects IDs (i extended it)
 crs region properties: sundown music

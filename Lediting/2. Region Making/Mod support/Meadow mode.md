@@ -2,7 +2,7 @@
 
 Spreadsheet with music distribution in base regions:  
 https://docs.google.com/spreadsheets/d/1rg14d7qPAnuyraE7zkSZvkA_8_6gDy_nrsypO1f6MaQ/edit  
-Region that have no Meadow support have **Shoreline** settings by default.
+Region that got no Meadow support will use **Shoreline** settings by default.
 
 To configure music, you'll have to add `meadowPlaylist.txt` file to `your-mod\world\xx\` directory.  
 In the file, define on separate lines:

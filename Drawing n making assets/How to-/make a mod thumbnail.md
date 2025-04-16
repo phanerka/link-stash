@@ -1,14 +1,4 @@
-Size base game and DLC mods use: `676 x 380`
-
-Requirements for thumbnail: 
-- name: `thumbnail.png`
-- up to `1 MB` size
-
-Recommended: 
-- aspect ratio: `16:9`
-- size: `640x360` at least
-
-(source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
+*For technical information about mod thumbnail, go [[Mod structure#Mod thumbnail|here]].*
 
 All official mod thumbnail art is made by **Kelocitta**.
 

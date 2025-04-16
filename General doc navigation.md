@@ -1,13 +1,14 @@
-> [!warning] Clarifications on Watcher DLC
+> [!warning] Clarifications on post Watcher DLC state of the doc
 > - Some info *might* be outdated
 > - Uploaded files *may* contain Watcher content. If so, it will be mentioned. 
 > - All Watcher only related content will be put in closed spoiler.
 > - Watcher update broke majority of mods. While it's usually easy to fix them, it will take time for them all to be fixed.
-> 	Broken mods are crossed out here, like ~~this~~. 
+> 	Broken mods are crossed out, like ~~this~~. 
 
 Navigation on `Lediting` folder: [[Lediting/Navigation|here]]  
 Navigation on `Coding` folder: [[Coding/Navigation|here]]
 
+# New to modding?
 If you're new and want to learn how to make/add X, in general I'd advise to:
 - (if you're completely new to modding) head to "Getting started" page and only then, check other guides
 - check the *top guide / video tutorial*, *read / watch it from start to end* to get acknowledged with basics, and only *then* read the rest of page to see how you can change things yourself. I don't know your way of thinking, but otherwise you might feel confused and overwhelmed with all definitions and parameters!

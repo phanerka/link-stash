@@ -9,10 +9,16 @@ Useful concepts (you can learn them later):
 - [[! Modifying game logic|Hooking / IL hooking]] (to modify base game logic)  
 - [[Storing data for existing objects|ConditionalWeakTables]] (to store data)  
 - [[Creating a creature or item|ExtEnum]] (to register new objects)
-### Things to download  
+### Programs to have
 - IDE for C#
+- (optional: to explore game contents) [VSCodium](https://vscodium.com/) AKA [VS Code](https://code.visualstudio.com/) without telemetry.
+	In general, any text editor that is able to do the following would work:
+	- open and read big files (example: potential log files and room files) without issues
+	- reload contents of a file in real-time (for logs)
+	- search in a single file, with ability to replace found strings with another one
+	- search in all files from a single folder, by contents / name (to look up something in game files)
 
-If you're planning to [[Coding/Guides/Loading custom assets/Shaders|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Unity version|specific version]] of Unity. It's very bulky, make sure to do it beforehand!  
+If you're planning to [[Coding/Guides/Loading custom assets/Shaders|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Unity version|specific version]] of Unity. It's very bulky, make sure to do it beforehand!
 #### Setting up RW for debugging  
 > [!info] Disclaimer  
 > It's your choice whether you want to do it or not.  
