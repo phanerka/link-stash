@@ -12,10 +12,12 @@ Mods that could be useful:
 - [Dev Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki)): provides a list of various useful features from console.
 
 - [Unity Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200): universal debugging tool for Unity games. However, due to Rain World not using all of Unity features, the mod is less useful than in other Unity games in general.  
+	*Recommended to be used with `Mouse Drag Explorer`.*
 	Provides:
 	- sprite atlases extraction via `Inspector` tab, however other specialized tools like `AssetRipper` are much easier to use (and can export more types of assets).
-	- internal logging window, which can also capture Unity Debug logs (`consoleLog.txt`.
-	- runtime preview and edit of variables, however same and (even better) can be achieved with Debug World.
+	- internal logging window, which can also capture Unity Debug logs (`consoleLog.txt` [[Logs#console log|log]]).
+	- object properties preview and manipulation via `Inspector` tab.
+		Without `Mouse Drag Explorer`, only static objects can be inspected. 
 	- [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) code execution
 	- hooking methods with custom code support, adds code by default that logs parameters whenever the method is called (however doesn't have autocomplete)
 	- any method call from any time
@@ -23,16 +25,16 @@ Mods that could be useful:
 > [!warning] Warning on Unity Explorer usage
 > It doesn't prevent the game from capturing same input that is entered when the window is on. Disable Dev Tools to prevent its accidental enable via `O` or rebind toggle to another key via [Rebind Dev Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957).
 
-%% TODO:: update mod collection %%
-- [Mouse Drag Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3460881795): a plugin for Unity Explorer and Mouse Drag. Allows to open class of picked creature via Mouse Drag interface.
-##### Creatures manipulation  
-- [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player  
-- ~~[BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)~~ - provides convenient way to spawn creatures in-game  
-- [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to get rid of certain type of creatures.  
-- `setup.txt`: `world creatures spawn:0` disables almost ALL creatures from spawning in game.
-- Dev Console: allows to spawn creature with certain ID (more info [[Creatures#Creature IDs|here]])  
+	
+- [Mouse Drag Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3460881795): a plugin for Unity Explorer and Mouse Drag. Allows to view object properties of picked creature via Mouse Drag interface.
+##### Creatures and items manipulation  
+- [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation (kill, revive, tame, duplicate, destroy, pause/unpause) with existing creatures (including the player) and items; may control all objects in a room at once. 
+- ~~[BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)~~ - provides convenient way to spawn creatures and items in-game  
+- [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to forbid spawning of certain type of creatures.  
+- `setup.txt`: `world creatures spawn:0` forbids spawning of almost ALL creatures in game.
+- Dev Console: allows to spawn creature and item with certain ID (more info [[Creatures#Creature IDs|here]])  
 	also `remove_crits` and `destroy` 
-- DevTools: when exabled in room, pressing `8` kills every creature in the room except scug
+- Dev Tools: when enabled in room, pressing `8` kills every creature in the room except scug
 
 ##### Debug/crash control
 %% yet another TODO:: probably split up by sections. %%

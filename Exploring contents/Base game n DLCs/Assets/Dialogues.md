@@ -1,8 +1,41 @@
-Looking up online: [wiki](https://rainworld.miraheze.org/wiki/Pearl/Dialogue) duh (for [Downpour](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour) and Watcher \[TBA])
-TODO add decrypted files archive
-For pearls from modded regions, go [[Other mods#Via CRS Decryptor mod|here]]
 
-## Encryption and decryption
+# Online resources
+
+## Rain World Collection Index
+> [!watcher] *Contains Watcher spoilers.*
+
+Contains all base game & DLCs dialogues with additional information attached:
+- (if exist) conditions for dialogue to be triggered
+- locations of objects that trigger dialogue, with link to the room on online map
+- location of dialogue in game files
+
+https://yanwittmann.github.io/rw-collection-index
+
+(source: [RW Main](https://discord.com/channels/291184728944410624/1125237384318046339/1348976713610039314))
+## Wiki pages
+ 
+- Pearls: 
+	https://rainworld.miraheze.org/wiki/Pearl/Dialogue ([Downpour](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour))
+- Broadcasts:
+	https://rainworld.miraheze.org/wiki/Broadcast#Dialogue
+- Developer commentaries:
+	https://rainworld.miraheze.org/wiki/Developer_Commentary#Dialogue
+- Monologues:
+	- LTTM:
+		https://rainworld.miraheze.org/wiki/Looks_to_the_Moon#Dialogue
+	- FP:
+		https://rainworld.miraheze.org/wiki/Five_Pebbles/Dialogue
+	- Echoes:
+		https://rainworld.miraheze.org/wiki/Echo/Dialogue ([Downpour](https://rainworld.miraheze.org/wiki/Echo/Dialogue/Downpour))
+
+> [!watcher]- Watcher contents
+> - The Prince dialogue:
+> 	https://rainworld.miraheze.org/wiki/The_Prince/Dialogue
+> - Echo:
+> 	https://rainworld.miraheze.org/wiki/Spinning_Top/Dialogue
+
+# Encryption and decryption
+
 >[!warning] Warning on decryption issues
 >The following ways will work with base game and DLC files but might fail with modded regions' files.
 > If the latter is your case and it does happen, check [[Other mods#Via CRS Decryptor mod|Other mods]] page. 
@@ -23,16 +56,13 @@ Once the game is loaded, the files put in that path will be converted.
 #### Via Decryptor mod
 >[!warning] Luckily the mod still works. But once it doesn't, please don't ask the author to update them! 
 
+%% TODO:: okay it might NOT work anymore. its bricking my linux system now lmao %%
+
 *Decrypts ALL text files from enabled mods, whether it's from base game, DLCs or modded regions.*  
 *Doesn't provide encryption.*  
 Path for decrypted files:  
 `Rain World\RainWorld_Data\StreamingAssets\decrypt`
-
-> [!warning] huh
-> seems like `decrypt` folder breaks the game on launch now
-> TODO: check if the mod still works
-
-## Syntax
+# Syntax
 TBA TODO
 
 `0` in beginning: is unencrypted

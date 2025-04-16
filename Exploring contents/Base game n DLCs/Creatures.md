@@ -18,9 +18,11 @@ However, some mods are able to change that logic:
 - [IDs expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3094610084) mod increases ID range up to technical limitations (from -2,147,483,648 to 2,147,483,647) and hands out absolutely random ID numbers
 - [ID Range Extender](https://steamcommunity.com/sharedfiles/filedetails/?id=3147644887) mod allows to uh... change the first value used for ID?
 
-Everything depends on your current setup and wheher you can find the creature in the game right now.
-- [id finder](https://steamcommunity.com/sharedfiles/filedetails/?id=3040378054): if the creature cannot be accessed in game
-- [visible ids](https://steamcommunity.com/sharedfiles/filedetails/?id=2934997065): if the creature *exists* in game
+Everything depends on your current setup and whether you can find the creature in the game right now.
+- if the creature cannot be accessed in game: [ID Finder](https://steamcommunity.com/sharedfiles/filedetails/?id=3040378054) mod
+- if the creature *exists* in game:
+	- [Visible IDs](https://steamcommunity.com/sharedfiles/filedetails/?id=2934997065)
+	- [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244): ID is shown on right clicking creature / object
 - [[Logs#console log|consoleLog.txt]] records IDs of creatures that weren't saved after cycle end (died, save position was outside of region world coordinates (whatever that means..) )
 ##### Spawning by ID  
 - via [Dev Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044)  mod  

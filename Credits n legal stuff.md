@@ -187,6 +187,7 @@ Files, guides and just links that were posted in public.
 `seroen`: seroens warehouse (temporarily maintained solars one) 
 `slime_cubed`: notes on shader creation
 `solar`: solars warehouse
+`Skyball`: rain world collection index website
 
 `tat0110`:
 - ambient sounds video on YT
