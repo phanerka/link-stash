@@ -202,6 +202,11 @@ Files, guides and just links that were posted in public.
 - LevelColor shader guide
 
 `zelolt`: created segoe ui rw bold font
+
+## Users outside of Discord
+[kyubuns](https://github.com/kyubuns): `UnityRemoveDevWatermark` plugin
+[KusterdPi](https://www.reddit.com/user/KusterdPi/): depacked v1.5 sprites
+
 ## Special apologies
 TBA TODO
 in case someone wouldn't like their name to be publicly shown

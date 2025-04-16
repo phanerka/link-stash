@@ -17,7 +17,7 @@ Mods that could be useful:
 	- sprite atlases extraction via `Inspector` tab, however other specialized tools like `AssetRipper` are much easier to use (and can export more types of assets).
 	- internal logging window, which can also capture Unity Debug logs (`consoleLog.txt` [[Logs#console log|log]]).
 	- object properties preview and manipulation via `Inspector` tab.
-		Without `Mouse Drag Explorer`, only static objects can be inspected. 
+		Only static objects can be inspected; `Mouse Drag Explorer` allows to inspect creatures and items as well. Exploring everything else is impossible; in this case, it's better to [[DNSpy#Attaching|attach]] the game to DNSpy instead. 
 	- [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) code execution
 	- hooking methods with custom code support, adds code by default that logs parameters whenever the method is called (however doesn't have autocomplete)
 	- any method call from any time
@@ -51,14 +51,15 @@ Mods that could be useful:
 - [DebugVisualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3136260525)  
 
 %% TODO:: format it properly %%
-Controls (non-numpad):  
-0 to switch between all creatures and just the selected one  
-1 to change selected creature  
-2 to toggle sight visualizer  %% basically `lizard laser eyes:1` but toggleable %%
-3 to toggle tracker visualizer  
-4 to toggle relationship visualizer  
-5 to toggle utility visualizer  
-6 to clear and reload sprites  
+> [!info]- How to use
+> Controls (non-numpad):  
+> 0 to switch between all creatures and just the selected one  
+> 1 to change selected creature  
+> 2 to toggle sight visualizer  %% basically `lizard laser eyes:1` but toggleable %%
+> 3 to toggle tracker visualizer  
+> 4 to toggle relationship visualizer  
+> 5 to toggle utility visualizer  
+> 6 to clear and reload sprites  
 - [SuperVisualiser](https://steamcommunity.com/sharedfiles/filedetails/?id=3035802284)- shows various stats of creatures  
 - [BodyChunk Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3252161184) 
 
