@@ -1,4 +1,4 @@
-*While DW doesn't do much on it's own, it allows [[DNSpy#Attaching|DNSpy]] and [[Visual Studio 20xx|Visual Studio]] to attach to the game. More info on respective pages.*
+*While DW doesn't do much on it's own (feature-wise, just shows [[Logs#exception log|exception log]] in game), it allows [[DNSpy#Attaching|DNSpy]] and [[Visual Studio 20xx|Visual Studio]] to attach to the game. More info on respective pages.*
 ### Installing 
 
 Just unzip the files and replace them in RW game folder.  

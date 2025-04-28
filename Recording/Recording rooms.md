@@ -3,9 +3,8 @@
 ### Messing with camera  
 [FreeCam](https://steamcommunity.com/sharedfiles/filedetails/?id=3366679898) mod
 
-zzzzzzzzzzzzzzzzzzzzzoooom  
-exists somewhere i forgor.....  
-oh its from concealed garden which wasnt ported yet awwww 3: 
+#### Zoom
+Available with [SBCameraScroll](https://steamcommunity.com/sharedfiles/filedetails/?id=2928752589) mod; check experimental features in Remix options
 
 ### Messing with creatures  
 check [[Coding/Useful mods list#Creatures manipulation|this]].
@@ -17,7 +16,7 @@ just get [Mouse Drag](https://steamcommunity.com/sharedfiles/filedetails/?id=300
 or `destroy me` via dev console?
 
 
-to grant invincibilty (wont save from death pits!):
+to grant invincibility (wont save from death pits!):
 `player invincibility` in `setup.txt`
 `invuln death` / `invult everything` (via dev console)
 

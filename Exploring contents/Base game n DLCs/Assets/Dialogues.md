@@ -2,6 +2,7 @@
 # Online resources
 
 ## Rain World Collection Index
+#docs
 > [!watcher] *Contains Watcher spoilers.*
 
 Contains all base game & DLCs dialogues with additional information attached:
@@ -10,6 +11,7 @@ Contains all base game & DLCs dialogues with additional information attached:
 - location of dialogue in game files
 
 https://yanwittmann.github.io/rw-collection-index
+Github repo: [here](https://github.com/YanWittmann/rw-collection-index)
 
 (source: [RW Main](https://discord.com/channels/291184728944410624/1125237384318046339/1348976713610039314))
 ## Wiki pages

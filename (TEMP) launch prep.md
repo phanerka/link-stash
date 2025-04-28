@@ -3,7 +3,7 @@ draft: true
 ---
 doc general stuff:
 
-get rid of *those commits*
+get rid of *those commits* (done?)
 get rid of todo comments
 get rid of all copypasting
 comment out stuff that needs permission

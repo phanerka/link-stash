@@ -42,3 +42,4 @@ https://www.youtube.com/watch?v=49ImiszhCe0
 Some QoL mods.
 - [Legible Devtools](https://steamcommunity.com/sharedfiles/filedetails/?id=2933848147) - recolors Dev Tools buttons' color from red to cyan
 - [Rebind Dev Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957) - adds keybinds configuration and setting to turn off Dev Mode auto-enabling on cycle start in Story.
+- [Dev Tools UI Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3465302751) - adds 2 more keybinds to move / hide Dev Tool objects and prevents from clicking through them.

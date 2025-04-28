@@ -18,7 +18,6 @@ Let's take outskirts for example. Its [[Region acronym|acronym]] is `SU`.
 	`your-mod\world\su-rooms`: all room files
 - modify outskirts region file so it would include your room
 	`your-mod\modify\world\su\world_su.txt`: 
-no wait maybe replace?
 ```
 [MERGE]
 ROOMS
@@ -57,6 +56,7 @@ XX.
 	Between `ROOMS` and `END ROOMS`, add the following line:
 	`SU_X01: DISCONNECTED, DISCONNECTED, DISCONNECTED`
 	the result goes here yada yada
+	%% yes, not done yet. %%
 - modify world region acronyms file so the game would know about your region
 	`your-mod\modify\world\regions.txt`
 	Add the following text inside:

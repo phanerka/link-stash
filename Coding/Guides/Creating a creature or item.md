@@ -10,6 +10,9 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/ExtEnum
 ### Creatures
 
 %% TODO:: OUTDATED %%
+
+> [!warning] Warning: it's outdated. Prepare to fix the code.
+
 Creature template (lizard): [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1336495351368257587)
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2931520964  
@@ -28,6 +31,9 @@ https://rain-world-modding.fandom.com/wiki/Adding_a_Custom_Creature
 
 ### Items  
 %% TODO:: OUTDATED %%
+
+> [!warning] Warning: it's outdated. Prepare to fix the code.
+
 Creature template (fruit): [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1336495418976108634)
 
 https://rainworldmodding.miraheze.org/wiki/Creating_An_Object

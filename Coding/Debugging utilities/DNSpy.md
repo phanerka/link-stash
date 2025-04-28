@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=xOjaM3wjpO0
 ### Other DNSpy features  
 You can:  
 - add bookmarks.  
-	From my experience, DNSpy loses them very frequently, so it could be useful to save them in a file and store it somwhere.  
+	From my experience, DNSpy loses them very frequently, so it could be useful to save them in a file and store it somewhere.  
 - check list of breakpoints  
 - configure breakpoints (add conditions or filters, log in internal console)  
 - analyze methods.  

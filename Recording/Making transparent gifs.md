@@ -1,5 +1,7 @@
 wawa....
 
+https://discord.com/channels/291184728944410624/406092161281687572/809727849338634240
+
 > a few mods, and a specific recording tool  
 > mods are as follows :  
 > greyscreen : hides all fore and middleground elements, makes the background grey  

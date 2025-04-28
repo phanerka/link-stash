@@ -25,8 +25,9 @@ otherwise you have to sit through that 'merging all regions' thing
 and yeah for code only mods it makes no difference  
 honestly I would leave it disabled and install mergefix though  
 ##### Live logs  
-- `LogOutput.log`: enable one setting in BepInEx config; pops up in separate window.
+- `LogOutput.log`: enable one setting in BepInEx config; pops up in separate from the game window
 - `consoleOutput.txt`: press `K` with Dev Mode enabled; visible on the left
+- `exceptionLog.txt`: available with [[Debug World]]; visible in bottom left, pops up whenever first exception is thrown
 ##### Using cheat codes  
 Refer to [[Cheat codes]].
 
