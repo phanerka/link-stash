@@ -17,7 +17,7 @@
 > "Enable Dev Tools": just enable Dev Tools mod in Remix menu.  
 > 
 > "Enable Dev Mode": enable Dev Tools and start the game. Press O in game to toggle on/off.  
-> Dev Mode is enabled by default on cycle start; such behavior can be turned off with Rebind Dev Tools mod.  
+> Dev Mode is enabled by default on cycle start (in rare cases though, its disabled; most likely is a bug); such behavior can be turned off with Rebind Dev Tools mod.
 > When Dev Mode is on, a yellow label with current room name can be seen on top of the screen.  
 >
 > 

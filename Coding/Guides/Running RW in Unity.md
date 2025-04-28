@@ -28,9 +28,9 @@ Import `ExportedProject` in unity, wait until it finishes
 
 I've heard you can get rid of some.. language files? to speed up decompilation process
 
-Then, heres 2 options:
-- left click `RainWorld.unity` to o everything automatically
-- open the Hub, export project file, then after importing pick `Open scene` option and use it on `RainWorld.unity`
+Then, here are 2 options:
+- left click `RainWorld.unity` to load the project AND the scene
+- open the Hub, click on `export project file` button, select `Exported project` folder, then after importing pick `Open scene` option and use it on `RainWorld.unity`
 
 In my case (budget gaming laptop), importing the project took ~1h 20 min. Be prepared.
 
@@ -41,18 +41,23 @@ Here goes error fixing time....
 
 This is a list of errors that are *have* to be fixed to run the game, or simplify the fixing process.
 ## Setting up VS 20xx for Unity
-Main page:
-https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows
+Visual Studio will be able to
+- open when double clicking scripts in unity or going to `assets - open c# project`
+- show errors in code
+- run and debug the game
 
-vs should be able to open when double clicking scripts in unity or going to `assets - open c# project`
-and show errors in code
+(required for debugging feature) Go to `Build Settings` and check the `Development Build` option. It's required to allow VS attach to the code.
+If it was *after* the steps below, [here](https://discussions.unity.com/t/cant-see-attach-to-unity-button-in-visual-studio/659893/9)'s how to fix it.
+
+Then, follow this guide:
+https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows
 
 TL;DR:
 1. install Unity plugin for VS
 2. in unity, `edit - preferences - external tools`
 	if unity cant find path, then thats default one (where my vs is installed at)
 	`C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe`
-
+3. (idk if its useful but better to have it too) Install `Visual Studio Editor` plugin in Unity.
 ### Missing firstpass namespaces and types
 *AKA `AGLog<>`, `Kittehface`, `FromStaticClass`, `AssetBundles`, `UserData` and `AGCachedStrings`.*
 
@@ -92,14 +97,14 @@ Basically, you did smth wrong; re-import `RainWorld.unity` file and replace it i
 ### Input issues
 i forgor how they're called
 Basically, you've got 2 ways here:
-- rewrite entire input from Rewired to Unity in-built one
-- get Rewired plugin, in one way or another.
-	There are 2 caveats for this way:
-	- the plugin can be found here, and it costs pretty much *a lot*
-	- RW uses older version of Rewired, while Unity Stores allows to download version.
-		There will be code-related issues related to having different version, and they will require to be taken care of.
+- rewrite entire input from Rewired to Unity in-built one, and it's very tedious
+- get `Rewired` plugin.
+	There are 2 issues in this case:
+	- the plugin can be found [here](https://assetstore.unity.com/packages/tools/utilities/rewired-21676) in Unity Asset Store, and it costs **$45**
+	- Rain World uses older version of Rewired (`v1.1.39.2`), while Asset Store allows to download latest version only.
+		There will be code-related issues related to version difference, and they will require to be taken care of.
 
-I'm not going to attach Rewired plugin here, as it's illegal; however, you might ask in the server I attached.
+I'm not going to attach Rewired plugin here, as it's illegal; however, you might ask for it in the server mentioned in the [[Running RW in Unity#Credits|Credits]].
 
 If you get the plugin, clean all Rewired-related libraries in `Plugins` folder:
 - `Rewired_Windows`
@@ -129,7 +134,7 @@ Here's a guide though, how to do it yourself:
 > [!example]- yeah.
 >  Based on messages from `Dan's Palace` server: [here](https://discord.com/channels/904608817290039336/932989734253375528/1266139316166328426)
 >  Make sure to back up `Rewired_Core` and `Rewired.Runtime`; the following actions *WILL* break the game, but make the job done.
->  This will concern DLL editing; prepare your DNSpy.
+>  This will concern [[DNSpy#Editing DLLs|DLL editing]]; prepare your DNSpy.
 >  First off, grab `Rewired_Core.dll` and publicize internal `RewiredVersion` class. Save the module, overwriting existing one.
 >  Next, grab `Rewired.Runtime.dll` library and add the following lines:
 >  - in the top, libraries used:
@@ -171,7 +176,6 @@ Here's a guide though, how to do it yourself:
 Gotta put some objects back.
 2nd script: is Input Manager component. probably would be nice to modify unity file, to save all settings
 3rd script: Nintendo Switch Input Manager component, used *only* for building on Switch. Isn't required; feel free to delete (?)
-
 ## Assets issues
 i forgot how they're called
 but basically, move some .asset filles from resources folders
@@ -198,7 +202,7 @@ public class CreateAssetBundle
 
 This file will be put in the archive above.
 
-then go back to unity, `Assets` tab -> `Build AssetBundles`, and wait until they're done
+then go back to unity, `Assets` tab -> `Build AssetBundles`, and wait until they're done; for me, it took ~5 minutes.
 ## ArgumentNullException on AssetBundle loading
 The game code doesn't recognize the platform, thus doesn't know the name of the bundle related to the platform.
 
@@ -222,8 +226,13 @@ just delete shader files in `Futile` folder and replace with the the ones from b
 It's fine, just hide it by right clicking `Game` tab and clearing a tick from `Warn if No Cameras Rendering`.
 
 # Building issues
+Took ~6 minutes for me to build.
 
 well, i know only one thing:
 
 crash on compute shader building
 idk of any other solution except deleting `RotParticle` compute shader :(
+
+%% TODO:: ask for perms
+https://discord.com/channels/904608817290039336/932989734253375528/1018241377349423234
+%%

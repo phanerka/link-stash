@@ -41,7 +41,7 @@ Possible causes (at least what i encountered):
 
 ### Editing DLLs  
 > [!warning] Disclaimer: the video is outdated.  
-> Modifying Assembly-CSharp is highly discouraged, as your mod becomes ~~no more portable and generally applicable~~ highly incompatible with other mods and impossible to upload to Steam Workshop, and distributing it enters legally grey area (since your file will consist of 99% base game code).  
+> Unless it's attached as a step for a guide from this documentation, modifying Assembly-CSharp is highly discouraged: your mod becomes ~~no more portable and generally applicable~~ highly incompatible with other mods and impossible to upload to Steam Workshop, and distributing it enters legally grey area (since your file will consist of 99% base game code).  
 >   
 > You might want to follow same steps to tweak different mod, but you'll have to keep in mind that:  
 > - u gotta know IL code son cause C# code won't always be able to be compiled (and might break things)  
