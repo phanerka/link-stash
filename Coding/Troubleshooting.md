@@ -9,4 +9,4 @@ Troubleshooting is closely tied to
  - [[Code/|code]] inspection
  - using [[Coding/Debugging utilities/|debugging utilities]].
 
- make sure to consider them as well. 
+ make sure to consider them as well.

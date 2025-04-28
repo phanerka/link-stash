@@ -12,10 +12,10 @@ https://discord.gg/kPGJNhrnu2
 
 **Unofficial Modding server**
 *(formerly Modding Academy aka RWMA)*
-https://discord.gg/4rqYRexHW3  
+https://discord.gg/4rqYRexHW3
 
-> [!tip] Personal advice: do NOT hesitate to ask for help there!  
-> Information and resources are truly spread out across everything, believe me as _creator of this website_.  
+> [!tip] Personal advice: do NOT hesitate to ask for help there!
+> Information and resources are truly spread out across everything, believe me as _creator of this website_.
 ## Local Discord servers
 I mean servers with English as non-primary language.
 Russian RW (aka RW RU):
@@ -50,8 +50,8 @@ https://rain-world-modding.fandom.com/wiki/Rain_World_Modding_Wiki
 *AKA wiki about already existing mods*
 
 https://rainworldmods.miraheze.org/wiki/Main_Page
-# Other  
-Devlog: https://candlesign.github.io/Rain-World-Devlog/  
-Github forum: https://github.com/orgs/Rain-World-Modding/discussions  
-Steam guides: https://steamcommunity.com/app/312520/guides/  
-Youtube (duh)  
+# Other
+Devlog: https://candlesign.github.io/Rain-World-Devlog/
+Github forum: https://github.com/orgs/Rain-World-Modding/discussions
+Steam guides: https://steamcommunity.com/app/312520/guides/
+Youtube (duh)

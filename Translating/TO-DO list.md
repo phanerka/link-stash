@@ -12,7 +12,7 @@
 
 for syntax and decrypting, check [[Dialogues]] page
 
->[!warning] Advice on mod translations 
+>[!warning] Advice on mod translations
 > If you're translating MSC / other region mods, mark them as soft dependency. It will make sure your mod will load after them and translate lines properly.
 
 Base game.
@@ -26,7 +26,7 @@ Base game.
 			- 25-34: items descriptions
 			- 35, 37: moons greeting
 			- 38, 40: ???? multiple lines? sky islands and pebblepearl?
-		- `strings.txt`: 
+		- `strings.txt`:
 			- iterators single-line dialogues (FPs requests to leave)
 			- UI strings (remix included?)
 			- items names in arena?
@@ -36,7 +36,7 @@ Base game.
 		Structure:
 		- `ROOM-SLUGCAT.txt`: developer commentaries.
 		- `chatlog_xxN.txt`: broadcasts in spearmaster campaign.
-		- `strings.txt`: 
+		- `strings.txt`:
 			- iterators dialogues
 			- safari keybinds
 			- tutorial strings

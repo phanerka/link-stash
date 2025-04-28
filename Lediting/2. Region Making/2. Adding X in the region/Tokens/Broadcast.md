@@ -1,4 +1,4 @@
-#msc and #crs required  
+#msc and #crs required
 
 > [!wip] WIP page.
 

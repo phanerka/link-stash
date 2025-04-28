@@ -1,6 +1,6 @@
 (basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)
 btw make sure to use `PUBLIC-Assembly-CSharp`, NOT `Assembly-CSharp`!
-# Things to know  
+# Things to know
 C#. yeah.
 
 Basic C# concepts (this is basicest base of basics; you *need* to know them):
@@ -8,9 +8,9 @@ Basic C# concepts (this is basicest base of basics; you *need* to know them):
 - getters and setters
 - access modifiers or smth
 
-Useful concepts (you can learn them later):  
-- [[! Modifying game logic|On / IL hooking]] (to modify base game logic)  
-- [[Storing data for existing objects|ConditionalWeakTables]] (to store data)  
+Useful concepts (you can learn them later):
+- [[! Modifying game logic|On / IL hooking]] (to modify base game logic)
+- [[Storing data for existing objects|ConditionalWeakTables]] (to store data)
 - [[Creating a creature or item|ExtEnum]] (to register new objects)
 
 For syntax, here's a list of shortcuts for shorter and cleaner code:
@@ -44,11 +44,11 @@ Alternative mod templates (*they might be outdated!*):
 *AKA `Newtonsoft.Json.dll`*
 It's not required in the game anymore, however old mods might still use it.
 So here's the download link for the library.
-#### Setting up RW for debugging  
+#### Setting up RW for debugging
 > [!info] Disclaimer
 > It's your choice whether you want to do it or not.
- > 
-> Personally I advise to set it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.  
+ >
+> Personally I advise to set it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.
 > But Debug World is proven to be problematic with *any* enabled mod that has custom region and sometimes is hard to attach to.
 
 - set up [[Debug World]]
@@ -65,7 +65,7 @@ So here's the download link for the library.
 [[Source#Wikis|RW Wikis]] will be of huge help. Make sure to check them.
 
 Risk of Rain 2 wiki, esp general modding info
-https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/C%23-Programming/Assembly-References/
+<https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/C#-Programming/Assembly-References/>
 
 BepInEx documentation
 https://docs.bepinex.dev/articles/index.html

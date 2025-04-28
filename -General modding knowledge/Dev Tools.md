@@ -5,22 +5,20 @@
 > This mod fixes it:
 > https://steamcommunity.com/sharedfiles/filedetails/?id=3456052043
 
-
 > [!warning] Warning on DevTools usage
-> Every time you hide Dev Tools interface, all settings are reset to the in-game ones. 
-> Some settings are reset even if you switch interface tab (example: canon mode in Map tab). 
-> 
-> So please, make sure to not forget to save your settings. 
-
-
-> [!info] Clarification on Dev Tools mention across this document  
-> "Enable Dev Tools": just enable Dev Tools mod in Remix menu.  
-> 
-> "Enable Dev Mode": enable Dev Tools and start the game. Press O in game to toggle on/off.  
-> Dev Mode is enabled by default on cycle start (in rare cases though, its disabled; most likely is a bug); such behavior can be turned off with Rebind Dev Tools mod.
-> When Dev Mode is on, a yellow label with current room name can be seen on top of the screen.  
+> Every time you hide Dev Tools interface, all settings are reset to the in-game ones.
+> Some settings are reset even if you switch interface tab (example: canon mode in Map tab).
 >
-> 
+> So please, make sure to not forget to save your settings.
+
+> [!info] Clarification on Dev Tools mention across this document
+> "Enable Dev Tools": just enable Dev Tools mod in Remix menu.
+>
+> "Enable Dev Mode": enable Dev Tools and start the game. Press O in game to toggle on/off.
+> Dev Mode is enabled by default on cycle start (in rare cases though, its disabled; most likely is a bug); such behavior can be turned off with Rebind Dev Tools mod.
+> When Dev Mode is on, a yellow label with current room name can be seen on top of the screen.
+>
+>
 > "Open Dev Tool interface": enable Dev Tools and start the game; make sure Dev Mode is enabled.
 > Press H to toggle the interface.
 
@@ -32,7 +30,7 @@ https://rainworldmodding.miraheze.org/wiki/Dev_Tools
 
 ##### Dev Tools video guides
 #vids
-video guide: 
+video guide:
 https://www.youtube.com/watch?v=ggpKX6IJVFg
 
 more exhaustive but incomplete video guide:

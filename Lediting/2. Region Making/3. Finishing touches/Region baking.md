@@ -1,5 +1,5 @@
-just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region#Baking) your rooms.  
-You can also bake via Remix menu in RegionKit  
+just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region#Baking) your rooms.
+You can also bake via Remix menu in RegionKit
 
 debug world doesnt work with unbaked regions btw
 

@@ -1,4 +1,4 @@
-# Pearl colors 
+# Pearl colors
 ![[pearls-color_by-juliacat57.png|500]]
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113315552434323498))
 
@@ -8,7 +8,7 @@ The order of pearls is like from `COLLECTION` menu from the game (read by column
 3rd row, left to right:
 - `BroadcastMisc` ([broadcast pearls](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour#BroadcastMisc))
 - `Misc2` ([bonus pearls](https://rainworld.miraheze.org/wiki/Pearl#Misc2))
-- `CL` ([Pebbles' music pearl](https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour#Silent_Construct_%E2%80%A2_Music_(faded)_(CL)))
+- `CL` ([Pebbles' music pearl](<https://rainworld.miraheze.org/wiki/Pearl/Dialogue/Downpour#Silent_Construct_•_Music_(faded)_(CL)>)))
 - `PebblesPearl`, `marbleColor`: `1` or `-1` (iterators' silver pearl)
 - `PebblesPearl`, `marbleColor`: `-3` (LTTM's blue pearl)
 - `PebblesPearl`, `marbleColor`: `0` or `-2` (iterators' orange pearl)
@@ -16,10 +16,10 @@ The order of pearls is like from `COLLECTION` menu from the game (read by column
 
 
 # Pearl dialogues
-- from base game: go [[Dialogues#Online resources|here]].  
+- from base game: go [[Dialogues#Online resources|here]].
 - from region mods: go [[Other mods#Via CRS Decryptor mod|here]].
 
-##### PORL TABL  
+##### PORL TABL
 #docs
 *PORL TABL*
 
@@ -32,7 +32,7 @@ Includes:
 - text file name of the dialogue
 
 https://docs.google.com/spreadsheets/d/1OanAHTU9rHI81HdgI_YFl9kR5WW6IsqpazSnkeTbguA/edit
-(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1111342813964161035))  
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1111342813964161035))
 
 # Exploring pearls in game
 

@@ -1,4 +1,4 @@
-**Heyo and welcome to  ==🔥🔥🔥 *coding hell* 🔥🔥🔥==**  
+**Heyo and welcome to  ==🔥🔥🔥 *coding hell* 🔥🔥🔥==**
 **I'm sure you will enjoy your stay** ʕOωOʔ
 
 ------------------------
@@ -10,9 +10,9 @@ Okay, now being serious.
 
 
 For getting started, go to [[Getting started]]. Most basic guides are marked with exclamation mark.
-In general, keep in mind the following pages:  
+In general, keep in mind the following pages:
 - [[Clarifications]] page for documented illogical / non obvious base RW code
-- [[Other mods|Exploring other mods]] page to look up how other mods implemented X feature  
+- [[Other mods|Exploring other mods]] page to look up how other mods implemented X feature
 - [[Getting started#Useful links|Useful links]] section for the list of tutorials and wikis thats might come in handy
 
-And don't be afraid to ask in Discord servers!! 
+And don't be afraid to ask in Discord servers!!

@@ -1,4 +1,4 @@
-AKA info useful for ANY mod creation
+*AKA info useful for ANY mod creation*
 
 > [!warning] Warning on proper text file formatting
 > Every text file in the mod *must* have:
@@ -16,24 +16,24 @@ Below list of files that are useful for *any* mod.
 ## Mod thumbnail
 *Is optional.*
 ### Requirements
-Mandatory: 
+Mandatory:
 - name: `thumbnail.png`
 - up to `1 MB` size
 
-Recommended: 
+Recommended:
 - aspect ratio: `16:9`
 - size: at least `640x360`
 	Size used by base game and DLC mods: `676 x 380`
 
-(source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON)) 
-## Mod description file 
+(source: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#ModInfo_JSON))
+## Mod description file
 *Defines basic mod info; is used by Remix.*
 
 Name: `modinfo.json`
 List of available keys:
-https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories  
+https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories
 
-# Folder structure  
+# Folder structure
 #wiki
 https://rainworldmodding.miraheze.org/wiki/UserWiki:Tat0110
 

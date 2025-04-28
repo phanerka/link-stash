@@ -1,11 +1,11 @@
 > [!warning] Clarifications on post Watcher DLC state of the doc
 > - Some info *might* be outdated
-> - Uploaded files *may* contain Watcher content. If so, it will be mentioned. 
+> - Uploaded files *may* contain Watcher content. If so, it will be mentioned.
 > - All Watcher only related content will be put in closed spoiler.
 > - Watcher update broke majority of mods. While it's usually easy to fix them, it will take time for them all to be fixed.
-> 	Broken mods are crossed out, like ~~this~~. 
+> 	Broken mods are crossed out, like ~~this~~.
 
-Navigation on `Lediting` folder: [[Lediting/Navigation|here]]  
+Navigation on `Lediting` folder: [[Lediting/Navigation|here]]
 Navigation on `Coding` folder: [[Coding/Navigation|here]]
 
 # New to modding?
@@ -19,11 +19,12 @@ For `your-mod` folder, refer to this.
 %% TODO:: %%
 ### Steam folder
  Steam installation folder.
- Default path: 
+ Default path:
 `C:\Program Files (x86)\Steam`
 
-How to find: 
+
 %% TODO::
+How to find:
 https://superuser.com/questions/1068707/find-where-windows-program-is-installed
 where steam in cmd
 %%
@@ -34,9 +35,9 @@ Default path:
 `C:\Program Files (x86)\Steam\steamapps\common\Rain World`
 
 How to find:
-right click Rain World in Steam: `Manage` -> `Browse local files` 
+right click Rain World in Steam: `Manage` -> `Browse local files`
 
-### Tags  
+### Tags
 ~~For convenient looking for information.~~
 My initial idea was to make tags mark not *entire page* but only headers. However, it seems a bit hard to implement that, so tags aren't that useful tbh.
 - `#utils` - helpful RW-related plugins, apps and websites
@@ -51,12 +52,12 @@ My initial idea was to make tags mark not *entire page* but only headers. Howeve
 	- `#crs` - Custom Regions Support mod
 	- `#regionKit` - RegionKit mod
 
-### Discord server links  
+### Discord server links
 > [!warning] Warning: Discord links work only on Windows.
 
-For the sake of convenience, every discord server channel has got both links for browser and the app (mentioned as ``| D`` ). Example:  
-``https://discord.com/channels/1083481230839922688/1083511643113279519`` (original link)  
-``discord://discord.com/channels/1083481230839922688/1083511643113279519`` (app link)  
+For the sake of convenience, every discord server channel has got both links for browser and the app (mentioned as ``| D`` ). Example:
+``https://discord.com/channels/1083481230839922688/1083511643113279519`` (original link)
+``discord://discord.com/channels/1083481230839922688/1083511643113279519`` (app link)
 it's your choice what link to use.
 
 For servers names abbreviation explanations, refer to [[Source#Discord servers|this]].

@@ -19,9 +19,9 @@ First off, i want to thank the following people; the guide wouldn't have been po
 	Invite link to the server: https://dsc.gg/danspalace
 # Getting the project
 
-> [!warning] Warning on folder 
+> [!warning] Warning on folder
 > Make sure the game folder is "clean": it doesn't contain any local mods or non game-native files.
-> They will be pulled as well. 
+> They will be pulled as well.
 
 `AssetRipper`: target `Rain World` folder, export the project
 Import `ExportedProject` in unity, wait until it finishes
@@ -76,7 +76,7 @@ Find package manager tab, click on `Packages: In project`, switch to `Unity Regi
 
 You might need to also delete all Unity UI-related libraries in `Libraries` folder and restart Unity to make errors disappear.
 ### Missing On namespace
-It means the project is missing `HOOKS-Assembly-CSharp` library, but it's not that easy. Simply dropping said file won't work, as it's a weird library created with special [generator](https://github.com/MonoMod/MonoMod/blob/reorganize/docs/RuntimeDetour.HookGen/Usage.md) that does [black magic](https://www.strathweb.com/2018/10/no-internalvisibleto-no-problem-bypassing-c-visibility-rules-with-roslyn/). 
+It means the project is missing `HOOKS-Assembly-CSharp` library, but it's not that easy. Simply dropping said file won't work, as it's a weird library created with special [generator](https://github.com/MonoMod/MonoMod/blob/reorganize/docs/RuntimeDetour.HookGen/Usage.md) that does [black magic](https://www.strathweb.com/2018/10/no-internalvisibleto-no-problem-bypassing-c-visibility-rules-with-roslyn/).
 1. add the following file to `Assets` folder.
 	It contains *only* those hooks that the code needs to be compiled.
 2. modify `ModManager.cs` file.
@@ -85,7 +85,7 @@ It means the project is missing `HOOKS-Assembly-CSharp` library, but it's not th
 	here's how a single hook block should like:
 	\[imagine a pic here]
 3. exclude that file from compilation.
-	You need that code *just* to compile the base game code; that hooking code will be available in actual `HOOKS-Assembly-CSharp` library as well, which might cause conflicts on game runtime. 
+	You need that code *just* to compile the base game code; that hooking code will be available in actual `HOOKS-Assembly-CSharp` library as well, which might cause conflicts on game runtime.
 
 ### Missing GfxPluginNativeRenderer library
 

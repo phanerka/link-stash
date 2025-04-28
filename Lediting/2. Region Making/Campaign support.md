@@ -30,7 +30,7 @@ adding rep: default alignments.txt
 
 **campaign-specific customization**
 entire region swap: `Equivalences.txt`
-room connections: world_xx.txt (via conditional linking); crs adds [4th one](https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#replaceroom) 
+room connections: world_xx.txt (via conditional linking); crs adds [4th one](https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#replaceroom)
 creature spawns: world_xx.txt
 threat music
 Room Settings xx_01_settings.txt

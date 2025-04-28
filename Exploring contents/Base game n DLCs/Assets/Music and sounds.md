@@ -1,12 +1,12 @@
 **Looking up online: [[Music making/For referencing n inspiration#In game sounds|here]]**.
 
-### Music  
+### Music
 *Is encrypted in AssetBundle, in `AudioClip` folder.*
 
-Dummy files' location:  
+Dummy files' location:
 `Rain World\RainWorld_Data\StreamingAssets\music\procedural\` (threat music)
 `Rain World\RainWorld_Data\StreamingAssets\music\songs\` (everything else)
-Actual files are bundled in following file:  
+Actual files are bundled in following file:
 `Rain World\RainWorld_Data\resources.resource`
 
 Contains:
@@ -16,19 +16,19 @@ Contains:
 - passage music
 - LTTM's sirens sounds
 - rain sound that plays on game start (without music!)
-- sounds from RW alpha version (steps, long jump, spear pickup, etc.)  
+- sounds from RW alpha version (steps, long jump, spear pickup, etc.)
 ### Sounds
 *Are encrypted in AssetBundle.*
 
-Dummy files' location:  
-`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects\`  
-Actual files are bundled in following file:  
-`Rain World\RainWorld_Data\StreamingAssets\AssetBundles\loadedsoundeffects`  
-Decrypting:  
+Dummy files' location:
+`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects\`
+Actual files are bundled in following file:
+`Rain World\RainWorld_Data\StreamingAssets\AssetBundles\loadedsoundeffects`
+Decrypting:
 https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sound_effects_in_game/
 
 > [!warning] Silly warning :3
-> These descriptions may be not 100% right. 
+> These descriptions may be not 100% right.
 > If you cannot find ambient sound you're looking for, there's a chance it's actually in sound effects folder. Same thing applies for sound effect sounding files.
 
 What to expect here:
@@ -39,10 +39,10 @@ What to expect here:
 ### Ambient sounds
 *Are encrypted in AssetBundle.*
 
-Dummy files' location:  
-`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects\ambient\`  
-Actual files are bundled in following file:  
-`Rain World\RainWorld_Data\StreamingAssets\AssetBundles\loadedsoundeffects_ambient` Decrypting is same as for [[Music and sounds#Sounds|sounds]]. 
+Dummy files' location:
+`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects\ambient\`
+Actual files are bundled in following file:
+`Rain World\RainWorld_Data\StreamingAssets\AssetBundles\loadedsoundeffects_ambient` Decrypting is same as for [[Music and sounds#Sounds|sounds]].
 
 Contains *(organized by abbreviations from files' names)*:
 - ambient music (`AM`)

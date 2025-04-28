@@ -23,14 +23,14 @@ hiding connections yeah
 slugbase used for cutscenes in region making too?....
 fix baking guide
 and on baking: p helps to debug pathfinding
-regionkit: seems like theres disable iggy option by default 
+regionkit: seems like theres disable iggy option by default
 
 https://discord.com/channels/600037764385210389/600037764385210391/1356577615951040562
 https://discord.com/channels/600037764385210389/600037764385210391/1355656848006451312
 https://discord.com/channels/600037764385210389/600037764385210391/1339654219761844364
 https://discord.com/channels/600037764385210389/600037764385210391/1338543675554267216
 https://discord.com/channels/600037764385210389/600037764385210391/1338542216339001456
-:D 
+:D
 https://discord.com/channels/600037764385210389/600037764385210391/1338526523434733670
 
 and very, *very* long list in my server.....

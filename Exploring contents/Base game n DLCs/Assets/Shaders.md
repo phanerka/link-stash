@@ -2,7 +2,7 @@
 Location: `Rain World\RainWorld_Data\resources.resource`
 
 However, source code (for referencing) is available unencrypted:
-`Rain World\RainWorld_Data\StreamingAssets\shaders`  
+`Rain World\RainWorld_Data\StreamingAssets\shaders`
 
 >[!example]- List of all game shaders
 > - `Basic`
@@ -173,15 +173,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3460778746
 Press `Delete` key in game to toggle the menu; turn it off to be able to close the game xd
 
 ##### Documentation on LevelColor shader
-#docs  
-responsible for room coloring  
-https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18  
-(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))  
+#docs
+responsible for room coloring
+https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))
 
-wiki page  
+wiki page
 https://rainworldmodding.miraheze.org/wiki/Level_Image_Format
 
 ##### How shadows work
-https://twitter.com/joar_lj/status/1525445116789497856  
+https://twitter.com/joar_lj/status/1525445116789497856
 A [mirror](https://nitter.poast.org/joar_lj/status/1525445116789497856) for non-twitter users
 

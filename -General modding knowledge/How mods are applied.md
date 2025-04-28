@@ -1,5 +1,7 @@
-just a bit of theory.
+> [!wip] This page is WIP.
+> It's messy, incomplete and possibly incorrect; I know.
 
+just a bit of theory.
 %% okay i should decide if im describing *loading* applied mods or *saving* applied mods
 or else its gonna be a mess %%
 
@@ -33,7 +35,7 @@ The order of loading files:
 
 If the game has way to save a file, it will put it next to / override the one that is read; if there's none found, it will be put in base game folder.
 
-Example: 
+Example:
 if the game finds map files in `mergedmods`, it will override them there too, not in mods or base game folder.
 
 %% whats bout override tho? what file is read then? %%

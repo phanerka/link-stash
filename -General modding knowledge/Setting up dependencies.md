@@ -15,6 +15,6 @@ Related keys for defining: `requirements` (for mod IDs), `requirements_names` (f
 ### soft dependencies
 Your mod can be enabled without dependency, however enabling dependency will provide more features in your mod.
 Related keys for defining: `priorities` (for mod IDs)
-If possible, it's better to make DLCs be soft dependency to not leave your mod behind paywall. 
+If possible, it's better to make DLCs be soft dependency to not leave your mod behind paywall.
 
 *Lediting section got own [[Setting up soft dependency|page]] about setting up soft dependencies.*

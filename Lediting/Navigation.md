@@ -1,6 +1,6 @@
 Document-wide navigation notes: [[General doc navigation|here]]
 
-Are you new to lediting or need a step-by-step tutorial to make a basic room? Head straight to "[[0. Getting started|Getting started]]"!  
+Are you new to lediting or need a step-by-step tutorial to make a basic room? Head straight to "[[0. Getting started|Getting started]]"!
 
 Room making covers:
 - basic requirements for adding a room in the game

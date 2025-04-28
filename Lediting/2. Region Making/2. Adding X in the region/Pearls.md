@@ -1,12 +1,12 @@
-PORL  
-#crs required  
+PORL
+#crs required
 
 https://www.youtube.com/watch?v=KIrGCvMorI4
-The way the mark was obtained was via Dev Console:  
-`the_mark`  
+The way the mark was obtained was via Dev Console:
+`the_mark`
 For more information about obtaining pearls in game, check [[Exploring contents/Base game n DLCs/Pearls|this]] page.
 
-Adding pearl dialogue:  
+Adding pearl dialogue:
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#pearls
 
 maybe should add og pearl color codes? idk TODO

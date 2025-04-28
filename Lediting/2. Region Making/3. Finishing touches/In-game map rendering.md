@@ -1,6 +1,6 @@
-Is made via Dev Tools; its Map tab is explained on [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Map-0). 
+Is made via Dev Tools; its Map tab is explained on [wiki page](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Map-0).
 
-Output location:  
+Output location:
 `Rain World\RainWorld_Data\StreamingAssets\world\sh`
 
 > [!warning] Warning on map image saving
@@ -9,21 +9,21 @@ Output location:
 
 To reveal entire region map in game, add `reveal map:1` to [[Cheat codes|setup.txt]] and enable Dev Tools.
 ### Merging maps
-supports custom campaigns. 
-%% TODO:: add %% 
+supports custom campaigns.
+%% TODO:: add %%
 
-Output location:  
+Output location:
 `Rain World\RainWorld_Data\StreamingAssets\mergedmods\world\xx\map_xx.png`
 
 
 ### troubleshooting
 *Disclaimer: I'm relying on own experience. I could miss other cases.*
 
-room looks full on preview, empty on output:  
-- your game is too tired to render rooms chill  
+room looks full on preview, empty on output:
+- your game is too tired to render rooms chill
 	reload the cycle with R with dev mode on and try again.
-- room image didnt change on output as expected:  
+- room image didnt change on output as expected:
 	you probably locked the image with another app (image preview, paint, etc.). close the app, then try again.
 - room empty both on preview and output OR
-- all connections are zeroed out:  
+- all connections are zeroed out:
 	youre pressing the render button too quickly. reload the cycle with R w/ dev mode on and wait until region loading finishes (it stops lagging in the end)

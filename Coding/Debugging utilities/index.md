@@ -7,10 +7,10 @@ BepInEx patchers list:
 https://github.com/BepInEx/BepInEx.Debug
 
 How to install patchers:
-- as a mod: put the `.dll` into 
+- as a mod: put the `.dll` into
 	`your-mod\patchers\`
 - in the RW folder:
-	- drop into 
+	- drop into
 		`Rain World\BepInEx\patchers\`
-	- add patcher name to 
+	- add patcher name to
 		`Rain World\RainWorld_Data\StreamingAssets\whitelist.txt`

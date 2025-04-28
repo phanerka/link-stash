@@ -1,7 +1,7 @@
 *yes, Visual Studio. not Code.*
 
 ### Profiling
-yeah. 
+yeah.
 ### Attaching
 >[!warning] Won't work with Linux or Ma- hold on how did you install *this thing* THERE?!
 
