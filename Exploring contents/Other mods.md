@@ -1,7 +1,5 @@
 *This page is dedicated ONLY to exploring mods. For a guide how to modify their code, refer to [[DNSpy#Editing DLLs|this]].*
-
-
-### Getting the mod
+# Getting the mod
 - if it's downloaded from Workshop already
 Workshop mods location:
 `Steam\steamapps\workshop\content\312520`, in respective folder with Workshop mod ID.
@@ -10,26 +8,28 @@ Easy way to determine the ID is to open Workshop mod page and check its link. To
 where `number` is mod ID. (yeah ik im great at phrasing.)
 - downloading mods w/o workshop
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
-
-### Technical files
+# Technical files
 Could be:
 - save files
 - logs (except [[Logs#CustomRegionsSupport log|CRS]] since it's a must-have for lediting in general)
 
 Check "Coding" -> "How to-" -> "add mod compat" [[Coding/Guides/Mod compatibility/|folder]].
-### Code
+# Mod contents
+## Code
 To look up for open source mods, easiest solution is to open RW Workshop page and search by "github" ([hey look, i did it for ya](https://steamcommunity.com/workshop/browse/?appid=312520&searchtext=github))
 
 You can debug other mods just like [[Coding/Troubleshooting|your own mod]].
-### Regions
+## Regions
 Main page on region project files is [[Editing in-game rooms|here]].
+## Dialogues
 
-### PORLS
+### Pearls
 Looking up online: RW mods Wiki page
 https://rainworldmods.miraheze.org/wiki/Pearl_Dialogue
-#### Dialogues
+
+### Decrypting
 Some will work with [[Dialogues#Encryption and decryption|default decryption]] method. Some will not.
-##### Via CRS Decryptor mod
+#### Via CRS Decryptor mod
 *Will help to decrypt pearls if everything else fails.*
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 

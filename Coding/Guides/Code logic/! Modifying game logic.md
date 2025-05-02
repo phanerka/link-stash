@@ -1,3 +1,7 @@
+---
+aliases:
+  - Hooking
+---
 Majority of mods' code relies on hooking, to modify game's code to desired needs.
 ## Referencing hooking library
 aka `HOOKS-Assembly_CSharp.dll`

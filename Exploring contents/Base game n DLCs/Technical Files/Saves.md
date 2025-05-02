@@ -1,21 +1,23 @@
 `%userprofile%\AppData\LocalLow\Videocult\Rain World`
 
+%%
 ??? TODO whats that
 https://gist.github.com/derofim/117566f49ebe1aa89c3b9079693db2f8
 
 Save editor: https://github.com/Ved-s/RainState
 https://github.com/Fnafgameur/RwSavEditor/releases/tag/First
 https://github.com/Vultumast/RainWorldSaveEditor
-(TODO check if it still works)
+() check if it still works)
+%%
 
-### Sandbox save
+# Sandbox save
 
-Honestly..... I don't know why you'd need it since you can spawn creatures via Beastmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes|cheat codes]]. But if you *do* need to read save files manually...
+You can spawn creatures in arena via Beastmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes|cheat codes]]. But if you *do* need to read save files manually...
 ![[sandbox-save.png]]
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))
-### Object IDs
+## Object IDs
 
-Creatures:
+### Creatures
 (can be looked up in `CreatureTemplate.cs -> Type` class)
 DP: `MoreSlugcatsEnums.cs -> CreatureTemplateType`
 Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataFromCreature(AbstractCreature creature)`
@@ -94,7 +96,7 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > `64-0-0` : `ScavengerKing`
 > `65-0-0` : `TrainLizard`
 
-Items:
+### Items
 (can be looked up in `AbstractPhysicalObject.cs -> AbstractObjectType` class)
 DP: `MoreSlugcatsEnums.cs -> AbstractObjectType`
 Data for items: `ItemSymbol.cs -> IconSymbol.IconSymbolData? SymbolDataFromItem(AbstractPhysicalObject item)`
@@ -161,7 +163,7 @@ Data for items: `ItemSymbol.cs -> IconSymbol.IconSymbolData? SymbolDataFromItem
 > `0-46-0` : `DancelionPeach`
 > `0-47-0` : `HRGuard`
 
-PORLS
+### Pearls
 DP: `MoreSlugcatsEnums.cs -> DataPearlType`
 > 1 "Spearmasterpearl"
 > 2 "SU_filt"
@@ -178,7 +180,7 @@ DP: `MoreSlugcatsEnums.cs -> DataPearlType`
 > 13 "CL"
 > 14 "VS"
 > 15 "BroadcastMisc"
-##### Steam Cloud saving
+# Steam Cloud saving
 Conditions for files to be stored in Steam Cloud
 https://steamdb.info/app/312520/ufs/
 Your files that are stored in Steam Cloud

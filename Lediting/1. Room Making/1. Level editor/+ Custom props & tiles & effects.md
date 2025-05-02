@@ -22,13 +22,13 @@ Shows how the tile will look in game. Allows to rotate the tile.
 Guide: [YT video](https://youtu.be/MoX6hXQZVMw)
 https://github.com/LudoCrypt/TileVisualizer/releases
 
-# Making your own
+# Making your own-
 
-### effects
+## Effects
 >[!warning] supported ONLY by Community Editor and Rained at the moment.
 https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
 Example effects are stored in Solar's [Github repo](https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/Effects/Example%20Effects)
-### tiles and props
+## Tiles and props
 Tutorial
 tbh its pretty good for getting started
 [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=9)
@@ -44,7 +44,7 @@ https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pag
 props (same as above)
 https://docs.google.com/document/d/147crgDMY4ScrU8vn8Kl6gOXsbfbb5raprUAXaNhWndw/edit?tab=t.0#heading=h.d8sdxl34h7wg
 
-#### Box type tiles
+### Box type tiles
 
 tile fype structure (TODO i should make it more transparent.)
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/838172761549045761))
@@ -60,7 +60,7 @@ to help with init file:
 Tile Init Editor #utils
 https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 
-##### Blender prop renderers
+### Blender prop renderers
 #utils
 You can create props using Blender.
 - standard prop exporter
@@ -81,7 +81,7 @@ Troubleshooting:
 TODO
 https://discord.com/channels/1237826015829557400/1237868553450029208/1279078875481112650
 
-##### Aseprite tile exporter
+### Aseprite tile exporter
 #utils
 https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1264249612978360511))

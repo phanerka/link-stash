@@ -1,3 +1,8 @@
+---
+aliases:
+  - ConditionalWeakTable
+  - CWT
+---
 https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/ConditionalWeakTable
 https://github.com/orgs/Rain-World-Modding/discussions/22
 

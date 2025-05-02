@@ -8,7 +8,7 @@ To make sure it's the case, you can replace it with another working `modinfo.jso
 
 # Code mod not working
 There are 2 common reasons why that could happen:
-- you're running Rain World NOT on WIndows (aka via emulator on Linux, MacOS, Android???)
+- you're running Rain World NOT on WIndows (aka via emulator on Linux / MacOS)
 	You'll need to ask Wine to use `winhttp.dll` that is located in game folder, not the one supplied by Wine. The steps vary on how and where you're running the game.
 	- Steam - add the following in launch options of the game:
 		`WINEDLLOVERRIDES="winhttp=n,b" %command%`

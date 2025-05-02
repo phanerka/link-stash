@@ -1,4 +1,8 @@
-AKA resolve path, as i understand?
+---
+aliases:
+  - Resolving path
+---
+*AKA resolving path*
 
  Path.DirectorySeparatorChar.ToString()
  is it for uhhh nintendo switch and ps4 only?

@@ -19,7 +19,7 @@ The order of pearls is like from `COLLECTION` menu from the game (read by column
 - from base game: go [[Dialogues#Online resources|here]].
 - from region mods: go [[Other mods#Via CRS Decryptor mod|here]].
 
-##### PORL TABL
+# PORL TABL
 #docs
 *PORL TABL*
 
@@ -37,6 +37,8 @@ https://docs.google.com/spreadsheets/d/1OanAHTU9rHI81HdgI_YFl9kR5WW6IsqpazSnkeTb
 # Exploring pearls in game
 
 ## Getting pearl ID
+*Can be looked up online on [[Dialogues#Rain World Collection Index|Collection Index]] website.*
+
 [What's This Pearl?](https://steamcommunity.com/sharedfiles/filedetails/?id=3428753018) mod shows pearl name and (toggleable in Remix options) ID, after holding it for a bit.
 ## Triggering pearl dialogue
 Mark of communication can be obtained:
@@ -49,7 +51,7 @@ Getting to LTTM (`SL_AI` room):
 ## Spawning a pearl
 Alternative ways to get a pearl:
 - via dev console
-> [!warning] Warning on spawn command
+> [!warning] Warning on `spawn` command
 >It's case-sensitve.
 > Autocomplete lines via `Tab` key or type them correctly manually.
 

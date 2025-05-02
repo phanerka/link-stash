@@ -4,7 +4,7 @@ btw make sure to use `PUBLIC-Assembly-CSharp`, NOT `Assembly-CSharp`!
 C#. yeah.
 
 Basic C# concepts (this is basicest base of basics; you *need* to know them):
-- constructors (sometimes referred as `ctor` or `cctor`)
+- constructors (sometimes referred as `ctor`)
 - getters and setters
 - access modifiers or smth
 
@@ -37,8 +37,8 @@ https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates
 
 Alternative mod templates (*they might be outdated!*):
 - by `Alduris`: [here](https://github.com/alduris/TemplateMod)
-- by `PJB`: here
-- by `aaaaaaa`: here yeah.
+- by `Dual-Iron`: [here](https://github.com/Dual-Iron/TestMod)
+- by `SkySwimmer`: [here](https://github.com/SkySwimmer/RemixModTemplate)
 ### Newtonsoft library
 %% ? is it needed %%
 *AKA `Newtonsoft.Json.dll`*
@@ -62,7 +62,7 @@ So here's the download link for the library.
 
 ### Useful links
 
-[[Source#Wikis|RW Wikis]] will be of huge help. Make sure to check them.
+*[[Source#Wikis|RW Wikis]] will be of huge help. Make sure to check them.*
 
 Risk of Rain 2 wiki, esp general modding info
 <https://risk-of-thunder.github.io/R2Wiki/Mod-Creation/C#-Programming/Assembly-References/>

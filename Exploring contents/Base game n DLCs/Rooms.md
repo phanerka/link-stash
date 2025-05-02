@@ -1,4 +1,4 @@
-### Common rooms' naming
+# Common rooms' naming
 room names' identification or smth... head hurtie pls no bad wordie
 `XX_N01`
 \[region acronym]\_\[amount of screens in a room, identified with a letter]\[room number]
@@ -23,7 +23,7 @@ the watcher said hi i know im preparing to suffer
 
 # Room files
 
-### Images
+## Images
 - rendered room assets (looking red)
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym)
 - rendered AND colored rooms (like how they look in game)
@@ -36,7 +36,7 @@ Refer to "[[Editing in-game rooms]]" page.
 Static map images:
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA
 
-### Text files
+## Text files
 Are located in same spot as room assets.
 
 ```
@@ -56,7 +56,7 @@ Geometry array
 
 Connections map and AI map are added on room baking.
 
-##### Geometry array structure
+### Geometry array structure
 All rooms' data is horizontally mirrored and rotated by 90 degrees counterclockwise.
 \[uh imagine image here]
 First attribute:

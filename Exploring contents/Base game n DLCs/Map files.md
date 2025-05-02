@@ -1,7 +1,7 @@
 Map image
 consists of 3 layers with same size.
 
-### Map_xx.txt
+# Map_xx.txt
 Starts with region name:
 *Identifies position of said room.*
 - `x, y` positions of room in canon view (region map image rendering is based on it) of map tab in Dev Tools

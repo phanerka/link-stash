@@ -15,7 +15,7 @@ Let's assume that path to certain in-game file, starting from `Rain World\RainWo
 For example, full path to image of `SU_A53` room (`su_a53_1.png`) would be
 `Rain World\RainWorld_Data\StreamingAssets\world\su-rooms\`.
 In this case, `[file_path]` would be `world\su-rooms\`.
-### Overriding
+# Overriding
 **Main Wiki page:**
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files
 
@@ -25,8 +25,9 @@ If you want to **straight up override** original files, for example:
 
 then you put file with *SAME* name as in-game file in `your-mod\[file_path]` directory.
 In case of `SU_A53` image, that would be `your-mod\world\su-rooms\su_a53_1.png`.
-### Modifying
+# Modifying
 *Works **only** with text files!*
+
 **Main Wiki page:**
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
 

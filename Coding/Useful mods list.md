@@ -1,5 +1,4 @@
 *Mod collection in Steam Workshop is [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3460051608).*
-TODO make a thumbnail bruh
 
 >[!watcher] sorry but watcher ate some mods
 > Due to recent update of the game, some mods might not work.
@@ -29,7 +28,7 @@ Mods that could be useful:
 - [Mouse Drag Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3460881795): a plugin for Unity Explorer and Mouse Drag. Allows to view object properties of picked creature via Mouse Drag interface.
 ##### Creatures and items manipulation
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation (kill, revive, tame, duplicate, destroy, pause/unpause) with existing creatures (including the player) and items; may control all objects in a room at once.
-- ~~[BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)~~ - provides convenient way to spawn creatures and items in-game
+- [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures and items in-game
 - [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to forbid spawning of certain type of creatures.
 - `setup.txt`: `world creatures spawn:0` forbids spawning of almost ALL creatures in game.
 - Dev Console: allows to spawn creature and item with certain ID (more info [[Creatures#Creature IDs|here]])

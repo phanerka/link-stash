@@ -1,4 +1,4 @@
-This page is dedicated **to adding sounds** in game, to be triggered via code (*not added with Dev Tools!*)
+*This page is dedicated **to adding sounds** in game, to be triggered via code (not added with Dev Tools!)*
 
 *To add music **in certain room via Dev Tools**, refer to [[Music or sounds|lediting section]]*
 *For everything else concerning music and sounds, refer to [[How to add in game|music making section]]*

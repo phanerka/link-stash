@@ -6,32 +6,17 @@ separate bkg image to separate room image!
 
 Base game doesn't use such feature at all but MSC does a lot
 
+> [!example]- example
+> bruh not done yet
+
+It's always purely white image but different areas vary in transparency
 Value varies. In general, they're 10-30% transparent, rarely reach 50% or drop down to 4%
 
+It's enough to reset cycle to update background / palette images used.
 # Making of
 
 Henry's Leditor comes with built-in feature to make layer 4 images.
-
-
 unless someone makes a script for krita, idk if there can be better solution.
-## Using filter masks
-- pros: live preview, multi-layer support
-- cons: not precise (might change color transparency by a few %), requires krita (it might be laggy for some people)
-
-create a group where you will do layers
-and apply filter mask to the group "Add.. " -> "Filter mask"
-Leave threshold to 100, change color to pure black
-
-add another filter mask, *below the prev one*
-adjust -> threshold, slide down to 0
-it will make all images grayscale & fix some color not being purely white
-thats all 🔥 draw any grayscale opaque layers in the group, and you will get result right away
-
-and friendly reminder to change colorpickers "Color Sampler" settings to "Sample current layer" instead of "Sample All Visible Layers"
-
-Okay ive been thinking of it for a bit.
-Got 2 ideas: via masking and via overlay effect.
-If you've got other ideas, let me know.
 ## Via masking
 - pros: multi layer support, easy to import grayscale picture, more correct color output
 - cons: can't see the result right away
@@ -52,7 +37,7 @@ create a new layer, fill with white, apply "Difference" mode on it, merge with b
 then, "layer" -> "convert luminance to opacity"
 and then, alpha lock the layer and fill it with white (yes, you can even use bucket on it)
 done! ✨
-
+%%
 i think im deleting the one below
 ## Via overlay effect
 - pros: given you've got image, you can check how it will approximately look in game
@@ -63,4 +48,9 @@ New layer with "Overlay" effect and 100% opacity will increase old opacity *twic
 
 ### Examples
 [RW Main](https://discord.com/channels/1237826015829557400/1237912787959812148/1329229720663097465)
+%%
 
+# Palette modification
+The way how layer4 looks in game heavily relies on 2 colors in palette used.
+%% oops i forgor rain palette %%
+![[layer4.png]]

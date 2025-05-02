@@ -1,4 +1,6 @@
-### Lediting tips
+# Lediting tips
+
+## Room design
 > [!warning] Disclaimer: i suck lol
 > this ass (yes, the person whose scribbles you're reading) has _never_ made a single own room, so please don't take what i'm saying seriously. i just... uh... like to check out others rooms ig?.... hehe...
 
@@ -20,7 +22,10 @@ And look at this peculiar way of using small pipe tiles:
 - consistency! in general, a room looks better if you use ~same tiles on different room layers. if u're making a region, gotta decide with set of tiles n props ure gonna use
 - try applying dead & alive plant effects at the same spot
 
-##### Region making
+### Technical tips
+Pipes that go down (and aren't connected to a tunnel) are always covered with a platform. )
+
+# Region design
 Okay these tips are somewhat important because some stuff might make your region exhausting to explore / navigate without checking region map.
 - proper shelter & food distribution
 - no chokepoint rooms (required to pass to reach another gate) if possible

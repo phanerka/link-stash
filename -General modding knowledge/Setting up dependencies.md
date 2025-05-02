@@ -8,11 +8,13 @@ To find ID of another mod, you can:
 
 # Types of dependencies
 Are defined via `modinfo.json` [[Mod structure#Mod description file|file]].
-### hard dependencies
-your mod HAS to be enabled with dependency. Is easier to set up.
-Related keys for defining: `requirements` (for mod IDs), `requirements_names` (for user-friendly mod name)
+### Hard dependencies
+your mod HAS to be enabled with dependency; is easier to set up.
+Related keys for defining:
+- `requirements` (for mod IDs)
+- `requirements_names` (for user-friendly mod name)
 
-### soft dependencies
+### Soft dependencies
 Your mod can be enabled without dependency, however enabling dependency will provide more features in your mod.
 Related keys for defining: `priorities` (for mod IDs)
 If possible, it's better to make DLCs be soft dependency to not leave your mod behind paywall.

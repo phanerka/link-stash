@@ -2,7 +2,6 @@
 > If you subscribe to separate mods, make sure you'll download dependencies as well; Steam doesn't check them on Collections page.
 
 *Mod collection in Steam Workshop is [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3460033646).*
-TODO make a thumbnail bruh
 
 >[!watcher] sorry but watcher ate some of them
 > Due to recent update of the game, some mods might not work.

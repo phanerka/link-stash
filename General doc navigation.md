@@ -5,37 +5,17 @@
 > - Watcher update broke majority of mods. While it's usually easy to fix them, it will take time for them all to be fixed.
 > 	Broken mods are crossed out, like ~~this~~.
 
-Navigation on `Lediting` folder: [[Lediting/Navigation|here]]
-Navigation on `Coding` folder: [[Coding/Navigation|here]]
+
+
+Navigation on `Lediting` folder: [[Lediting/index|here]]
+Navigation on `Coding` folder: [[Coding/index|here]]
 
 # New to modding?
 If you're new and want to learn how to make/add X, in general I'd advise to:
 - (if you're completely new to modding) head to "Getting started" page and only then, check other guides
 - check the *top guide / video tutorial*, *read / watch it from start to end* to get acknowledged with basics, and only *then* read the rest of page to see how you can change things yourself. I don't know your way of thinking, but otherwise you might feel confused and overwhelmed with all definitions and parameters!
 
-# Locating files
-All local links are leading from `Steam` or `Rain World` folders, unless specified.
-For `your-mod` folder, refer to this.
-%% TODO:: %%
-### Steam folder
- Steam installation folder.
- Default path:
-`C:\Program Files (x86)\Steam`
-
-
-%% TODO::
-How to find:
-https://superuser.com/questions/1068707/find-where-windows-program-is-installed
-where steam in cmd
-%%
-
-### Rain World folder
-RW location.
-Default path:
-`C:\Program Files (x86)\Steam\steamapps\common\Rain World`
-
-How to find:
-right click Rain World in Steam: `Manage` -> `Browse local files`
+If you don't know where to find game files, check [[Game data location|this]] page.
 
 ### Tags
 ~~For convenient looking for information.~~

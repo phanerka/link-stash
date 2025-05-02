@@ -4,10 +4,10 @@ some people use arena mode to test rooms before adding them to a region
 so if it works in arena then the issue is not the room
 
 first, check [[Lediting/1. Room Making/Troubleshooting|room making troubleshooting]]
-next, follow this n that
 
-WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+TBA
 
+%%
 ### Guide from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1191210118918979644)
 
 
@@ -47,5 +47,4 @@ there are only two messages youll get;
 \- if your room's geometry is loaded, but it still looks like the previous room you were in, the room's png is either named wrong or in the wrong place. it should be named `roomname_1.png` - the `_1` tells the game which camera to switch to and should not be removed
 \- if no room can be loaded in arena, and youre getting an exceptionlog that contains `Menu.MultiplayerMenu.PopulateSafariButtons`, you previously loaded a custom region in safari mode, and left the menu selector on the custom region, then disabled the custom region, which makes the game freak out and arena breaks as a result. enable all custom regions you have, enter safari mode and leave the selector on outskirts
 
-
-
+%%

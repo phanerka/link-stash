@@ -3,6 +3,9 @@ Docs: https://slimecubed.github.io/slugbase/index.html
 wtf is it outdated v
 https://github.com/SlimeCubed/SlugBase/wiki
 
+# Template
+#templates 
+https://github.com/SlimeCubed/SlugTemplate
 ##### Mod ID reservation
 #sheets
 https://docs.google.com/spreadsheets/d/1YlGNja-1UBAA51j_xYyjXHlMQ8S47I3RAfaw9rrvpUU/edit

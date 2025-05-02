@@ -11,8 +11,6 @@ https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/
 
 you WILL have to make AssetBundle to load shader in game.
 
-;-; i dont wanna copy stuff
-
 oh yea i forgot about that. dammit
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/858276294353092609))
 
@@ -28,7 +26,7 @@ https://github.com/PJB3005/RainWorldMods/tree/master/ShaderReload
 
 
 ### General shader tutorials
-i.e. non RW related only
+*AKA not related to Rain World*
 
 https://www.youtube.com/watch?v=kfM-yu0iQBk
 

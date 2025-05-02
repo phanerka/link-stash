@@ -1,3 +1,9 @@
+---
+enableToc: 
+cssclasses:
+  - hide-title
+  - hide-date
+---
 ![[pics/web/main-page-dark.png]]
 
 *Temporary announcement:  

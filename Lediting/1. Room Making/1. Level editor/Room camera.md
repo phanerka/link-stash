@@ -1,7 +1,6 @@
-Consider the line from every corner as an arrow, that dictates direction and strength of the perspective.
-(should i redraw it?)
-![[camera-render-box.jpg]]
-(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788))
+Consider the line from every corner as an arrow that defines direction and strength of room perspective.
+![[perspective.png]]
+(source: based on drawing from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788))
 
 
 ![[camera-angle-reference.png]]

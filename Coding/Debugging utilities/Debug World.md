@@ -1,5 +1,5 @@
 *While DW doesn't do much on it's own (feature-wise, just shows [[Logs#exception log|exception log]] in game), it allows [[DNSpy#Attaching|DNSpy]] and [[Visual Studio 20xx|Visual Studio]] to attach to the game. More info on respective pages.*
-### Installing
+# Installing
 
 Just unzip the files and replace them in RW game folder.
 
@@ -27,17 +27,17 @@ In case you want to make Debug version of Rain World on your own:
 >
 > Phew! Should be done.
 
-### Troubleshooting
+# Troubleshooting
 If the game breaks on loading:
 some room that is added by *any* enabled mod wasn't baked properly. Refer to [[Region baking|this]] for proper baking instructions.
 
-### DW customization
+# DW customization
 %% TODO:: finish %%
 ~~live logging in bepinex~~
 wait for manager debugger = 1
 etc etc
 
-#### Hiding "development build" label
+## Hiding "development build" label
 The one in bottom left corner.
 
 How to hide:

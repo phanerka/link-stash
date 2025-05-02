@@ -1,8 +1,8 @@
 *yes, Visual Studio. not Code.*
 
-### Profiling
+# Profiling
 yeah.
-### Attaching
+# Attaching
 >[!warning] Won't work with Linux or Ma- hold on how did you install *this thing* THERE?!
 
 Heard of issue of incorrect Visual Studio setup, if the mod is developed there but can't be attached to.

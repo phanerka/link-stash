@@ -1,3 +1,6 @@
+---
+draft: true
+---
 > [!wip] yup, wip page, what did you expect
 
 ## static water

@@ -11,11 +11,13 @@ To easily visually determine then, you can use [SBCameraScroll](https://steamcom
 ![[meshes-and-sprites.png]]
 *Note how slugcats body (made of sprites) is block-y, while scavenger's horns (made of meshes) are smooth.*
 
+# Sprites
 rw graphics modding
 Covers sprite graphics and... layers that can be drawn on?..
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))
 
+# Meshes
 partiality modding (but i care bout mesh graphics)
 https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
 ```
@@ -35,7 +37,7 @@ on graphics update...
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1194317180137902162)) one
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1090446015842222142)) two, w/ pic
 
-### Animation
+# Animation
 gl lmao
 
 may joar's force be with you

@@ -5,9 +5,8 @@
 > - Different naming
 > - Typos
 
-aye
-to lessen pain i suppose
-### Misleading logic / naming
+%%
+# Misleading logic / naming
 Creatures' IDs affect their visual appearance but it doesn't mean every creature got unique ID in game.
 Vertical spears note, cause some variable isn't used iirc
 
@@ -16,19 +15,19 @@ Bout shaders: go [[Coding/Guides/Loading custom assets/Shaders|here]]
 All general input goes here. ESC key handling goes here.
 ### Hardcoded info
 tba but not soon yay TODO
-
-### Different naming
+%%
+# Different naming
 if you cannot find a certain item/creature in game code, maybe it's actually named differently.
 You can look its name up in:
 - official RW wiki
 	Example: popcorn plant -> [SeedCob](https://rainworld.miraheze.org/wiki/Popcorn_Plant) (check "Code name" in object card), iterator -> [Oracle](https://rainworld.miraheze.org/wiki/Iterator#Trivia).
 - objects IDs on [[Saves#Object IDs|page]] dedicated to saving
-
-### Happy little accidents AKA typos
+%%
+# Happy little accidents AKA typos
 :)
 Signal -> Singal.
-
-### Magic numbers
+%%
+# Magic numbers
 Yeah.
 
 For Object IDs, refer to [[Saves#Object IDs|save file]] page.
@@ -107,6 +106,7 @@ For Object IDs, refer to [[Saves#Object IDs|save file]] page.
 > 11 - 15 : head
 > 16 - 19 : limb coloration
 
+%%
 TODO deal with it v
 
 //0: can't grab. 1: can grab, will be overlapped by others. 2: can grab. 3: can grab, and dual wield together with a 1. 4: uses both hands.
@@ -132,5 +132,4 @@ int BoltSprite(int bolt) { return (door.number * TotalSprites) + 50 + bolt; }//5
 int PansarSprite(int side) { return (door.number * TotalSprites) + 54 + side; }//54-55
 int PansarSegmentSprite(int segment) { return (door.number * TotalSprites) + 56 + segment / 2 + (segment % 2 == 0 ? 0 : 5); }//56-64
 int BigScrewSprite(int vertical) { return (door.number * TotalSprites) + 65 + vertical; }//65-66
-
-
+%%
