@@ -7,7 +7,7 @@ Output location:
 > ok so be careful since there's a chance you'll override base game files
 > make a backup of them beforehand or prepare to verify game files via Steam
 
-To reveal entire region map in game, add `reveal map:1` to [[Cheat codes|setup.txt]] and enable Dev Tools.
+To reveal entire region map in game, add `reveal map:1` to [[Launch options|setup.txt]] and enable Dev Tools.
 ### Merging maps
 supports custom campaigns.
 %% TODO:: add %%

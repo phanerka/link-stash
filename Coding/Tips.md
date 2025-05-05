@@ -29,7 +29,7 @@ honestly I would leave it disabled and install mergefix though
 - `consoleOutput.txt`: press `K` with Dev Mode enabled; visible on the left
 - `exceptionLog.txt`: available with [[Debug World]]; visible in bottom left, pops up whenever first exception is thrown
 ##### Using cheat codes
-Refer to [[Cheat codes]].
+Refer to [[Launch options]].
 
 ### Coding tips
 - for mod compatibility, class creation > hook creation

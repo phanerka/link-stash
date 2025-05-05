@@ -7,6 +7,12 @@ first, check [[Lediting/1. Room Making/Troubleshooting|room making troubleshooti
 
 TBA
 
+# Shelter issues
+
+
+
+# Gate issues
+
 %%
 ### Guide from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1191210118918979644)
 

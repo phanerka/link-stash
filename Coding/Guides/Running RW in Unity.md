@@ -84,8 +84,8 @@ It means the project is missing `HOOKS-Assembly-CSharp` library, but it's not th
 	you need to make all troublesome hooks refer to that file; just append `On.` to them.
 	here's how a single hook block should like:
 	\[imagine a pic here]
-3. exclude that file from compilation.
-	You need that code *just* to compile the base game code; that hooking code will be available in actual `HOOKS-Assembly-CSharp` library as well, which might cause conflicts on game runtime.
+
+Note that you need that code *just* to compile the base game code; that hooking code will be available in actual `HOOKS-Assembly-CSharp` library as well, which might cause conflicts on game runtime. Getting rid of it is described [[Running RW in Unity#Mod support fixing|here]].
 
 ### Missing GfxPluginNativeRenderer library
 
@@ -236,3 +236,15 @@ idk of any other solution except deleting `RotParticle` compute shader :(
 %% TODO:: ask for perms
 https://discord.com/channels/904608817290039336/932989734253375528/1018241377349423234
 %%
+
+# Mod support fixing
+
+>[!warning] Warning: this section is only theoretical. It hasn't been verified.
+
+1) Remember that you added external hooks file AKA `Hooks\On\RainWorld.cs`? well, you need to get rid of it
+since i haven't found any way to exclude it from the project on compilation (yet keep it as reference for the code), gotta delete it post compilation
+probably just open the library with DNSpy, delete `On` namespace and save the library.
+2) Create own `HOOKS-Assembly-CSharp` hookgen library with monomod tools
+Download this, `net35` version, extract
+https://github.com/MonoMod/MonoMod/releases/tag/v21.11.01.01
+and run `MonoMod.RuntimeDetour.HookGen.exe` or dll or smth on folder with assembly csharp folder i dont remember the process of hookgen creation

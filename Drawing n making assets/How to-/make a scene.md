@@ -2,18 +2,17 @@ https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes
 
 This [[Images#Scenes plugin for Krita|Krita plugin]] might help you to make scene sprites easier.
 
-### Mimicking scene art
+### Scene art
+*Could be useful for analyzing how it's made, to match game style.*
+
 Some concept art can be found on [[References#Wiki page|Wiki page]].
 
 Notes on coloring
 https://www.tumblr.com/a-stardusted-sky/736666180473028608/do-you-have-any-tips-on-how-to-mimic-rain-worlds
-
-v gosh i feel uncomfy bout that
-should i get rid of that?
-guess its alright, on second thought
-should move to another section / page tho
 ### Miimows' art
-made all OG game scene art
+made: 
+- base game art
+- Watcher campaign art
 
 brushes
 https://www.tumblr.com/deldraws/34800237034/anybody-know-any-good-painting-brushes-for
@@ -37,10 +36,10 @@ https://bsky.app/profile/miimows.bsky.social/post/3lb6eqfrszk26
 
 ### AnnoyingFlower's art
 made:
-- MSC slugcats art
-- jolly coop tutorial doodles (i assume)
+- MSC slugcats' campaign and scene art
 - MSC OST album cover
-- wawa.
+- Watcher scene art
+- jolly coop tutorial doodles (i assume)
 
 ### Norgad's art
 made all MSC regions art

@@ -43,7 +43,7 @@ https://docs.google.com/spreadsheets/d/1OanAHTU9rHI81HdgI_YFl9kR5WW6IsqpazSnkeTb
 ## Triggering pearl dialogue
 Mark of communication can be obtained:
 - via Dev Console mod (as was shown in the video): `the_mark`
-- by adding `the mark` line in [[Cheat codes|setup.txt]]
+- by adding `the mark` line in [[Launch options|setup.txt]]
 
 Getting to LTTM (`SL_AI` room):
 - via Warp Menu, cmon its the easiest way
