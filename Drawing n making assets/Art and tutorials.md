@@ -19,7 +19,9 @@ https://drive.google.com/drive/folders/1idv_inBpwTXj5oa5ajnvNF14TUS31Mpd?usp=sha
 
 # Creature references
 ## Slugcats
-"That one reference"
+"That one reference" by `AnnoyingFlower`
+
+![[slugcat-reference.png]]
 
 
 Slug anatomy
