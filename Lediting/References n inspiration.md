@@ -1,8 +1,9 @@
 ### Region maps
 Base & Downpour regions: https://noblecat57.github.io/index.html
-Watcher regions: https://alduris.github.io/watcher-map/
 Modded regions: https://alduris.github.io/mod-map/
-
+> [!watcher]- Watcher maps
+> Interactive map: https://alduris.github.io/watcher-map/
+> Region types & connections: https://shrubfromtomorrow.github.io/watcherMap/ 
 ### Room layout
 https://donjon.bin.sh/fantasy/dungeon/cavern.cgi
 (source: [RW Main](https://discord.com/channels/291184728944410624/958418404769943572/1271954989673353239))
