@@ -32,10 +32,9 @@ This way, its possible to change:
 - manually placed rocks and spears
 
 That's not a full list. For explanation how data is stored and all values meaning, refer to [[Rooms#text files|this]] page.
-##### AndrewFM's Unofficial Level Editor
-#utils
-*wawa*
-https://ln5.sync.com/dl/55a36f020/ab9tsrvb-pawzct9a-cevwrdgn-2pkthfz2/view/default/10520072550004
+
+![[Unofficial Level Editor]]
+
 ### Room image file
 `xx_a01.png`
 Responsible for purely visual part of the room.

@@ -30,15 +30,8 @@ https://rainworld.miraheze.org/wiki/Technical_Glossary
 - (optional: to create [[Coding/Guides/Loading custom assets/Shaders|shaders]] or [[Debug World]] on your own)
 	Unity with [[Unity version|same version]] of which Rain World would built on. It's very bulky, make sure to do it beforehand!
 
-## Code mod template
-#templates
-Some IDEs like Visual Studio 2018 and later don't allow new projects to target .NET 3.8 and below. Thus, it's easier to download mod template that already targets it, and use it as a base.
-https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates
+![[Code Mod template]]
 
-Alternative mod templates (*they might be outdated!*):
-- by `Alduris`: [here](https://github.com/alduris/TemplateMod)
-- by `Dual-Iron`: [here](https://github.com/Dual-Iron/TestMod)
-- by `SkySwimmer`: [here](https://github.com/SkySwimmer/RemixModTemplate)
 ### Newtonsoft library
 %% ? is it needed %%
 *AKA `Newtonsoft.Json.dll`*

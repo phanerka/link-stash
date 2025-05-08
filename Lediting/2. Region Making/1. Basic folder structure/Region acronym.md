@@ -12,24 +12,8 @@ https://rainworld.miraheze.org/wiki/User:Alphappy/Region_codes
 >- `XX` is 2 letter region acronym
 >- `Y` is variation index (most commonly, 4 for Watcher regions)
 
-##### Region lease
-#sheets
-https://docs.google.com/spreadsheets/d/14wt42_ZalI5di8zpUFx3WvPWldC_L7SwIbgb_TxOpUk/edit
-*Is used to negotiate between region makers on defining region acronyms.*
-Once you're confident with own acronyms, you'll need to request access to the document (submit [this](https://forms.gle/gdaGmLJuBJb4LvMS7) form) and add own entry.
+![[Region Lease spreadsheet]]
 
-Includes:
-- Connections to vanilla regions
-- Connections to modded regions
-- Palette allocation chart
-- Region acronym chart
+![[Acronym availability check]]
 
-##### Acronym availability check
-#utils
-Pulls info from spreadsheet for easy lookup of unused acronyms.
-https://rainworld-region-lease-improved.glitch.me/
-
-##### Mass renaming acronym in mod folder
-#utils
-if you ever decide to change region name during development, this might help you to do it quickly.
-https://github.com/glebi574/rw-fix-region-acronyms
+![[Rooms Renamer script]]

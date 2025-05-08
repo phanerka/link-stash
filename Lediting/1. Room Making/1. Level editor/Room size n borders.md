@@ -3,11 +3,7 @@ Default size:
 - `48 × 35` (w/o borders, single-screen room)
 
 # Multi-screen rooms
-### Multi-screen room templates
-#templates
-https://solaristheworstcatever.github.io/Repo-Site/Dist/Templates/Size%20Templates.zip
-For separate files download:
-https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse/tree/main/LevelEditorProjects/Templates/Size%20Templates
+![[Multi-screen Room templates]]
 
 ### Setting up manually
 Approximate formula for calculating multi-screen room size:

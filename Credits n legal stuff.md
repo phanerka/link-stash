@@ -1,16 +1,19 @@
 AKA better explanation of `LICENSE.txt` with a bit of additions.
-
 Note that website code *itself* retains Quartz license aka MIT license.
+
+**Contacts**: `phanie_` (Discord)
 # Legal disclaimer in legal thingies
 Everything provided here is intended *only* for academic purposes. It's okay to make *free* RW mods based on given knowledge BUT everything else requires permission from respective owners of said resources.
 # Repo modification & distribution
 The documentation itself is under `CC-BY-SA 4.0` license.
 
-legally, VERY short: do tf you want with it (unless stuff is noted with "source"), just please credit me, leave same license and don't sell it.
+legally, VERY short: do tf you want with it (unless stuff is noted with "source"), just please credit me, leave same license, make a note what you changed (on forking) and don't sell it.
 
 In simple words about the license:
 - Feel free to modify and share this doc somewhere else. But in both cases, you will have to use the same license I have set.
 - According to the license, you *have* to credit me on distribution. But let's be real: if you use a piece of information to share with someone without crediting me, I won't sue you and leave you broke for the rest of your life. I genuinely don't care as long as you don't break worse rules.
+	......
+	i wouldn't even care much if you forked the doc and didn't credit me. but idk how to make sure the doc won't be sold without declaring myself as author.
 - According to the license, you'll have to document all changes you made to the document. But again, I don't care unless something worse happens.
 - Note that the documentation uses work of other people, however. They retain own rights, and anything regarding their work requires *their* permissions.
 - Not for commercial use. Knowledge shouldn't be paywalled.
@@ -27,7 +30,6 @@ The rule doesn't apply to moving *part of info* to wiki, though. Please reach me
 
 # Credits
 If you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out.
-**dis: `phanie_`**
 
 What I did:
 - documented files structure (sandbox, map text files)
@@ -46,7 +48,9 @@ cursive text is what was used as base and extended
 ## Whose messages were referenced
 Resources which werent posted publicly or just some random messages.
 
-`12 steps`: sandbox save file structure
+`12 steps`: 
+- sandbox save file structure
+- *list of object and item IDs*
 
 `711138971756920833` (how do you even... want to be called?): note on connecting pipes
 

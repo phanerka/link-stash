@@ -3,13 +3,9 @@ There are 3 ways:
 - via Palette Creator mod (which is broken atm :c)
 - by combining existing palette and fade palette in main Dev Tool interface ( #regionKit required)
 - manually
-### Palette creation guide
-#docs
-> [!warning] Warning on palette location
-> The described path is outdated. Correct path:
-> `Rain World\RainWorld_Data\StreamingAssets\palettes\`
 
-https://docs.google.com/document/d/1fY_KEpD5RaXHS7Ho-kPee4Fe-xIBp5ilMuQ0-UBG0is/edit
+![[Palette Creation guide]]
+
 
 # Adding palette in the game
 Put your new palette in `your-mod\palettes\` folder, named as `paletteN.png`, where N is a number.

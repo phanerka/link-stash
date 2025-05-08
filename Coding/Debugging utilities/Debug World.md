@@ -40,6 +40,8 @@ etc etc
 ## Hiding "development build" label
 The one in bottom left corner.
 
+%% ...... yes henpe i wondered bout that because of you %%
+
 How to hide:
 - open `Rain World\RainWorld_Data\Resources\unity default resources` file in any hex editor
 Online Hex editor: https://hexed.it/

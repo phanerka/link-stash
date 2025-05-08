@@ -11,11 +11,8 @@ For example, `SU_B05`:
 So, that's a room from Outskirts that has 2 screens.
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/496281533678878740); can we pin this?)
 
-# Palettes list
-#docs
-*List of all palettes used by the game, sorted by palette number and region name (on separate sheets).*
-https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEkgsE/edit
-
+# Palette
+![[Palettes list]]
 #### Accent colors list
 le list. i should probs update w/ MSC TODO
 the watcher said hi i know im preparing to suffer

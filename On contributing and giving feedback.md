@@ -1,3 +1,6 @@
+if you want to contribute: make a pull request, create an issue for [documentation repository](https://github.com/phanerka/link-stash) or just reach [[Credits n legal stuff|me]] out! It would work in any way, either by mentioning on any server I'm in or via DMs.
+
+
 - Try avoiding duplicating information. If you have to use in 2 spots, decide where it's more important, and put a link to it in second spot.
 - ALL info regarding in-game code logic / files / "how to pull out files" goes into "Exploring contents" folder. If it's available online, put into respective "References" file instead.
 - Some information is better that no information. If your doc isn't finished yet, that's alright.
