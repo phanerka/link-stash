@@ -1,4 +1,5 @@
-*Some fonts are encrypted in a form of [[Images#Sprites|sprite atlases]]. Others technically don't even exist (entire label is just a sprite).*
+*Some fonts are stored in a form of [[Images#Sprites|sprite atlases]]: for more information, refer to [[Fonts n symbols#How to compile font on ur own|font converting guide]] below.*
+*Others technically don't even exist: entire label is just a sprite.*
 *The fonts below are made by the community, for convenient usage.*
 
 Online website to check the font without having to install it:
@@ -28,7 +29,7 @@ Is used for text inside buttons in the game.
 ## Glyphs
 
 ##### Ancient Braids Extended
-... im honestly afraid of thalber
+%% ... im honestly afraid of thalber %%
 https://fontstruct.com/fontstructions/show/2322206/ancient-braids-1
 ![[ancients-braids-extended.png|700]]
 
@@ -68,7 +69,7 @@ Rain World 1
 Rain World 2
 ![[rain-world-2.png|700]]
 
-# How to compile font on ur own
+# Converting to TrueType format
 
 > [!example]- ouf
 > As it was told before, 2 files make up for a single font:

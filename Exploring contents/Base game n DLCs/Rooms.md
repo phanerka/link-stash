@@ -14,8 +14,7 @@ So, that's a room from Outskirts that has 2 screens.
 # Palette
 ![[Palettes list]]
 #### Accent colors list
-le list. i should probs update w/ MSC TODO
-the watcher said hi i know im preparing to suffer
+le list. 
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/485013629763059722))
 
 # Room files

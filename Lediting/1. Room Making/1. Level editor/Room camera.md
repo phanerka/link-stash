@@ -1,6 +1,6 @@
 Consider the line from every corner as an arrow that defines direction and strength of room perspective.
 ![[perspective.png]]
-(source: based on drawing from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788))
+(source: based on drawing from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788); tiles previews are taken from [[Tile Visualizer]])
 
 
 ![[camera-angle-reference.png]]

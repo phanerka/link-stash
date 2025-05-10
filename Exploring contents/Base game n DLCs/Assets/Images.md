@@ -1,25 +1,18 @@
 **Looking up online:** most of images can be found [[References|here]].
 ### Decals and illustrations
-*Is not encrypted!* :D
 Location: `Rain World\RainWorld_Data\StreamingAssets`, in respective folders
 Also, available in [[References#Github images repository|Github image repo]].
-
 ### Scenes
-*Is not encrypted.*
 Location: `Rain World\RainWorld_Data\StreamingAssets\scenes\`
 Also, available in [[References#Github images repository|Github image repo]].
-
 ##### Scene breakdown
 #wiki
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes#Breaking_up_the_basics_of_a_scene
 
 ![[Scene Editor plugin for Krita]]
-
-
-%% TODO:: fix their actual location %%
 ### Sprites
-*Are encrypted in AssetBundle as sprite atlases, in `Texture2D` folder.*
-Location: `Rain World\RainWorld_Data\resources.resource`
+*Are stored in AssetBundle, as `Texture2D` files. For extraction guide, go [[-Extraction|here]].* 
+Can be pulled via: `Rain World\RainWorld_Data\resources.assets`
 **Looking up online:**
 > [!warning] These sprites are from RW v1.5. DLCs and Remix-related assets are absent.
 https://drive.google.com/drive/u/0/folders/1HnKRhfpON7VSAehGZN34qsPbZRnfHX8c
@@ -40,8 +33,7 @@ https://www.codeandweb.com/tp-online
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1098995144923041843))
 ### Arena icons and UI
 *Arena icons are uncolored and without border; colors are hardcoded in game code.*
-*Are encrypted in AssetBundle, in `Texture2D` folder.*
-Location: `Rain World\RainWorld_Data\resources.resource`
+*Are stored in AssetBundle, just like [[Images#Sprites|common sprites]].
 
 Colored version of arena icons:
 https://dl.dropboxusercontent.com/s/151jfgurb6otcjc/arenaicons_by_henpemaz.zip
@@ -49,7 +41,7 @@ https://dl.dropboxusercontent.com/s/151jfgurb6otcjc/arenaicons_by_henpemaz.zip
 Also, available in [[References#Github images repository|Github image repo]].
 
 ### Color hex codes
-Most encrypted assets (e.g. for slugcats) are white and colored via game code.
+Most of encrypted assets (e.g. for slugcats) are white; they're colored via code, and hex codes are hardcoded.
 ![[hex-colors.png]]
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1081023267378303036))
 

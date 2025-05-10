@@ -18,8 +18,10 @@ oh yea i forgot about that. dammit
 https://gist.github.com/EtiTheSpirit/655d8e81732ba516ca768dbd7410ddf4
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1128354653051044023))
 
-![[Shader Hot Reload mod]]
+%% *sigh* i need to figure how it works before posting it here.
 
+![[Shader Hot Reload mod]]
+%%
 ### General shader tutorials
 *AKA not related to Rain World*
 

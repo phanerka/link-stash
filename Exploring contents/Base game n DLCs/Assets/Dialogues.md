@@ -41,10 +41,10 @@ and launch the game.
 Once the game is loaded, the files put in that path will be converted.
 
 >[!warning] Warning on encryption/decryption feature
-> Files in `text` folder will be read and converted but folders in `text` folder with files inside *will not*.
+> Files in `text` folder will be read and converted but subfolders with contents *will not*.
 
 #### Via Decryptor mod
->[!warning] Luckily the mod still works. But once it doesn't, please don't ask the author to update them!
+>[!warning] The mod might not work anymore; I didn't check recently. If it doesn't, please don't ask the author to update them!
 
 %% TODO:: okay it might NOT work anymore. its bricking my linux system now lmao %%
 

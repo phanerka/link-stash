@@ -19,11 +19,24 @@ https://docs.unity3d.com/2020.3/Documentation/Manual/PlayerCommandLineArguments.
 # Unity boot configuration file
 `boot.config`
 
-%%
-There's no documentation on it :WHEEZE:
+There's no documentation on the file, as it's not intended to be edited; however, here's a list of settings that might come in handy. 
 
-but im assuming that it can accept:
-- command line arguments
-- project settings
+```
+Require value; require Debug build to work
+"wait-for-managed-debugger" WaitForManagedDebugger
+"wait-for-pix-timing-capture" WaitForPixTimingCapture
+"player-connection-debug" AllowDebugging
+"player-connection-multicast" AllowMulticasting
+"player-connection-allow-pause" AllowPause
+"player-connection-ip" ConnectIP
+"player-connection-mode" ConnectionMode
+"player-connection-name" ConnectionName
+"player-connection-guid" EditorGUID
+"player-connection-listen-address" ListenIp
+"player-connection-project-name" ProjectName
 
-%%
+Require no value
+"headless"
+"single-instance"
+"nolog"
+```
