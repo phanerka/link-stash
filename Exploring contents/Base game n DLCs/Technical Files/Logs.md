@@ -1,4 +1,4 @@
-yeah i blatantly stole descs from ;allthelogs pls spare me
+%% yeah i blatantly stole descs from ;allthelogs pls spare me %%
 > [!warning] All logs are cleared on game restart. Make sure to save them in time.
 > Another option is to install [LogManager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069) mod and configure it. It also changes logs' locations to `idk i forgor`, however.
 

@@ -1,6 +1,7 @@
-Map image
+%%
+# Map image
 consists of 3 layers with same size.
-
+%%
 # Map_xx.txt
 Starts with region name:
 *Identifies position of said room.*
