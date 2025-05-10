@@ -1,5 +1,6 @@
 #docs
-> [!watcher] *Contains Watcher spoilers.*
+> [!watcher] Contains Watcher content.
+> It can be hidden by picking vanilla and Downpour tags only.
 
 Contains all base game & DLCs dialogues with additional information attached:
 - (if exist) conditions for dialogue to be triggered

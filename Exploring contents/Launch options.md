@@ -4,7 +4,7 @@ draft: true
 # Game configuration
 
 If certain files exist in game folder, it's possible to *temporarily* unlock some features.
-Have to be located in `Rain World/RainWorld_Data/StreamingAssets/` (or in subfolder, if specified)
+Have to be located in `Rain World\RainWorld_Data\StreamingAssets\` (or in subfolder, if specified)
 
 There are 2 types:
 - proper file name (sometimes with proper contents)
@@ -17,7 +17,7 @@ There are 2 types:
 https://docs.unity3d.com/2020.3/Documentation/Manual/PlayerCommandLineArguments.html
 
 # Unity boot configuration file
-`boot.config`
+`Rain World\RainWorld_Data\boot.config`
 
 There's no documentation on the file, as it's not intended to be edited; however, here's a list of settings that might come in handy. 
 
