@@ -1,4 +1,10 @@
 *While DW doesn't do much on it's own (feature-wise, just shows [[Logs#exception log|exception log]] in game), it allows [[DNSpy#Attaching|DNSpy]] and [[Visual Studio 20xx|Visual Studio]] to attach to the game. More info on respective pages.*
+
+> [!info] Personal thoughts
+> It's your choice whether you want to do it or not.
+ >
+> Personally I advise to set it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.
+> But Debug World is proven to be problematic with *any* enabled mod that has custom region and sometimes is hard to attach to. I have seen numerous people fail to make attaching work; if it fails for you too, then know you're not the only one and I'm sorry.
 # Installing
 
 Just unzip the files and replace them in RW game folder.

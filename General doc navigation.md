@@ -5,8 +5,6 @@
 > - Watcher update broke majority of mods. While it's usually easy to fix them, it will take time for them all to be fixed.
 > 	Broken mods are crossed out, like ~~this~~.
 
-
-
 Navigation on `Lediting` folder: [[Lediting/index|here]]
 Navigation on `Coding` folder: [[Coding/index|here]]
 
@@ -63,3 +61,27 @@ For the sake of convenience, every discord server channel has got both links for
 it's your choice what link to use.
 
 For servers names abbreviation explanations, refer to [[Source#Discord servers|this]].
+
+# FAQ
+ *"Why download links are looking weird?"*
+ Discord download links are bad, since they expire after a short amount of time.
+ I upload the files *only* to storage provided for the website and *never* tweak files with malicious intent. In case of concern, it's always possible to 
+	 a) download files from source messages attached to them
+	 b) make the file on your own using the guides I attach. 
+If it becomes impossible to download some file, please let me know.
+
+*"Moving to Wiki?"*
+Refer to the bottom of [[Credits n legal stuff#Repo modification & distribution|this]] header.
+
+*"Moving to `github.io`"*?
+idk tbh. Originally I got to Vercel because 
+- uh.... it was top method in a guide for website deployment
+- I needed to privately share the website, since I was afraid of getting backlash because I put the links before asking for permission.
+And when I went to public... idk... there's no reason to move to Github, really. Also, would have to think of unused nice and short username for good link.
+
+*"Cookies? Analytics?"*
+No. Disabled. Idc at all.
+There's too little info stored locally, only "what checkboxes are checked" and "the structure of website".
+
+*"Why can't I find the website on Google / DuckDuckGo / any other search engine?"*
+Web crawlers are forbidden from visiting this website, as it contains a lot of sensitive info.

@@ -32,6 +32,6 @@ honestly I would leave it disabled and install mergefix though
 Refer to [[Launch options]].
 
 ### Coding tips
-- for mod compatibility, class creation > hook creation
+%%- for mod compatibility, class creation > hook creation%%
 - no base code yoinking. if ya need to change a single line in the function, check out IL hooking
 - For IL hooking: [[! Modifying game logic#Guidelines|guidelines]]

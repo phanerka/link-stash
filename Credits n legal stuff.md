@@ -5,7 +5,7 @@ Note that website code *itself* retains Quartz license aka MIT license.
 # Legal disclaimer in legal thingies
 Everything provided here is intended *only* for academic purposes. It's okay to make *free* RW mods based on given knowledge BUT everything else requires permission from respective owners of said resources.
 # Repo modification & distribution
-The documentation itself is under `CC-BY-SA 4.0` license.
+The documentation itself is under `CC-BY-SA-NC 4.0` license.
 
 legally, VERY short: do tf you want with it (unless stuff is noted with "source"), just please credit me, leave same license, make a note what you changed (on forking) and don't sell it.
 
@@ -43,6 +43,8 @@ What I did:
 and Olly Wood since they're original creators of the font
 
 Huuuuuge and separate thanks to `jonahfagnus` for giving a big feedback on my website 🔥
+
+and thanks to `CaptainRedstone` for sharing experience about starting making code mods!
 
 cursive text is what was used as base and extended
 ## Whose messages were referenced
@@ -205,8 +207,8 @@ Files, guides and just links that were posted in public.
 [KusterdPi](https://www.reddit.com/user/KusterdPi/): depacked v1.5 sprites
 
 ## Special apologies
-TBA TODO
-in case someone wouldn't like their name to be publicly shown
+saltyzean, unlasting, armada, FML, qutzlp and other friends for avoiding to chat / play with for the past... 4.5 months, i think
+(i was hyperfixated on this document)
 ## Special thanks
 notchoc, the foo, uo, henpemaz and the rest of meadow community
 for inspiring me to start ~~doing anything in this life~~ rw modding
